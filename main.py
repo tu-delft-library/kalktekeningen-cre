@@ -4,6 +4,15 @@ import re
 import requests
 from pathlib import Path
 import json
+from collections import OrderedDict
+
+def ordered(d, desired_key_order):
+    return OrderedDict([(key, d[key]) for key in desired_key_order])
+
+# Disired key order for .json file
+desired_key_order = ("@context", "@id", "@type", "label", "metadata", "structures", "sequences")
+
+
 
 df_kalktekening = pd.read_csv('input/kalktekeningen-compleet.csv', delimiter=';')
 df_GMS_meta = pd.read_excel('input/scans_GMS_metadata_1.4.xlsx', header=0)
@@ -11,7 +20,7 @@ df_gebouw = pd.read_excel('input/Overzicht uitgegeven gebouwnummers 20-06-2017.x
 
 # Base urls
 dlcs_base = "https://dlc.services/iiif-resource/7/string1string2string3/{}/{}"
-base_ref_id = "https://tu-delft-library.github.io/delta-archief/manifests/{}/{}"
+base_ref_id = "https://tu-delft-library.github.io/kalktekeningen-cre/manifests/koker/{}"
 
 koker_groups = df_kalktekening.groupby('Reference2').indices
 
@@ -63,9 +72,7 @@ for i, key in enumerate(koker_groups.keys()):
                                                             'building': koker_dat['Gebouw'].values[0]},
                                                            ignore_index=True)
 
-
-
-        ref_id = base_ref_id.format(ref2, filename)+".json"
+        ref_id = base_ref_id.format(ref2)+".json"
         mani = {"@id": ref_id,
                 "label": koker_dat.iloc[-1]['OMSCHRIJVING'],
                 "@type": "sc:Manifest"}
@@ -86,22 +93,30 @@ for i, key in enumerate(koker_groups.keys()):
                 "value": koker_dat.iloc[0]['Naam koker']
             },
             {
+                "label": "Vertaling naam",
+                "value": koker_dat.iloc[0]['vertaling naam']
+            },
+            {
                 "label": "Gebouw",
                 "value": gebouw_naam
+            },
+            {
+                "label": "Vleugel",
+                "value": koker_dat.iloc[0]['Vleugel']
             }]
 
+    json_manifest['metadata'] = meta
+
+
     # Insert data into collection manifest
-    json_out = {"label": ref2,
-                "metadata": meta,
-                "@id": base_ref_id.format(ref2, ref2),
-                "@type": "sc:Collection",
-                "@context": "http://iiif.io/api/presentation/2/context.json",
-                "manifests": manifests}
+    # json_out = {"label": ref2,
+    #             "metadata": meta,
+    #             "@id": base_ref_id.format(ref2, ref2),
+    #             "@type": "sc:Collection",
+    #             "@context": "http://iiif.io/api/presentation/2/context.json",
+    #             "manifests": manifests}
 
-    json_year = json.dumps(json_out, indent=8)
-    # Path("manifests/" + ref2).mkdir(parents=True, exist_ok=True)
-    # with open("manifests/" + ref2 + "/" + ref2 + ".json", "w") as outfile:
-    #     outfile.write(json_year)
-
-
-
+    json_year = json.dumps(json_manifest, indent=8)
+    Path("manifests/koker").mkdir(parents=True, exist_ok=True)
+    with open("manifests/koker/" + ref2 + ".json", "w") as outfile:
+        outfile.write(json_year)
