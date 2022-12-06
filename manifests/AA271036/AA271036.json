@@ -1,0 +1,72 @@
+{
+        "label": "AA271036",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA271036"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Bewaken Geodesie mooi"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Gebouw Kanaalweg 4"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271036/AA271036",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271036/1(1).json",
+                        "label": "PLATTEGROND GEVEL EN DOORSNEDE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271036/1(2).json",
+                        "label": "GEBOUW VOOR GEODESIE TE DELFT HEIPLAN EN HOUTEN FUNDERING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271036/2.json",
+                        "label": "GEBOUW VOOR GEODESIE TE DELFT HEIPLAN EN HOUTEN FUNDERING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271036/3.json",
+                        "label": "GEBOUW VOOR GEODESIE TE DELFT HEIPLAN EN HOUTEN FUNDERING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271036/4.json",
+                        "label": "GEBOUW VOOR GEODESIE TE DELFT HEIPLAN EN HOUTEN FUNDERING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271036/6.json",
+                        "label": "GEBOUW VOOR GEODESIE TE DELFT HEIPLAN EN HOUTEN FUNDERING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271036/7.json",
+                        "label": "GEBOUW VOOR GEODESIE TE DELFT HEIPLAN EN HOUTEN FUNDERING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271036/9.json",
+                        "label": "GEBOUW VOOR GEODESIE TE DELFT HEIPLAN EN HOUTEN FUNDERING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271036/10.json",
+                        "label": "GEBOUW VOOR GEODESIE TE DELFT HEIPLAN EN HOUTEN FUNDERING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271036/11.json",
+                        "label": "GEBOUW VOOR GEODESIE TE DELFT HEIPLAN EN HOUTEN FUNDERING",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

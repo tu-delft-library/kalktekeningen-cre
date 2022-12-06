@@ -1,0 +1,137 @@
+{
+        "label": "AA270872",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA270872"
+                },
+                {
+                        "label": "Koker",
+                        "value": "W en S Sleeptank"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Werktuigbouwkunde, Maritieme Techniek, Technische Materiaalwetenschappen (3mE)"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270872/AA270872",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270872/506-424.json",
+                        "label": "UITBREIDING SLEEPTANKGEBOUW 506 EN BOUW CANTINE 464",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270872/506-D-2_1.json",
+                        "label": "BETONCONSTRUCTIE KELDER EN BEGANE GROND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270872/506-D-2_2.json",
+                        "label": "BETONCONSTRUCTIE KELDER EN BEGANE GROND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270872/506-D-3.json",
+                        "label": "BALKEN 1 TM 15 KESPEN KELDER",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270872/506-D-4.json",
+                        "label": "BALKEN 16 TM 31 BEGANE GROND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270872/506-D-6.json",
+                        "label": "LUIKEN BEGANE GROND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270872/506-D-7_1.json",
+                        "label": "WANDEN I TM IV",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270872/506-D-7_2.json",
+                        "label": "WANDEN I TM IV",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270872/506-D-8.json",
+                        "label": "WANDEN V, VI, VIII, IX EN KOLOMMEN TUSSEN KELDER EN BEGANE GROND WAND VII REMPUT",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270872/506-D-9.json",
+                        "label": "STEKEINDEN KELDER EN BEG. GR.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270872/506-D-10.json",
+                        "label": "TRAPPEN EN BORDESSEN VAN 336 5 \u2013 TM 51 8 +",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270872/506-D-11.json",
+                        "label": "KESP ONDER SLEEPTANK",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270872/506-D-21_1.json",
+                        "label": "PLATTEGROND 1E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270872/506-D-21_2.json",
+                        "label": "PLATTEGROND 1E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270872/506-D-22.json",
+                        "label": "BALKEN 1 TM 20 1E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270872/506-S-1.json",
+                        "label": "BESTEKTEKENING PLATTEGRONDEN SLEEPTANK GEBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270872/506-S-2.json",
+                        "label": "BESTEKTEKENING DOORSNEDEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270872/506-S-4.json",
+                        "label": "AANSLUITING NIEUW-BESTAAND BESTEKTEKENING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270872/506-SB-1.json",
+                        "label": "PLATTEGRONDEN EN DOORSNEDEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270872/506-SB-2.json",
+                        "label": "GEVELS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270872/506-SB-3.json",
+                        "label": "DETAILS VAN GEVELS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270872/506-SB-4.json",
+                        "label": "BESTAANDE GEDEELTE MET VERBOUWINGEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270872/506-SB-5.json",
+                        "label": "LUIKEN EN VLOEROMRANDINGEN",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

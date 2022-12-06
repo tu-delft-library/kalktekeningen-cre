@@ -1,0 +1,162 @@
+{
+        "label": "AA270964",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA270964"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Technische mechanica"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Industrieel Ontwerpen (IO)"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270964/AA270964",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270964/614-D-1-1-SP-3.json",
+                        "label": "1E VERDIEPING AFGEWERKTE VLOER is 5,25+P",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270964/614-D-1-1(1).json",
+                        "label": "PLATTEGROND 1E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270964/614-D-1-1(2).json",
+                        "label": "PLATTEGROND 1E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270964/614-D-1-2.json",
+                        "label": "1E VERDIEPING BALKEN 1 TM 21",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270964/614-D-1-3.json",
+                        "label": "1E VERDIEPING BALKEN 22 TM 31",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270964/614-D-1-4.json",
+                        "label": "WANDEN VAN 1E VERD.-2E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270964/614-D-1-5.json",
+                        "label": "KOLOMMEN VAN 522+ TOT 872+",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270964/614-D-2-1-WAP.json",
+                        "label": "PLATTEGROND 2E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270964/614-D-2-1(1).json",
+                        "label": "PLATTEGROND 2E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270964/614-D-2-1(2).json",
+                        "label": "PLATTEGROND 2E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270964/614-D-2-2.json",
+                        "label": "2E VERDIEPING BALKEN 1 TM 24",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270964/614-D-2-3.json",
+                        "label": "2E VERDIEPING BALKEN 25 TM 35",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270964/614-D-2-5.json",
+                        "label": "KOLOMMEN VAN 2E VERDIEPING TOT DAK",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270964/614-D-B6.json",
+                        "label": "WANDEN VAN 5- TOT 522+ WANDEN OP MOD 33 TUSSEN MOD X-Y EN TRAP",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270964/614-D-B7.json",
+                        "label": "KOLOMMEN 5- TOT 522+",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270964/614-D-B8.json",
+                        "label": "BETONBALK BOVEN TE MAKEN OPENING IN DE BESTAANDE METSELWERKWAND NAAST MOD. 22",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270964/614-D-D1 .json",
+                        "label": "BETONBALK BOVEN TE MAKEN OPENING IN DE BESTAANDE METSELWERKWAND NAAST MOD. 22",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270964/614-D-D1-SPAR.json",
+                        "label": "PLATTEGROND DAK",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270964/614-D-D1-WAP.json",
+                        "label": "PLATTEGROND DAK",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270964/614-D-D2.json",
+                        "label": "DAK BALKEN 1 TM 12",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270964/614-D-D3.json",
+                        "label": "DAK BALKEN 13 TM 23",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270964/614-S-1.json",
+                        "label": "UITBREIDING PALENPLAN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270964/614-S-2.json",
+                        "label": "UITBREIDING KELDER",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270964/614-S-3.json",
+                        "label": "UITBREIDING BEGANE GROND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270964/614-S-4.json",
+                        "label": "UITBREIDING 1E VERDIEPING, 2E VERDIEPING DAK",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270964/614-S-5.json",
+                        "label": "UITBREIDING DOORSNEDE A-A, B-B, C-C EN D-D",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270964/614-SS-1(1).json",
+                        "label": "UITBREIDING STAALCONSTRUCTIE HALLEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270964/614-SS-1(2).json",
+                        "label": "UITBREIDING STAALCONSTRUCTIE HALLEN",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

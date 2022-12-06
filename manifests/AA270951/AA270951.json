@@ -1,0 +1,122 @@
+{
+        "label": "AA270951",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA270951"
+                },
+                {
+                        "label": "Koker",
+                        "value": "IWECO"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Werktuigbouwkunde, Maritieme Techniek, Technische Materiaalwetenschappen (3mE)"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270951/AA270951",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270951/613-DB-48.json",
+                        "label": "PLAFONDS LAAGBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270951/613-DB-49.json",
+                        "label": "PLAFOND 1E VERDIEPING HOOGBOUW OVERZICHT",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270951/613-DB-50.json",
+                        "label": "BEVESTIGING GEVELPLAAT T.A.V. DILATATIEVOEG",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270951/613-DB-51.json",
+                        "label": "LEIDINGKOKERS IN GANGEN HOOGBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270951/613-DB-52.json",
+                        "label": "LEIDINGKOKERS IN GANGEN HOOGBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270951/613-DB-53.json",
+                        "label": "MUURAFDEKKING GANGWAND HOOGBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270951/613-DB-54.json",
+                        "label": "GANGWANDEN HOOGBOUW MET DOORSNEDE EN LEIDINGVERLOOP",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270951/613-DB-55.json",
+                        "label": "HOUTEN LEIDINGKASTJES INGEBOUWD IN WAND BIJ MODUUL B",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270951/613-DB-56.json",
+                        "label": "SANITAIRSTAAT",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270951/613-DB-57.json",
+                        "label": "VENSTERBANK MET CONVECTORKAST",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270951/613-DB-58.json",
+                        "label": "LIFTMACHINEKAMER",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270951/613-DB-59.json",
+                        "label": "INDELINGEN RUIMTEN 05, 026 EN 026A",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270951/613-DB-60.json",
+                        "label": "LEIDINGSCHACHTEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270951/613-DB-61.json",
+                        "label": "LEIDINGSCHACHTEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270951/613-DB-62.json",
+                        "label": "IWECO-SCHACHTEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270951/613-DB-63.json",
+                        "label": "LEIDINGSCHACHTEN DETAILS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270951/613-DB-64.json",
+                        "label": "GASCYLINDERBERGING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270951/613-DB-65.json",
+                        "label": "ALUMINIUM GEVELBEKLEDING TIJDELIJKE EINDWAND-ZUIDGEVEL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270951/613-DB-66.json",
+                        "label": "PLAFOND 2E VERDIEPING HOOGBOUW OVERZICHT",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270951/613-DB-67.json",
+                        "label": "PLAFOND 3E VERDIEPING HOOGBOUW OVERZICHT",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

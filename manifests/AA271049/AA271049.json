@@ -1,0 +1,42 @@
+{
+        "label": "AA271049",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA271049"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Civile techniek Waterbouwkundig LAB"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Civiele Techniek en Geowetenschappen (CiTG)"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271049/AA271049",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271049/D10(1).json",
+                        "label": "WATERBOUWKUNDIG LABORATORIUM BESTEKTEKENING PLATTEGRONDEN BEG.GROND, 1E VERD. DOORSNEDE F-F",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271049/D10(2).json",
+                        "label": "WATERBOUWKUNDIG LABORATORIUM BESTEKTEKENING PLATTEGRONDEN BEG.GROND, 1E VERD. DOORSNEDE F-F",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271049/D11(1).json",
+                        "label": "WATERBOUWKUNDIG LABORATORIUM BESTEKTEKENING PLATTEGROND GALERIJ EN DOORSNEDEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271049/D11(2).json",
+                        "label": "WATERBOUWKUNDIG LABORATORIUM BESTEKTEKENING PLATTEGROND GALERIJ EN DOORSNEDEN",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

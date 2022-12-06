@@ -1,0 +1,117 @@
+{
+        "label": "AA271091",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA271091"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Elektrotechniek architect dubbel"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Elektrotechniek, Wiskunde en Informatica (EWI)"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271091/AA271091",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271091/500-SB-HB-A-10.json",
+                        "label": "HOOGBOUW PLAFONDS BEGANEGROND 1E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271091/500-SB-HB-A-12.json",
+                        "label": "HOOGBOUW DOORSNEDE KANTINE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271091/500-SB-HB-A-13.json",
+                        "label": "HOOGBOUW DOORSNEDE GEVEL EN DAKRAND 21E 22E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271091/500-SB-HB-A-14.json",
+                        "label": "HOOGBOUW PLATTEGRONDEN TRAPPENHUIS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271091/500-SB-HB-A-15.json",
+                        "label": "HOOGBOUW DOORSNEDEN TRAPPENHUIS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271091/500-SB-HB-A-16.json",
+                        "label": "HOOGBOUW DIVERSE DETAILS DAKRANDEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271091/500-SB-HB-A-18(1).json",
+                        "label": "HOOGBOUW DOORSNEDE BORSTWERING BINNENPUI",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271091/500-SB-HB-A-18(2).json",
+                        "label": "HOOGBOUW DOORSNEDE BORSTWERING BINNENPUI",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271091/500-SB-HB-A-19.json",
+                        "label": "HOOGBOUW PRINCIPE GANGPUI MET DEURKOZIJN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271091/500-SB-HB-A-20.json",
+                        "label": "HOOGBOUW PLAATSTALEN VENTILATIEBLOK",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271091/500-SB-HB-A-24.json",
+                        "label": "HOOGBOUW PRINCIPEDETAILS PLAATSTALEN BINNENDEURKOZIJNEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271091/500-SB-HB-A-25.json",
+                        "label": "PRINCIPE PLAFONDINDELING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271091/500-SB-HB-A-27.json",
+                        "label": "HOOGBOUW DILATATIEVOEGEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271091/500-SB-HB-A-28.json",
+                        "label": "HOOGBOUW TOILETGROEP VERDIEPINGEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271091/500-SB-HB-A-29.json",
+                        "label": "VERBINDINGSGANG HOOGBOUW LAGE VOORBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271091/500-SB-HB-A-30.json",
+                        "label": "TERREIN GEGEVENS BESTAANDE TOESTAND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271091/500-SB-HB-A-31.json",
+                        "label": "HOOGBOUW TRAPPEN MET DETAILS EN PLATTEGRONDEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271091/500-SB-HB-A-32.json",
+                        "label": "HOOGBOUW VENT. KAP BIJ COLLEGEZ.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271091/500-SB-HB-A-36.json",
+                        "label": "HOOGBOUW PRINCIPE VELUM IN GANG",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

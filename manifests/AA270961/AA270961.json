@@ -1,0 +1,107 @@
+{
+        "label": "AA270961",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA270961"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Hoofdgebouw RGD Constructie tekeningen"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Bouwkunde (BK)"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270961/AA270961",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270961/A41.json",
+                        "label": "2E VERDIEPING VLEUGEL 1",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270961/A42.json",
+                        "label": "2E VERDIEPING VLEUGEL 1",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270961/A43.json",
+                        "label": "2E VERDIEPING VLEUGEL 2",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270961/A44.json",
+                        "label": "2E VERDIEPING VLEUGEL 3",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270961/A45.json",
+                        "label": "2E VERDIEPING VLEUGEL 4 EN 6",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270961/A46.json",
+                        "label": "2E VERDIEPING VLEUGEL 5",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270961/A47.json",
+                        "label": "2E VERDIEPING VLEUGEL 7",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270961/A48.json",
+                        "label": "2E VERDIEPING VLEUGEL 8 EN 11",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270961/A49.json",
+                        "label": "2E VERDIEPING VLEUGEL 9",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270961/A50.json",
+                        "label": "2E VERDIEPING VLEUGEL 10",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270961/A51.json",
+                        "label": "2E VERDIEPING VLEUGEL 10",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270961/A52.json",
+                        "label": "2E VERDIEPING VLEUGEL 10",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270961/A53.json",
+                        "label": "2E VERDIEPING VLEUGEL 6 EN 9",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270961/A54.json",
+                        "label": "2E VERDIEPING VLEUGEL 6 EN 9",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270961/A55.json",
+                        "label": "2E VERDIEPING VLEUGEL 12",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270961/A56.json",
+                        "label": "2E VERDIEPING VLEUGEL 12",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270961/A57.json",
+                        "label": "2E VERDIEPING VLEUGEL 12",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

@@ -1,0 +1,212 @@
+{
+        "label": "AA270975",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA270975"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Hoofdgebouw RGD constructief Legger 3"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Science Centre Delft"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270975/AA270975",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270975/7.json",
+                        "label": "GEEN OMSCHRIJVING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270975/10.json",
+                        "label": "GEEN OMSCHRIJVING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270975/11.json",
+                        "label": "GEEN OMSCHRIJVING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270975/37.json",
+                        "label": "GEEN OMSCHRIJVING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270975/50.json",
+                        "label": "GEEN OMSCHRIJVING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270975/C39.json",
+                        "label": "VOEGCONSTRUCTIE TUSSEN DE VLEUGELS 3 EN 6",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270975/C41.json",
+                        "label": "BALK 149B EN 149H IN VLEUGEL 1",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270975/C43.json",
+                        "label": "BALKEN 71 VLEUGEL 10 2E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270975/C45.json",
+                        "label": "BALK 77 VLEUGEL 10 2E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270975/C47.json",
+                        "label": "BALK 54 VLEUGEL 8 2E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270975/C47A.json",
+                        "label": "BALK OP 2E VERDIEPING TUSSEN DE BALKEN 54 IN VLEUGEL 8",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270975/C47B.json",
+                        "label": "DETAIL VERANKERING KABELS VAN BALK OP DE 2E VERD TUSSEN BALKEN 54 VLEUGEL 8",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270975/C48.json",
+                        "label": "BALK BIJ TOILETTENGROEP IN VLEUGEL 5 2E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270975/C49(1).json",
+                        "label": "MACHINEKAMER EN LATEIEN VOOR LIFTSCHACHT IN VL. 6",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270975/C49(2).json",
+                        "label": "MACHINEKAMER EN LATEIEN VOOR LIFTSCHACHT IN VL. 6",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270975/C51.json",
+                        "label": "BALK 10 VLEUGEL 9 2E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270975/C52.json",
+                        "label": "TRAPPENHUIS, GARDEROBES EN BODENKAMERS IN VLEUGEL 6",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270975/C53.json",
+                        "label": "VERSTERKING BALKEN 149B EN 149J VLEUGEL 2",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270975/C54.json",
+                        "label": "VERSTERKING VAN DE WANDEN VOORSTEL A",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270975/C55(1).json",
+                        "label": "VERSTERKING VAN DE WANDEN VOORSTEL B",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270975/C55(2).json",
+                        "label": "VERSTERKING VAN DE WANDEN VOORSTEL B",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270975/C56.json",
+                        "label": "BEPROEVING VAN DE HECHTING VAN EEN LAAG SPUITBETON OP BESTAANDE GEW. BETONVLOEREN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270975/C56A(1).json",
+                        "label": "VLOERVERSTERKING 2E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270975/C56A(2).json",
+                        "label": "VLOERVERSTERKING 2E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270975/C57.json",
+                        "label": "BALK 6.2 TUSSEN VLEUGEL 6 EN 7",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270975/C58.json",
+                        "label": "STEMPELEN EN SLOPEN VOOR TRAPPENHUIS VLEUGEL 6",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270975/C59.json",
+                        "label": "STEMPELEN SLOOPWERK VOOR TRAPPENHUIS VLEUGEL 6",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270975/C60.json",
+                        "label": "VERANKERING STALEN SPANTEN OP DE VLOEREN VAN ZOLDERS VLEUGEL 10 \u2013 VOETEN A EN H",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270975/C61.json",
+                        "label": "VERVANGEN EN VERANKEREN SPANTVOETEN B OP ZOLDERS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270975/C62.json",
+                        "label": "VERVANGEN EN VERANKEREN STALEN SPANTVOETEN C-D-E-F EN G VLEUGEL 10",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270975/C63.json",
+                        "label": "KELDERVLOER + KOLOM IN TRAPPENHUIS VLEUGEL 6",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270975/C64.json",
+                        "label": "STALEN BALKJE IN COLLEGEZAAL VLEUGEL 6",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270975/C65.json",
+                        "label": "SKELET TRAPPENHUIS IN VLEUGEL 6",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270975/C66.json",
+                        "label": "SKELET TRAPPENHUIS VL. 6 BALKEN 2 EN 5 + KOLOMMEN 1E EN 2E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270975/GEEN TEKENINGNUMMER.json",
+                        "label": "GEBOUW VOOR DE BOUWKUNDIGE AFDEELING BLAD NO. 6",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270975/GEEN TEKENINGNUMMER(1).json",
+                        "label": "GEBOUW VOOR DE BOUWKUNDIGE AFDEELING BLAD NO. 4",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270975/GEEN TEKENINGNUMMER(2).json",
+                        "label": "GEBOUW VOOR DE BOUWKUNDIGE AFDEELING BLAD NO. 5",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270975/GEEN TEKENINGNUMMER(3).json",
+                        "label": "GEBOUW VOOR DE BOUWKUNDIGE AFDEELING BLAD NO. 8",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

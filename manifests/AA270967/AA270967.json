@@ -1,0 +1,137 @@
+{
+        "label": "AA270967",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA270967"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Technische mechanica "
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Industrieel Ontwerpen (IO)"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270967/AA270967",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270967/614-DB-1R.json",
+                        "label": "KELDERPLAN REVISIETEKENING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270967/614-DB-2R.json",
+                        "label": "BEGANE GROND REVISIETEKENING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270967/614-DB-3R.json",
+                        "label": "PLATTEGROND 1E EN 2E VERDIEPING REVISIETEKENING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270967/614-DB-17.json",
+                        "label": "PLATTEGROND LAB. BEDRIJFSMECHANISATIE RUIMTE 045A",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270967/614-DB-18.json",
+                        "label": "WANDEN OP MOD. 22 EN BIJ MOD. 27",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270967/614-DB-19.json",
+                        "label": "WANDEN OP MOD. 31 EN BIJ MOD. 27",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270967/614-DB-20.json",
+                        "label": "WANDEN OP MOD. Q, U* EN AA",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270967/614-DB-22.json",
+                        "label": "GEWIJZIGD ONDERDETAIL MERK N IV VAN HEYST TEK NO 20B",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270967/614-DB-23.json",
+                        "label": "DAKKAPPEN LUCHTBEHANDELING BOVEN DE HALLEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270967/614-DB-24.json",
+                        "label": "AANSLUITING BESTAANDE DAKRAND TEGEN NOORDGEVEL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270967/614-DB-26.json",
+                        "label": "ZUIDGEVELAANSLUITING AAN BESTAAND GEBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270967/614-DB-27.json",
+                        "label": "PRINCIPEDETAIL ZUIL AANSLUITKASTJE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270967/614-DB-28.json",
+                        "label": "WANDEN EN PLAFOND COMPRESSORRUIMTE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270967/614-DB-29.json",
+                        "label": "COLLOQUIUMZAAL MET LUCHTBEHANDELING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270967/614-DB-30.json",
+                        "label": "AFDICHTINGSLUIKJES LANGS BLOK IV RUIMTE 046",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270967/614-DB-31.json",
+                        "label": "AANRECHT RUIMTE 045 \u2013 WERKTUIGEN GRONDVERZET",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270967/614-DB-32.json",
+                        "label": "COLLOQUIUMZAAL VERDUISTERING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270967/614-DB-33.json",
+                        "label": "ONDERSTEUNING ROESTVRIJSTALEN BAL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270967/614-DB-34.json",
+                        "label": "OMTIMMERING KANAAL COLLOQUIUMZAAL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270967/614-DB-35.json",
+                        "label": "VOUWWAND COLLOQIUMZAAL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270967/614-DB-36.json",
+                        "label": "OOSTWAND RUIMTEN 041 TM 043",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270967/614-DB-37.json",
+                        "label": "ZUURSTOFKAST",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270967/614-DS-1.json",
+                        "label": "BESTAANDE BEBOUWING BIJ AANSLUITING KRAANBAAN",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

@@ -1,0 +1,122 @@
+{
+        "label": "AA270898",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA270898"
+                },
+                {
+                        "label": "Koker",
+                        "value": "W en S"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Werktuigbouwkunde, Maritieme Techniek, Technische Materiaalwetenschappen (3mE)"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270898/AA270898",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270898/19.json",
+                        "label": "RIOLERING MIDDENBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270898/R120.json",
+                        "label": "REVISIETEKENING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270898/R121.json",
+                        "label": "REVISIETEKENING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270898/R122.json",
+                        "label": "REVISIETEKENING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270898/R123.json",
+                        "label": "REVISIETEKENING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270898/R124.json",
+                        "label": "REVISIETEKENING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270898/R125.json",
+                        "label": "REVISIETEKENING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270898/R126.json",
+                        "label": "REVISIETEKENING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270898/R127.json",
+                        "label": "REVISIETEKENING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270898/R128.json",
+                        "label": "REVISIETEKENING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270898/R129.json",
+                        "label": "REVISIETEKENING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270898/R130.json",
+                        "label": "REVISIETEKENING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270898/R131.json",
+                        "label": "REVISIETEKENING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270898/R132.json",
+                        "label": "REVISIETEKENING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270898/R133.json",
+                        "label": "REVISIETEKENING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270898/R135.json",
+                        "label": "REVISIETEKENING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270898/R136.json",
+                        "label": "REVISIETEKENING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270898/R138.json",
+                        "label": "REVISIETEKENING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270898/R139.json",
+                        "label": "REVISIETEKENING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270898/R190.json",
+                        "label": "REVISIETEKENING",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

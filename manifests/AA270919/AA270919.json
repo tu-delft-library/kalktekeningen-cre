@@ -1,0 +1,97 @@
+{
+        "label": "AA270919",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA270919"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Terrein"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "TR"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270919/AA270919",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270919/01b.json",
+                        "label": "PLATTEGROND TU-WIJK",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270919/825-200.json",
+                        "label": "TU-DELFT ONTWERP",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270919/GEEN TEKENINGNUMMER.json",
+                        "label": "GEEN OMSCHRIJVING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270919/GEEN TEKENINGNUMMER(1).json",
+                        "label": "CONCEPT VSO",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270919/GEEN TEKENINGNUMMER(2).json",
+                        "label": "CONCEPT VSO",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270919/GEEN TEKENINGNUMMER(3).json",
+                        "label": "CONCEPT VSO",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270919/GEEN TEKENINGNUMMER(4).json",
+                        "label": "CONCEPT VSO",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270919/GEEN TEKENINGNUMMER(5).json",
+                        "label": "CONCEPT VSO",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270919/GEEN TEKENINGNUMMER(6).json",
+                        "label": "CONCEPT VSO",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270919/GEEN TEKENINGNUMMER(7).json",
+                        "label": "ZUIDVLEUGELKAART",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270919/GEEN TEKENINGNUMMER(8).json",
+                        "label": "ZUIDVLEUGELKAART",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270919/GEEN TEKENINGNUMMER(9).json",
+                        "label": "GEEN OMSCHRIJVING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270919/GEEN TEKENINGNUMMER(10).json",
+                        "label": "GEEN OMSCHRIJVING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270919/GEEN TEKENINGNUMMER(11).json",
+                        "label": "GEEN OMSCHRIJVING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270919/Geen.json",
+                        "label": "ONTWIKKELINGENKAART",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

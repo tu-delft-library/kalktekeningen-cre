@@ -1,0 +1,72 @@
+{
+        "label": "AA271070",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA271070"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Windtunnel uitbreiding"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Lage Snelheden Laboratorium / VSSD / Inholland"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271070/AA271070",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271070/1368-VB-22.json",
+                        "label": "BOVENZIJDE ROOKTUNNEL MET LIFTMACHINEKAMER",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271070/1368-VB-23.json",
+                        "label": "DWARSDOORSNEDE MACHINEKAMER ROOKTUNNEL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271070/1368-VB-24.json",
+                        "label": "SITUATIE MET PARKEERPLAATSEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271070/1368-VB-25.json",
+                        "label": "MOGELIJKHEUD TOT PLAATSING BAFFLERS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271070/1368-VB-26.json",
+                        "label": "ZUIDGEVEL HOOGBOUW MET OPSCHRIFT",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271070/1368-VB-27.json",
+                        "label": "OPSCHRIFTEN OP VLIEGTUIGHAL EN LABORATORIUM VOOR HOGE SNELHEDEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271070/1368-VB-100.json",
+                        "label": "GEEN OMSCHRIJVING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271070/B8.json",
+                        "label": "WERKTEKENING BEGANEGROND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271070/B9.json",
+                        "label": "WERKTEKENING 1E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271070/B10.json",
+                        "label": "WERKTEKENING 2E VERDIEPING",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

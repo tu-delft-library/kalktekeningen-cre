@@ -1,0 +1,142 @@
+{
+        "label": "AA270940",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA270940"
+                },
+                {
+                        "label": "Koker",
+                        "value": "W en S Sleeptank"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Werktuigbouwkunde, Maritieme Techniek, Technische Materiaalwetenschappen (3mE)"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270940/AA270940",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270940/27.json",
+                        "label": "WIJZIGING VD FUNDERING VH SLEEPTANKGEBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270940/28.json",
+                        "label": "WIJZIGING VD FUNDERING VH SLEEPTANKGEBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270940/39.json",
+                        "label": "WIJZIGING VD FUNDERING VH SLEEPTANKGEBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270940/40.json",
+                        "label": "WIJZIGING VD FUNDERING VH SLEEPTANKGEBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270940/45.json",
+                        "label": "WIJZIGING VD FUNDERING VH SLEEPTANKGEBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270940/47.json",
+                        "label": "WIJZIGING VD FUNDERING VH SLEEPTANKGEBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270940/49.json",
+                        "label": "WIJZIGING VD FUNDERING VH SLEEPTANKGEBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270940/50.json",
+                        "label": "WIJZIGING VD FUNDERING VH SLEEPTANKGEBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270940/101.json",
+                        "label": "WIJZIGING VD FUNDERING VH SLEEPTANKGEBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270940/102.json",
+                        "label": "WIJZIGING VD FUNDERING VH SLEEPTANKGEBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270940/103.json",
+                        "label": "WIJZIGING VD FUNDERING VH SLEEPTANKGEBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270940/104.json",
+                        "label": "WIJZIGING VD FUNDERING VH SLEEPTANKGEBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270940/106.json",
+                        "label": "WIJZIGING VD FUNDERING VH SLEEPTANKGEBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270940/506-D-23.json",
+                        "label": "1E VERDIEPING BALKEN 21 TM 34",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270940/506-D-25.json",
+                        "label": "1E VERDIEPING BALKEN 50 TM 64",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270940/506-D-26.json",
+                        "label": "TRAPPEN EN BORDESSEN VAN 51 8+ TM 461 6+",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270940/506-D-27.json",
+                        "label": "KOL. A TM AK BEG.GROND TOT 1E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270940/506-D-31(1).json",
+                        "label": "PLATTEGROND DAK EN TUSSENVLOER",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270940/506-D-31(2).json",
+                        "label": "PLATTEGROND DAK EN TUSSENVLOER",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270940/506-D-32.json",
+                        "label": "AANVRAGE VOOR VOORGESP. PREFAB BALKEN DAK",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270940/506-D-33.json",
+                        "label": "DAKBALKEN 1 TM 14",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270940/506-D-34.json",
+                        "label": "DAKBALKEN 15 TM 32 KOLOMMEN AL TM AU VAN 747+",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270940/506-D-35.json",
+                        "label": "BALKEN 6A 6B 6C 14A 14B 14C 33 TM 44 EN WAND I",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270940/506-D-36.json",
+                        "label": "KOLOMMEN TUSSEN 1E VERDIEPING EN DAK",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

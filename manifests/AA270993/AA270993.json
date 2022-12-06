@@ -1,0 +1,37 @@
+{
+        "label": "AA270993",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA270993"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Aero/Hydrod"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Gebouw Rotterdamseweg 145"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270993/AA270993",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270993/73.json",
+                        "label": "HYDRO- EN AERODYNAMICA KELDER",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270993/1183-62.json",
+                        "label": "HYDRO \u2013 EN AERODYNAMICA BEGANE GROND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270993/1183-63.json",
+                        "label": "GEEN OMSCHRIJVING",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

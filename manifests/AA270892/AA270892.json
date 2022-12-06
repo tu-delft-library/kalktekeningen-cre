@@ -1,0 +1,147 @@
+{
+        "label": "AA270892",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA270892"
+                },
+                {
+                        "label": "Koker",
+                        "value": "W en S werkplaatstechniek fase 2"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Industrieel Ontwerpen (IO)"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270892/AA270892",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270892/612-DB-1-1.json",
+                        "label": "PLATTEGROND 1E VERDIEPING DEEL 1",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270892/612-DB-1-2.json",
+                        "label": "PLATTEGROND 1E VERDIEPING DEEL 2",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270892/612-DB-1-3.json",
+                        "label": "PLATTEGROND 1E VERDIEPING DEEL 3",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270892/612-DB-1-4.json",
+                        "label": "DEEL 1 + GEDEELTE 2 PLAFOND 1E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270892/612-DB-1-5.json",
+                        "label": "DEEL 3 + GEDEELTE 2 PLAFOND 1E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270892/612-DB-2-1.json",
+                        "label": "PLATTEGROND 2E VERDIEPING DEEL 1",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270892/612-DB-2-2.json",
+                        "label": "PLATTEGROND 2E VERDIEPING DEEL 2",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270892/612-DB-2-3.json",
+                        "label": "PLATTEGROND 2E VERDIEPING DEEL 3",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270892/612-DB-2-4.json",
+                        "label": "DEEL 1 + GEDEELTE 2 PLAFOND 2E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270892/612-DB-2-5.json",
+                        "label": "DEEL 3 + GEDEELTE 2 PLATTEGROND 2E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270892/612-DB-3-1.json",
+                        "label": "PLATTEGROND 3E VERDIEPING DEEL 1",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270892/612-DB-3-2.json",
+                        "label": "PLATTEGROND 3E VERDIEPING DEEL 2",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270892/612-DB-3-3.json",
+                        "label": "PLATTEGROND 3E VERDIEPING DEEL 3",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270892/612-DB-3-4.json",
+                        "label": "DEEL 1 + GEDEELTE 2 PLAFOND 3E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270892/612-DB-3-5.json",
+                        "label": "DEEL 3 + GEDEELTE 2 PLAFOND 3E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270892/612-DB-4-1.json",
+                        "label": "PLATTEGROND 4E VERDIEPING DEEL 1",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270892/612-DB-4-2.json",
+                        "label": "PLATTEGROND 4E VERDIEPING DEEL 2",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270892/612-DB-4-3.json",
+                        "label": "PLATTEGROND 4E VERDIEPING DEEL 3",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270892/612-DB-4-4.json",
+                        "label": "DEEL 1 + GEDEELTE 2 PLAFOND 4E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270892/612-DB-4-5.json",
+                        "label": "DEEL 3 + GEDEELTE 2 PLAFOND 4E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270892/612-DB-D-1.json",
+                        "label": "LIFTMACHINEKAMER TUSSEN ASSEN Z EN A-A",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270892/612-DB-D-2.json",
+                        "label": "LIFTMACHINEKAMER TUSSEN ASSEN 16 EN 17",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270892/612-DB-D-3.json",
+                        "label": "VERRIJDBARE HIJSBALK NOORDGEVEL NABY AS S",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270892/612-DB-D-4.json",
+                        "label": "LIFTMACHINEKAMER HOOFDTRAP ASSEN 3, 4 EN 5+ A, B, C EN D",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270892/612-DB-D-6.json",
+                        "label": "LICHTKOEPELS MET ROOKAFVOERSPLEET BV BRAND TRAPPENHUIZEN",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

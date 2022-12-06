@@ -1,0 +1,67 @@
+{
+        "label": "AA271054",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA271054"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Civiele techniek stevin 2 bestekstekeningen"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Civiele Techniek en Geowetenschappen (CiTG)"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271054/AA271054",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271054/C10(1).json",
+                        "label": "BESTEKTEKENING PLATTEGROND KELDER",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271054/C10(2).json",
+                        "label": "BESTEKTEKENING PLATTEGROND KELDER",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271054/C11(1).json",
+                        "label": "BESTEKTEKENING PLATTEGROND BEGANEGROND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271054/C11(2).json",
+                        "label": "BESTEKTEKENING PLATTEGROND BEGANEGROND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271054/C12(1).json",
+                        "label": "BESTEKTEKENING PLATTEGROND 1E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271054/C12(2).json",
+                        "label": "BESTEKTEKENING PLATTEGROND 1E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271054/C13(1).json",
+                        "label": "BESTEKTEKENING PLATTEGROND DAK + GED. T.P.V. LIFTMACH. EN LUCHT BEH.RMT",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271054/C13(2).json",
+                        "label": "BESTEKTEKENING PLATTEGROND DAK + GED. T.P.V. LIFTMACH. EN LUCHT BEH.RMT",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271054/Ca7.json",
+                        "label": "SERVEYTEKENING KELDER, GEDEELTE I TUSSEN STRAMIEN -K-Y-37 EN 45",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

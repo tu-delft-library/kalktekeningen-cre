@@ -1,0 +1,82 @@
+{
+        "label": "AA271104",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA271104"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Bouwkunde architect"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "voorheen Bouwkunde Berlageweg 1"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271104/AA271104",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271104/1140-R4.json",
+                        "label": "REVISIE TEKENING DAK LAAGBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271104/R1.json",
+                        "label": "REVISIETEKENING KELDER",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271104/R2.json",
+                        "label": "REVISIETEKENING BEGANE GROND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271104/R3.json",
+                        "label": "REVISIETEKENING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271104/R5.json",
+                        "label": "REVISIETEKENING HOOFD- EN TUSSENVERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271104/R6.json",
+                        "label": "REVISIETEKENING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271104/R7.json",
+                        "label": "14E VERDIEPING DAKVERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271104/R8.json",
+                        "label": "REVISIETEKENING DOORSNEDE A-A",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271104/R9.json",
+                        "label": "REVISIETEKENING DOORSNEDE B-B",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271104/R10.json",
+                        "label": "REVISIETEKENING DOORSNEDE C-C",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271104/R11.json",
+                        "label": "REVISIETEKENING DOORSNEDE D-D, E-E, F-F",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271104/R12.json",
+                        "label": "REVISIETEKENING DOORSNEDE G-G",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

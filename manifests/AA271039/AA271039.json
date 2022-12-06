@@ -1,0 +1,127 @@
+{
+        "label": "AA271039",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA271039"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Bouwkunde aangifte stalenramen"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "voorheen Bouwkunde Berlageweg 1"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271039/AA271039",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271039/A10.json",
+                        "label": "BESTEKTEKENING 0E LAAG",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271039/A11.json",
+                        "label": "BESTEKTEKENING 1E LAAG",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271039/A12.json",
+                        "label": "BESTEKTEKENING 2E LAAG",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271039/A14.json",
+                        "label": "BESTEKTEKENING 3E EN 4E LAAG",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271039/A15.json",
+                        "label": "BESTEKTEKENING 5E EN 6E LAAG",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271039/A16.json",
+                        "label": "BESTEKTEKENING 7E EN 8E LAAG",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271039/A17.json",
+                        "label": "BESTEKTEKENING 9E EN 10E LAAG",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271039/A18.json",
+                        "label": "BESTEKTEKENING 11E EN 12E LAAG",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271039/A19.json",
+                        "label": "BESTEKTEKENING 13E EN 14E LAAG",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271039/A20.json",
+                        "label": "BESTEKTEKENING 15E EN DAK-LAAG",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271039/A21.json",
+                        "label": "BESTEKTEKENING ZUIDWESTGEVEL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271039/A22.json",
+                        "label": "BESTEKTEKENING NOORDOOSTGEVEL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271039/A23.json",
+                        "label": "BESTEKTEKENING NOORDWESTGEVEL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271039/A24.json",
+                        "label": "BESTEKTEKENING ZUIDOOSTGEVEL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271039/A25.json",
+                        "label": "BESTEKTEKENING GEVELS LAAGBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271039/A26.json",
+                        "label": "BESTEKTEKENING GEVELS GROTE HAL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271039/A27.json",
+                        "label": "BESTEKTEKENING DOORSNEDE A-A",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271039/A28.json",
+                        "label": "BESTEKTEKENING DOORSNEDE B-B",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271039/A29.json",
+                        "label": "BESTEKTEKENING DOORSNEDE C-C",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271039/A30.json",
+                        "label": "BESTEKTEKENING DOORSNEDE D-D",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271039/A31.json",
+                        "label": "BESTEKTEKENING DOORSNEDE G-G",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

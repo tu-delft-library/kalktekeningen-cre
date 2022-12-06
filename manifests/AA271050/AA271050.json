@@ -1,0 +1,142 @@
+{
+        "label": "AA271050",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA271050"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Civiele techniek klimaatkamer"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Civiele Techniek en Geowetenschappen (CiTG)"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271050/AA271050",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271050/20831100(1).json",
+                        "label": "KLIMAATKAMER 023 WANDEN OVERZICHT",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271050/20831100(2).json",
+                        "label": "KLIMAATKAMER 023 WANDEN OVERZICHT",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271050/20831200(1).json",
+                        "label": "KLIMAATKAMER 023 PLAFOND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271050/20831200(2).json",
+                        "label": "KLIMAATKAMER 023 PLAFOND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271050/20831300(1).json",
+                        "label": "KLIMAATKAMER 023 VLOER",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271050/20831300(2).json",
+                        "label": "KLIMAATKAMER 023 VLOER",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271050/20831400(1).json",
+                        "label": "KLIMAATKAMER 023 DEURPORTALEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271050/20831400(2).json",
+                        "label": "KLIMAATKAMER 023 DEURPORTALEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271050/20831500(1).json",
+                        "label": "KLIMAATKAMER PLAATS VAN SCHROEFHULZEN + OPHANGING PLAFOND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271050/20831500(2).json",
+                        "label": "KLIMAATKAMER PLAATS VAN SCHROEFHULZEN + OPHANGING PLAFOND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271050/20831600(1).json",
+                        "label": "SITUATIE VAN HOUTEN STRIPPEN OP VLOER 023",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271050/20831600(2).json",
+                        "label": "SITUATIE VAN HOUTEN STRIPPEN OP VLOER 023",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271050/20831700(1).json",
+                        "label": "KLIMAATKAMER 023 LINKER ZIJWAND EN ACHTERWAND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271050/20831700(2).json",
+                        "label": "KLIMAATKAMER 023 LINKER ZIJWAND EN ACHTERWAND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271050/20831800(1).json",
+                        "label": "KLIMAATKAMER 023 RECHTER ZIJWAND EN VOORWAND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271050/20831800(2).json",
+                        "label": "KLIMAATKAMER 023 RECHTER ZIJWAND EN VOORWAND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271050/20831900.json",
+                        "label": "KLIMAATKAMER 023 RECHTER ZIJWAND EN VOORWAND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271050/20832100.json",
+                        "label": "KLIMAATKAMER 023 RECHTER ZIJWAND EN VOORWAND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271050/20832200(1).json",
+                        "label": "KLIMAATKAMER O23",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271050/20832200(2).json",
+                        "label": "KLIMAATKAMER O23",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271050/20833100(1).json",
+                        "label": "KLIMAATKAMER O23",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271050/20833100(2).json",
+                        "label": "KLIMAATKAMER O23",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271050/20833200(1).json",
+                        "label": "KLIMAATKAMER O23",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271050/20833200(2).json",
+                        "label": "KLIMAATKAMER O23",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

@@ -1,0 +1,162 @@
+{
+        "label": "AA270946",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA270946"
+                },
+                {
+                        "label": "Koker",
+                        "value": "IWECO"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Werktuigbouwkunde, Maritieme Techniek, Technische Materiaalwetenschappen (3mE)"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270946/AA270946",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270946/613-D-HB-D-5.json",
+                        "label": "HOOGBOUW DAKBALKEN BALKEN 13 TM 15 EN 18",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270946/613-D-HB-D-6.json",
+                        "label": "HOOGBOUW KOLOMMEN EN BALKEN LIFTOPBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270946/613-D-LB-1-1(1).json",
+                        "label": "LAAGBOUW PLATTEGROND 1E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270946/613-D-LB-1-1(2).json",
+                        "label": "LAAGBOUW PLATTEGROND 1E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270946/613-D-LB-1-1(3).json",
+                        "label": "LAAGBOUW PLATTEGROND 1E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270946/613-D-LB-1-2.json",
+                        "label": "LAAGBOUW 1E VERDIEPING 1 TM 12 EN 14 TM 25",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270946/613-D-LB-1-3.json",
+                        "label": "LAAGBOUW 1E VERDIEPING BALKEN 13, 26 TM 35",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270946/613-D-LB-1-4.json",
+                        "label": "LAAGBOUW WANDEN VAN 1E VERD. TOT 2E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270946/613-D-LB-1-5.json",
+                        "label": "LAAGBOUW KOLOMMEN VAN 1E VERD. TOT 2E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270946/613-D-LB-2-1(1).json",
+                        "label": "LAAGBOUW PLATTEGROND 2E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270946/613-D-LB-2-1(2).json",
+                        "label": "LAAGBOUW PLATTEGROND 2E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270946/613-D-LB-2-1(3).json",
+                        "label": "LAAGBOUW PLATTEGROND 2E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270946/613-D-LB-2-2.json",
+                        "label": "LAAGBOUW 2E VERDIEPING BALKEN 1 TM 12 EN 14 TM 25",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270946/613-D-LB-2-3.json",
+                        "label": "LAAGBOUW 2E VERDIEPING BALKEN 13, 26 TM 35",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270946/613-D-LB-B-10.json",
+                        "label": "LAAGBOUW DAK DOKA OP MOD. 27-D-E.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270946/613-D-LB-B1(1).json",
+                        "label": "LAAGBOUW PL.GROND BEG.GROND TUSSEN MOD. 27-33",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270946/613-D-LB-B1(2).json",
+                        "label": "LAAGBOUW PL.GROND BEG.GROND TUSSEN MOD. 27-33",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270946/613-D-LB-B1(3).json",
+                        "label": "LAAGBOUW PL.GROND BEG.GROND TUSSEN MOD. 27-33",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270946/613-D-LB-B2(1).json",
+                        "label": "LAAGBOUW PL.GROND BEG.GROND TUSSEN MOD. 22-27",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270946/613-D-LB-B2(2).json",
+                        "label": "LAAGBOUW PL.GROND BEG.GROND TUSSEN MOD. 22-27",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270946/613-D-LB-B2(3).json",
+                        "label": "LAAGBOUW PL.GROND BEG.GROND TUSSEN MOD. 22-27",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270946/613-D-LB-B3.json",
+                        "label": "LAAGBOUW BEG.GROND BALKEN 1 TM 17",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270946/613-D-LB-B4.json",
+                        "label": "LAAGBOUW BEG.GROND BALKEN 18 TM 24",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270946/613-D-LB-B5.json",
+                        "label": "LAAGBOUW BEG.GROND BALKEN 28 TM 44",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270946/613-D-LB-B6.json",
+                        "label": "LAAGBOUW BEG.GROND BALKEN 46 TM 64",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270946/613-D-LB-B7.json",
+                        "label": "BERGING OPLOSMIDDELEN WANDEN OP MODUUL 33",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270946/613-D-LB-B8.json",
+                        "label": "LAAGBOUW KOLOMMEN VAN BEG.GR. TOT 1E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270946/613-D-LB-B9.json",
+                        "label": "LAAGBOUW WANDEN VAN BEG.GR. TOT 1E VERD.",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

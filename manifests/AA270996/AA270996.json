@@ -1,0 +1,172 @@
+{
+        "label": "AA270996",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA270996"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Elektrotechniek hoogbouw"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Elektrotechniek, Wiskunde en Informatica (EWI)"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270996/AA270996",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270996/500-DB-HB-M-61a.json",
+                        "label": "LADE INDELING BALIE 2E VERD. BIBLIOTHEEK",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270996/500-HB-M-36.json",
+                        "label": "VOORSTEL LIFT EN SCHACHTWANDEN BEG. GR. + 1E VERD. VAN HOOGBOUW ELECTROTECHNIEK WERK 500",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270996/500-HB-M-37.json",
+                        "label": "DETAILS KEUKEN HOOGBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270996/500-HB-M-38.json",
+                        "label": "DETAILS KEUKEN HOOGBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270996/500-HB-M-39.json",
+                        "label": "DETAILS KEUKEN HOOGBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270996/500-HB-M-40.json",
+                        "label": "PLATTEGROND EN AANZICHTEN KANTINEWAND 1E VERD. HOOGBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270996/500-HB-M-40a.json",
+                        "label": "PLATTEGROND EN WAND AANZICHTEN KANTINEWAND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270996/500-HB-M-41.json",
+                        "label": "DETAILS GANGWAND KANTINE 1E VERD. HOOGBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270996/500-HB-M-42.json",
+                        "label": "DETAILS GANGWAND VITRINES KANTINE 1E VERD. HOOGBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270996/500-HB-M-43.json",
+                        "label": "BIBLIOHEEK 2E VERD. HOOGBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270996/500-HB-M-44.json",
+                        "label": "INDELING COLLOQUIEM ZALEN. BEGANE GROND.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270996/500-HB-M-45.json",
+                        "label": "VOORSTEL GANGWANDPUIEN ALGEMEEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270996/500-HB-M-46.json",
+                        "label": "DETAILS KEUKEN HOOGBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270996/500-HB-M-47.json",
+                        "label": "DETAILS KEUKEN BALIE HOOGBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270996/500-HB-M-48.json",
+                        "label": "DETAILS KEUKEN HOOGBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270996/500-HB-M-49.json",
+                        "label": "DETAILS KEUKEN HOOGBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270996/500-HB-M-50.json",
+                        "label": "DETAILS KEUKEN HOOGBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270996/500-HB-M-51.json",
+                        "label": "DETAILS KEUKEN HOOGBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270996/500-HB-M-52.json",
+                        "label": "DETAILS KEUKEN HOOGBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270996/500-HB-M-53.json",
+                        "label": "DETAILS KEUKEN LOOPHEK HOOGBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270996/500-HB-M-54.json",
+                        "label": "VOORSTEL SCHACHT WANDEN 2E TM 20E VERD. 4. HOOGBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270996/500-HB-M-56.json",
+                        "label": "VLOERINDELING KANTINE 1E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270996/500-HB-M-57.json",
+                        "label": "PLATTEGROND EN WANDAANZ. SCHACHTEN BEKLEDING MET INTER-STANDAARD 37 WANDEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270996/500-HB-M-58.json",
+                        "label": "PLATTEGROND EN WANDAANZ. SCHACHTEN BEKLEDING MET INTER-STANDAARD 37 WANDEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270996/500-HB-M-60.json",
+                        "label": "TUSSEN PUI BIBLIOTHEEK 2E VERD. HOOGBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270996/500-HB-M-61.json",
+                        "label": "PLATTEGROND EN AANZICHTEN BALIE BIBLIOTHEEK 2E VERD. HOOGBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270996/500-HB-M-62.json",
+                        "label": "DETAILS BALIE BIBLIOTHEEK 1 TM 10 2E VERD. HOOGBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270996/500-HB-M-63.json",
+                        "label": "DETAILS BALIE BIBLIOTHEEK 9 TM 38 9E VERD. HOOGBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270996/500-HB-M-64.json",
+                        "label": "VOORSTEL BALIE ADMINISTRATIE 2E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270996/500-HB-M-67.json",
+                        "label": "HERZIEN VOORSTEL PORTIERSLOGE HOOGBOUW",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

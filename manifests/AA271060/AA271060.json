@@ -1,0 +1,102 @@
+{
+        "label": "AA271060",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA271060"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Apparatenbouw"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "TNO Leeghwaterstraat 44 / Hal Leeghwaterstraat 44a"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271060/AA271060",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271060/1035-SB-3.json",
+                        "label": "DAKKAP GROTE HAL EN DAK VOORBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271060/1035-SB-4.json",
+                        "label": "DOORSNEDEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271060/1035-SB-5.json",
+                        "label": "NOORDGEVELS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271060/1035-SB-6.json",
+                        "label": "OOSTGEVELS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271060/1035-SB-7.json",
+                        "label": "ZUIDGEVELS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271060/1035-SB-8.json",
+                        "label": "WESTGEVELS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271060/1035-SB-9.json",
+                        "label": "SITUATIE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271060/1035-SB-10.json",
+                        "label": "PRINCIPE-DETAILS BORSTWERINGEN, DAKRANDEN, BUITEN-RAMEN EN -DEUREN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271060/1035-SB-11.json",
+                        "label": "OVERZICHT BINNEN-PUIEN EN -KOZIJNEN MET PRINCIPE-DETAILS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271060/1035-SB-12.json",
+                        "label": "DOORSNEDE MET WANDCONSTRUCTIE RONDE GEBOGEN KOPWANDEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271060/1035-SB-13.json",
+                        "label": "PRINCIPE-DETAILS HALWANDEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271060/1035-SB-14.json",
+                        "label": "CONSTRUCTIE HOUTEN BORDES IN GROTE HAL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271060/1035-SB-15.json",
+                        "label": "BEPLATING RONDE GEBOGEN KOPWANDEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271060/1035-SB-16.json",
+                        "label": "DOORSNEDE WESTWAND GROTE HAL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271060/1035-SB-17.json",
+                        "label": "BRANDWERENDE PUIEN, VLUCHTDEUR ETC. IN GROTE HAL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271060/1035-SB-18.json",
+                        "label": "OPSLAG CHEMICALI\u00cbN C.A.",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

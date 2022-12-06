@@ -1,0 +1,187 @@
+{
+        "label": "AA271017",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA271017"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Elektrotechniek hoogbouw"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Elektrotechniek, Wiskunde en Informatica (EWI)"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271017/AA271017",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271017/19.json",
+                        "label": "LAGE VOORBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271017/500-DB-HB-15-1.json",
+                        "label": "HOOGBOUW 15E VERDIEPING LINKS 5770",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271017/500-DB-HB-15-2.json",
+                        "label": "HOOGBOUW 15E VERDIEPING RECHTS 5770",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271017/500-DB-HB-15-31.json",
+                        "label": "HOOGBOUW 15E VERD LINKERDEEL SPARINGEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271017/500-DB-HB-15-32.json",
+                        "label": "HOOGBOUW 15E VER RECHTERDEEL SPARINGEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271017/500-DB-HB-16-1.json",
+                        "label": "HOOGBOUW 16E VERDIEPING LINKS 6145",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271017/500-DB-HB-16-2.json",
+                        "label": "HOOGBOUW 16E VERDIEPING RECHTS 6145",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271017/500-DB-HB-16-32.json",
+                        "label": "HOOGBOUW 16E VERD RECHTERDEEL SPARINGEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271017/500-DB-HB-17-1.json",
+                        "label": "HOOGBOUW 17E VERDIEPING LINKS 6520",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271017/500-DB-HB-17-2.json",
+                        "label": "HOOGBOUW 17E VERDIEPING RECHTS 6520",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271017/500-DB-HB-17-31.json",
+                        "label": "HOOGBOUW 17E VERD LINKERDEEL SPARINGEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271017/500-DB-HB-17-32.json",
+                        "label": "HOOGBOUW 17E VERD RECHTERDEEL SPARINGEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271017/500-DB-HB-18-1.json",
+                        "label": "HOOGBOUW 18E VERDIEPING LINKS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271017/500-DB-HB-18-2.json",
+                        "label": "HOOGBOUW 18E VERDIEPING RECHTS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271017/500-DB-HB-18-31.json",
+                        "label": "18E VERD LINKERDEEL SPARINGEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271017/500-DB-HB-18-32.json",
+                        "label": "18E VERD RECHTERDEEL SPARINGEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271017/500-DB-HB-19-1.json",
+                        "label": "HOOGBOUW 19E VERDIEPING LINKS 7270",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271017/500-DB-HB-19-2.json",
+                        "label": "HOOGBOUW 19E VERDIEPNIG RECHTS 7270",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271017/500-DB-HB-19-31.json",
+                        "label": "HOOGBOUW 19E VERD LINKERDEEL SPARINGEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271017/500-DB-HB-19-32.json",
+                        "label": "HOOGBOUW 19E VERD RECHTERDEEL SPARINGEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271017/500-DB-HB-20-1.json",
+                        "label": "HOOGBOUW 29E VERDIEPING LINKS 7645",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271017/500-DB-HB-20-2.json",
+                        "label": "HOOGBOUW 20E VERDIEPING RECHTS 7645",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271017/500-DB-HB-20-4.json",
+                        "label": "HOOGBOUW PLAFONDBEEINDIGING BOVEN WERKGANGSPUIEN 20E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271017/500-DB-HB-20-5.json",
+                        "label": "HOOGBOUW PLAFOND IN DE WERKGANGEN 20E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271017/500-DB-HB-20-31.json",
+                        "label": "HOOGBOUW 20E VERD LINKERDEEL SPARINGEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271017/500-DB-HB-20-32.json",
+                        "label": "HOOGBOUW 20E VERD RECHTERDEEL SPARINGEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271017/500-DB-HB-20-33.json",
+                        "label": "HOOGBOUW TRAPPEN VAN 20E VERD 8671 OP MOD 117",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271017/500-DB-HB-21-1.json",
+                        "label": "HOOGBOUW 21E VERDIEPING LINKS 8020",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271017/500-DB-HB-21-2.json",
+                        "label": "HOOGBOUW 21E VERDIEPING RECHTS 8020",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271017/500-DB-HB-21-3.json",
+                        "label": "HOOGBOUW 21E VERD DETAIL DAKRAND OP ASLIJN BH BJ",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271017/500-DB-HB-21-4.json",
+                        "label": "HOOGBOUW 21E VERD DETAIL DAKRAND OP ASLIJN BG BK",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271017/500-DB-HB-21-5.json",
+                        "label": "HOOGBOUW SPIEGELRAILS PREFABPLATEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271017/500-DB-HB-21-6.json",
+                        "label": "PREFAB DAKRANDEN MET DETAILS 21E VERDIEPING",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

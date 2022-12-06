@@ -1,0 +1,197 @@
+{
+        "label": "AA270979",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA270979"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Hoofdgebouw RDG constructie"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Bouwkunde (BK)"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270979/AA270979",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270979/114.json",
+                        "label": "GEEN OMSCHRIJVING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270979/478.json",
+                        "label": "GEEN OMSCHRIJVING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270979/483.json",
+                        "label": "GEEN OMSCHRIJVING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270979/488.json",
+                        "label": "GEEN OMSCHRIJVING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270979/492.json",
+                        "label": "GEEN OMSCHRIJVING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270979/494.json",
+                        "label": "GEEN OMSCHRIJVING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270979/494A.json",
+                        "label": "GEEN OMSCHRIJVING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270979/495(1).json",
+                        "label": "GEEN OMSCHRIJVING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270979/495(2).json",
+                        "label": "GEEN OMSCHRIJVING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270979/497.json",
+                        "label": "GEEN OMSCHRIJVING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270979/502.json",
+                        "label": "GEEN OMSCHRIJVING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270979/507.json",
+                        "label": "GEEN OMSCHRIJVING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270979/512.json",
+                        "label": "GEEN OMSCHRIJVING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270979/516.json",
+                        "label": "GEEN OMSCHRIJVING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270979/537A.json",
+                        "label": "GEEN OMSCHRIJVING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270979/554.json",
+                        "label": "GEEN OMSCHRIJVING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270979/557.json",
+                        "label": "GEEN OMSCHRIJVING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270979/584.json",
+                        "label": "GEEN OMSCHRIJVING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270979/585.json",
+                        "label": "GEEN OMSCHRIJVING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270979/586.json",
+                        "label": "GEEN OMSCHRIJVING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270979/588.json",
+                        "label": "GEEN OMSCHRIJVING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270979/605.json",
+                        "label": "GEEN OMSCHRIJVING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270979/631.json",
+                        "label": "GEEN OMSCHRIJVING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270979/A1.json",
+                        "label": "GEBOUW VOOR SCHEIKUNDE WERKEN IN GEWAPEND BETON NO. 2B",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270979/A2.json",
+                        "label": "GEBOUW VOOR SCHEIKUNDE BEGANE GROND VAKKEN BGED,D,E,F",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270979/A21.json",
+                        "label": "FUNDERINGSPLAAT MET BEWAPENING VOOR EEN TOREN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270979/A26.json",
+                        "label": "MACHINEGEBOUW AFDEKKING VH KETELLOKAAL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270979/A29.json",
+                        "label": "2E VERDIEPING VLEUGELS 1 TM 7",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270979/A30.json",
+                        "label": "OVERZICHT VAN DE BEREKENDE SPANNINGEN 2E VERDIEPING VLEUGELS 1 TM 7",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270979/A31.json",
+                        "label": "2E VERDIEPING VLEUGELS 8 TM 12",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270979/A33.json",
+                        "label": "1E VERDIEPING VLEUGELS 1 TM 7",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270979/A34.json",
+                        "label": "1E VERDIEPING VLEUGELS 1 TM 7",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270979/A35.json",
+                        "label": "1E VERDIEPING 8 TM 12",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270979/C25.json",
+                        "label": "TUSSENVLOER BUREAUSENAAT",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270979/S40.json",
+                        "label": "OPEN RUIMTE EN STEUNPUNTEN VOOR TE MAKEN TRAPPENHUIS",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

@@ -1,0 +1,127 @@
+{
+        "label": "AA270897",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA270897"
+                },
+                {
+                        "label": "Koker",
+                        "value": "W en S werkplaats techniek"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Industrieel Ontwerpen (IO)"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270897/AA270897",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270897/612-D-B-1 WAP.json",
+                        "label": "DEEL 1 PLATTEGROND BEGANEGROND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270897/612-D-B-1.01 WAP.json",
+                        "label": "DEEL 1 LIFTWANDEN F,G,N,P,D,E,K. VAN 323- TOT 5-",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270897/612-D-B-1.02 WAP.json",
+                        "label": "DEEL 1 KOLOMMEN KELDERBEG.GROND KOL. A-2 TM A-5, KOL. B-2,-3, B-7 TM B-17, KOL. C-12 TM -17",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270897/612-D-B-1.04 WAP.json",
+                        "label": "DEEL 1 BEGANEGRONDBALKEN 1 TM 17",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270897/612-D-B-1.05 WAP.json",
+                        "label": "DEEL 1 BEGANEGROND BALKEN 18 TM 34",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270897/612-D-B-1.06 WAP.json",
+                        "label": "DEEL 1 BEGANEGRONDBALKEN 35 TM 46",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270897/612-D-B-1.07 WAP.json",
+                        "label": "DEEL 1 BEGANEGROND BALKEN 47 TM 55 EN WAND. T",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270897/612-D-B-1.08.json",
+                        "label": "DEEL 1 BEGANEGROND BALKEN 56 TM 60",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270897/612-D-B-1.09.json",
+                        "label": "DEEL 1 ENTRESOL 277+ BALKEN 1 TM 7 EN WAND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270897/612-D-B-1.10.json",
+                        "label": "DEEL 1 ENTRESOL BOVEN HOOFDENTREE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270897/612-D-B-1.12.json",
+                        "label": "DEEL 1 ENTRESOL OP 277+ TUSSEN MOD. C-B14-10",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270897/612-D-B-2 WAP.json",
+                        "label": "DEEL 2 PLATTEGROND BEGANEGROND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270897/612-D-B-3 WAP.json",
+                        "label": "DEEL 3 PLATTEGROND BEGANEGROND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270897/612-D-B-4 WAP.json",
+                        "label": "DEEL 4 PLATTEGROND BEGANEGROND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270897/612-D-B-5 WAP.json",
+                        "label": "DEEL 5 PLATTEGROND BEGANEGROND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270897/612-D-K-3.07 WAP.json",
+                        "label": "DEEL 3 KELDERWANDEN WAND. HA.KA.L. EN M.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270897/612-D-K-4.01 WAP.json",
+                        "label": "DEEL 4 KELDERBALKEN 1A-1 TM 5, 9A, 16A,B,C,D",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270897/612-D-K-5.01 WAP.json",
+                        "label": "DEEL 5 KELDERBALKEN 1 TM 6",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270897/612-D-K-5.02 WAP.json",
+                        "label": "DEEL 5 KELDERBALKEN 7,8A,8B,8C,8+ WAND II EN III EN VUILWATERPUT TUSSEN MOD. 19-P",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270897/612-D-K-5.03 WAP.json",
+                        "label": "DEEL 5 KELDERBALKEN 9 TM 16",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270897/612-D-K-5.05 WAP.json",
+                        "label": "DEEL 5 KELDERBALKEN I.V.M. PAALAFWYKINGEN TUSSEN MOD. L-T EN 21-15",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

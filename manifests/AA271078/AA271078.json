@@ -1,0 +1,172 @@
+{
+        "label": "AA271078",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA271078"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Elektrotechniek voorbouw hoogspanningshal"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Elektrotechniek, Wiskunde en Informatica (EWI)"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271078/AA271078",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271078/500-DB-VH-A-1.json",
+                        "label": "VOORBOUW HOOGSPANNINGSHAL TRAPPENHUIS BIJ MODUUL 011",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271078/500-DB-VH-A-2.json",
+                        "label": "VOORBOUW HOOGSPANNINGSHAL TRAPPENHUIS BIJ MOD. 001",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271078/500-DB-VH-A-3.json",
+                        "label": "VOORBOUW HOOGSPANNINGSHAL DETAILS TRAPPENHUIZEN I",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271078/500-DB-VH-A-4.json",
+                        "label": "VOORBOUW HOOGSPANNINGSHAL DETAILS TRAPPENHUIZEN II",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271078/500-DB-VH-A-5.json",
+                        "label": "STALEN BINNENPUIEN EN PLAATSTALEN BINNENDEURKOZIJNEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271078/500-DB-VH-A-6.json",
+                        "label": "VOORBOUW HOOGSPANNINGSHAL BINNEN EN BUITENPUI ENTREE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271078/500-DB-VH-A-7.json",
+                        "label": "VOORBOUW HOOGSPANNINGSHAL MATENSCHEMA HELLENDE GOOT TUSSEN HAL EN VOORBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271078/500-DB-VH-A-8.json",
+                        "label": "VOORBOUW HOOGSPANNINGSHAL DETAILS HELLENDE GOOT TUSSEN HAL EN VOORBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271078/500-DB-VH-A-9.json",
+                        "label": "VOORBOUW HOOGSPANNINGSHAL GOOT TUSSEN HAL EN VOORBOUW BIJ BEGANEGROND ZUIDGEVEL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271078/500-DB-VH-A-11.json",
+                        "label": "INDELING PLAFOND T.B.V. INSTALLATIES T.P.V. GANG EN EINDVERTREKKEN TUSSEN MOD. 000-002",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271078/500-DB-VH-A-12.json",
+                        "label": "VOORBOUW HOOGSPANNINGSHAL VOORZIENINGEN T.B.V. ZONWERING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271078/500-DB-VH-A-13.json",
+                        "label": "VOORBOUW HOOGSPANNINGSHAL OVERZICHT HOUTEN BINNENPUIEN + DETAILS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271078/500-DB-VH-A-14.json",
+                        "label": "VOORBOUW HOOGSPANNINGSHAL OVERZICHT WERKGANGPUIEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271078/500-DB-VH-A-15.json",
+                        "label": "VOORBOUW HOOGSPANNINGSHAL DETAILS HOUTEN WERKGANGPUIEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271078/500-DB-VH-A-16.json",
+                        "label": "VOORBOUW HOOGSPANNINGSHAL DETAILS HOUTEN WERKGANGPUIEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271078/500-DB-VH-A-17.json",
+                        "label": "VOORBOUW HOOGSPANNINGSHAL BOVENPUI EINDSTUK H",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271078/500-DB-VH-A-18.json",
+                        "label": "VOORBOUW HOOGSPANNINGSHAL NATUURSTEEN IN TRAPPENHUIZEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271078/500-DB-VH-A-19.json",
+                        "label": "VOORBOUW HOOGSPANNINGSHAL WEGNEEMBARE GANGWANDEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271078/500-SB-VH-1-1.json",
+                        "label": "VOORBOUW HOOGSPANNINGSHAL 1E VERDIEPING 520+",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271078/500-SB-VH-2-1.json",
+                        "label": "VOORBOUW HOOGSPANNINGSHAL 2E VERDIEPING 895+",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271078/500-SB-VH-3-1.json",
+                        "label": "VOORBOUW HOOGSPANNINGSHAL 3E VERDIEPING 1270+",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271078/500-SB-VH-A-1.json",
+                        "label": "VOORBOUW HOOGSPANNINGSHAL LENGTEDOORSNEDEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271078/500-SB-VH-A-2.json",
+                        "label": "VOORBOUW HOOGSPANNINGSHAL DWARSDOORSNEDEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271078/500-SB-VH-A-3.json",
+                        "label": "VOORBOUW HOOGSPANNINGSHAL ALGEMENE DWARSDOORSN.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271078/500-SB-VH-A-4.json",
+                        "label": "VOORBOUW HOOGSPANNINGSHAL OVERZICHT HOUTEN BINNENPUIEN + DETAILS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271078/500-SB-VH-A-5.json",
+                        "label": "VOORBOUW HOOGSPANNINGSHAL PRINCIPE WERKGANGPUIEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271078/500-SB-VH-B-1.json",
+                        "label": "VOORBOUW HOOGSPANNINGSHAL BEGANEGROND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271078/500-SB-VH-D-1.json",
+                        "label": "VOORBOUW HOOGSPANNINGSHAL DAK",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271078/500-SB-VH-K-1.json",
+                        "label": "VOORBOUW HOOGSPANNINGSHAL KELDER",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271078/500-SB-VH-T-1.json",
+                        "label": "VOORBOUW HOOGSPANNINGSHAL TUSSENVERDIEPING 293+",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

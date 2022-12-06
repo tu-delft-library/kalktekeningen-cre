@@ -1,0 +1,177 @@
+{
+        "label": "AA270982",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA270982"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Elektrotechniek hoogbouw"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Elektrotechniek, Wiskunde en Informatica (EWI)"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270982/AA270982",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270982/500-DB-HB-A-54.json",
+                        "label": "HOOGBOUW DETAILS BORSTWERINGEN IN GANGEN EN TRAPPENHUIZEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270982/500-DB-HB-A-55.json",
+                        "label": "RIOLERING IN SCHACHT 105106 1E-4E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270982/500-DB-HB-A-56.json",
+                        "label": "RIOL. TUSSEN MOD. 105-106 5E TM 8E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270982/500-DB-HB-A-57.json",
+                        "label": "RIOLERING IN SCHACHT 105106 13E-20E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270982/500-DB-HB-A-58.json",
+                        "label": "RIOLERING IN SCHACHT 105106 20E VERDIEPING TOT HET DAK",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270982/500-DB-HB-A-59.json",
+                        "label": "MUURAANSLUITINGEN TUSSENWAND HOOGLERARENKAMERS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270982/500-DB-HB-A-60.json",
+                        "label": "BOVENPUIEN TUSSEN MOD. 105-106 EN 117-118",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270982/500-DB-HB-A-61.json",
+                        "label": "DETAILS EN STALEN FRAMES V. BOVENPUIEN TUSSEN MOD. 105-106 EN 117-118",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270982/500-DB-HB-A-62.json",
+                        "label": "ELECTRA KOKER IN TRAPPENHUIZEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270982/500-DB-HB-A-63.json",
+                        "label": "WANDBETEGELING WASBAKKEN EN UITSTORTGOOTSTENEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270982/500-DB-HB-A-64.json",
+                        "label": "DOORSNEDE 114-115",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270982/500-DB-HB-A-66.json",
+                        "label": "STALEN FRAMES ONDER DE WERKGANGPUIEN 2E-20E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270982/500-DB-HB-A-67.json",
+                        "label": "TRAPPENHUIS LINKS 20E VERDIEPING BORDES OP 260+",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270982/500-DB-HB-A-68.json",
+                        "label": "WEST- EN OOSTGEVEL 21E en 22E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270982/500-DB-HB-A-69.json",
+                        "label": "GEVEL KOPBORDESSEN 21E en 22E VERDIEPING AAN DE NOORD- en ZUIDZIJDE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270982/500-DB-HB-A-70.json",
+                        "label": "DOORSNEDEN GEVELS 21E-22E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270982/500-DB-HB-A-71.json",
+                        "label": "STALEN GEVEL 21E EN 22E VERD. DETAILS 1 TM 10",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270982/500-DB-HB-A-72.json",
+                        "label": "STALEN GEVELS 21 en 22 VERDIEPING DETAILS 31 TM 41",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270982/500-DB-HB-A-73.json",
+                        "label": "STALEN GEVELS 21 en 22 VERDIEPING DETAILS 11-19 EN 45-49",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270982/500-DB-HB-A-74.json",
+                        "label": "DETAIL 42 43 44",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270982/500-DB-HB-A-75.json",
+                        "label": "DOORSN. TRAPPENHUIS 20E VERD. TM DAK OP MOD. 117",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270982/500-DB-HB-A-76.json",
+                        "label": "PLATTE GRONDEN EN DOORSNEDE 20E VERD. TM DAK OP MODUUL 117 TRAPPENHUIS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270982/500-DB-HB-A-77.json",
+                        "label": "DETAILS TRAPPENHUIS 20E VERD. TM DAK OP MOD. 117",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270982/500-DB-HB-A-78.json",
+                        "label": "PLATTE GRONDEN, DOORSN. EN AANZICHT TRAPPENHUIS 20E VERD. TM DAK OP MOD. 106",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270982/500-DB-HB-A-79.json",
+                        "label": "DETAILS TRAPPENHUIS OP MOD. 107",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270982/500-DB-HB-A-81.json",
+                        "label": "DETAILS AANSLUITING DAK COLLEGEZ. \u2013 HOOGBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270982/500-DB-HB-A-82.json",
+                        "label": "DETAILS AANSL. KANTINEDAK \u2013 HOOGBOUWGEVEL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270982/500-DB-HB-A-83.json",
+                        "label": "PLATTEGROND EN DETAILS INTERWAND SCHEIDINGSWANDEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270982/500-DB-HB-A-84.json",
+                        "label": "WANDAANZICHTEN INTERWAND SCHEIDINGSWANDEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270982/500-DB-HB-A-86.json",
+                        "label": "INRICHTING VAN DE WERKKASTEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270982/500-DB-HB-A-203.json",
+                        "label": "OVERGEBLEVEN EN NOG TE VERVAARDIGEN PLAATSTALEN KOZIJNEN",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

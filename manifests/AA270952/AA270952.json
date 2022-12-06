@@ -1,0 +1,132 @@
+{
+        "label": "AA270952",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA270952"
+                },
+                {
+                        "label": "Koker",
+                        "value": "IWECO"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Werktuigbouwkunde, Maritieme Techniek, Technische Materiaalwetenschappen (3mE)"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270952/AA270952",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270952/613-A1.json",
+                        "label": "PRINCIPE AANGAVE VAN DE WAP. IN DIVERSE VLOEREN EN DE FUNDATIEBLOKKEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270952/613-A3.json",
+                        "label": "PLAATS VAN DE OP TEKENING 613-D-LB-K23 AANGEGEVEN 2 GASPIJPEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270952/613-D-A1.json",
+                        "label": "4 BETONPOERTJES T.B.V. TIJDELIJKE BOKKRAAN IN DE STRAAT NAAST DE SLEEPTANK",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270952/613-D-HB-A6.json",
+                        "label": "SPARINGEN EN OPSTORTINGEN IN DE LIFT-MACHINEKAMER",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270952/613-D-LB-K15(1).json",
+                        "label": "LAAGBOUW DOODGEWICHTBANK WANDEN J TM N",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270952/613-D-LB-K15(2).json",
+                        "label": "LAAGBOUW DOODGEWICHTBANK WANDEN J TM N",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270952/613-D-LB-K16(1).json",
+                        "label": "LAAGBOUW DOODGEWICHTBANK WAND O. EN P. BALK 15 EN 16",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270952/613-D-LB-K16(2).json",
+                        "label": "LAAGBOUW DOODGEWICHTBANK WAND O. EN P. BALK 15 EN 16",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270952/613-D-LB-K18.json",
+                        "label": "LAAGBOUW KELDERWANDEN WAND-H",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270952/613-D-LB-K19(1).json",
+                        "label": "LAAGBOUW FUND. BLOKKEN, BLOK I",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270952/613-D-LB-K19(2).json",
+                        "label": "LAAGBOUW FUND. BLOKKEN, BLOK I",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270952/613-D-LB-K20(1).json",
+                        "label": "LAAGBOUW FUND. BLOKKEN, BLOK II",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270952/613-D-LB-K20(2).json",
+                        "label": "LAAGBOUW FUND. BLOKKEN, BLOK II",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270952/613-D-LB-K21(1).json",
+                        "label": "LAAGBOUW FUND. BLOKKEN, BLOK III",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270952/613-D-LB-K21(2).json",
+                        "label": "LAAGBOUW FUND. BLOKKEN, BLOK III",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270952/613-D-LB-K22.json",
+                        "label": "LAAGBOUW FUND. BLOKKEN I, II EN III STAALCONSTRUCTIE T.B.V. ANKERBUIZEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270952/613-D-LB-K23.json",
+                        "label": "20 IN DE FUNDERING IN TE STORTEN GASPIJPEN MET AFSLUITERS EN VERLOOPSOKKEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270952/613-D-LB-K24.json",
+                        "label": "WAPENING VLOER DOODGEW. BANK OP 602+",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270952/613-D-P1.json",
+                        "label": "PALENPLAN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270952/613-DS-1.json",
+                        "label": "WEGNEEMBARE WAND OVERZICHT DETAILS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270952/613-DS-3.json",
+                        "label": "BE\u00cbINDIGING RAAMGEVEL AS 22",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270952/613-SS-1.json",
+                        "label": "STAALCONSTRUCTIE HALLEN",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

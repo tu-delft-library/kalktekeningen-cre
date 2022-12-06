@@ -1,0 +1,132 @@
+{
+        "label": "AA270937",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA270937"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Biologisch centrum"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Biotechnologie"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270937/AA270937",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270937/143.json",
+                        "label": "5 DELIGE STANDAARDS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270937/144.json",
+                        "label": "5 DELIGE STANDAARDS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270937/145A.json",
+                        "label": "SCHUIFRAAMVEREN VOOR ZUURKASTEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270937/146.json",
+                        "label": "SCHUIFRAAMVEREN VOOR ZUURKASTEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270937/147.json",
+                        "label": "SCHUIFRAAMVEREN VOOR ZUURKASTEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270937/148.json",
+                        "label": "SCHUIFRAAMVEREN VOOR ZUURKASTEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270937/149.json",
+                        "label": "SCHUIFRAAMVEREN VOOR ZUURKASTEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270937/151.json",
+                        "label": "SCHUIFRAAMVEREN VOOR ZUURKASTEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270937/152.json",
+                        "label": "SCHUIFRAAMVEREN VOOR ZUURKASTEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270937/153.json",
+                        "label": "SCHUIFRAAMVEREN VOOR ZUURKASTEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270937/155.json",
+                        "label": "SCHUIFRAAMVEREN VOOR ZUURKASTEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270937/155A.json",
+                        "label": "MEUBILAIR WIJZIGING MIDDEN TAFELS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270937/156.json",
+                        "label": "MEUBILAIR WIJZIGING MIDDEN TAFELS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270937/157.json",
+                        "label": "MEUBILAIR WIJZIGING MIDDEN TAFELS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270937/158.json",
+                        "label": "MEUBILAIR WIJZIGING MIDDEN TAFELS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270937/159.json",
+                        "label": "MEUBILAIR WIJZIGING MIDDEN TAFELS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270937/160.json",
+                        "label": "MEUBILAIR WIJZIGING MIDDEN TAFELS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270937/161.json",
+                        "label": "MEUBILAIR WIJZIGING MIDDEN TAFELS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270937/162.json",
+                        "label": "MEUBILAIR WIJZIGING MIDDEN TAFELS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270937/163.json",
+                        "label": "MEUBILAIR WIJZIGING MIDDEN TAFELS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270937/164.json",
+                        "label": "MEUBILAIR WIJZIGING MIDDEN TAFELS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270937/165.json",
+                        "label": "MEUBILAIR WIJZIGING MIDDEN TAFELS",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

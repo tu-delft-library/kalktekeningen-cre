@@ -1,0 +1,152 @@
+{
+        "label": "AA270934",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA270934"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Biologisch centrum"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Biotechnologie"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270934/AA270934",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270934/67.json",
+                        "label": "BIO CHEMIE SCHOKBETON GOTEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270934/68.json",
+                        "label": "BIO CHEMIE SCHOKBETON GOTEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270934/69.json",
+                        "label": "BIO CHEMIE SCHOKBETON GOTEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270934/70.json",
+                        "label": "BIO CHEMIE SCHOKBETON GOTEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270934/71.json",
+                        "label": "BIO CHEMIE SCHOKBETON GOTEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270934/72.json",
+                        "label": "BIO CHEMIE SCHOKBETON GOTEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270934/73.json",
+                        "label": "BIO CHEMIE SCHOKBETON GOTEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270934/74(1).json",
+                        "label": "VLOERGOTEN BEGANE GROND SEMI TECHNISCH LAB",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270934/74(2).json",
+                        "label": "VLOERGOTEN BEGANE GROND SEMI TECHNISCH LAB",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270934/75.json",
+                        "label": "VLOERGOTEN BEGANE GROND SEMI TECHNISCH LAB",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270934/76.json",
+                        "label": "VLOERGOTEN BEGANE GROND SEMI TECHNISCH LAB",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270934/77.json",
+                        "label": "VLOERGOTEN BEGANE GROND SEMI TECHNISCH LAB",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270934/78.json",
+                        "label": "VLOERGOTEN BEGANE GROND SEMI TECHNISCH LAB",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270934/79.json",
+                        "label": "VLOERGOTEN BEGANE GROND SEMI TECHNISCH LAB",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270934/80.json",
+                        "label": "VLOERGOTEN BEGANE GROND SEMI TECHNISCH LAB",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270934/81.json",
+                        "label": "VLOERGOTEN BEGANE GROND SEMI TECHNISCH LAB",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270934/82.json",
+                        "label": "VLOERGOTEN BEGANE GROND SEMI TECHNISCH LAB",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270934/83.json",
+                        "label": "VLOERGOTEN BEGANE GROND SEMI TECHNISCH LAB",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270934/84.json",
+                        "label": "VLOERGOTEN BEGANE GROND SEMI TECHNISCH LAB",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270934/85.json",
+                        "label": "VLOERGOTEN BEGANE GROND SEMI TECHNISCH LAB",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270934/86.json",
+                        "label": "VLOERGOTEN BEGANE GROND SEMI TECHNISCH LAB",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270934/87.json",
+                        "label": "VLOERGOTEN BEGANE GROND SEMI TECHNISCH LAB",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270934/88.json",
+                        "label": "VLOERGOTEN BEGANE GROND SEMI TECHNISCH LAB",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270934/89.json",
+                        "label": "VLOERGOTEN BEGANE GROND SEMI TECHNISCH LAB",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270934/90.json",
+                        "label": "VLOERGOTEN BEGANE GROND SEMI TECHNISCH LAB",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270934/91.json",
+                        "label": "VLOERGOTEN BEGANE GROND SEMI TECHNISCH LAB",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

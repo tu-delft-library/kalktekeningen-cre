@@ -1,0 +1,412 @@
+{
+        "label": "AA270930",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA270930"
+                },
+                {
+                        "label": "Koker",
+                        "value": "C.ST. 2e en 3e verd. Blok 4 TN"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Technische Natuurkunde"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/AA270930",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/1(1).json",
+                        "label": "REVISIE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/01(1).json",
+                        "label": "TEKENINGENLIJST",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/1(2).json",
+                        "label": "LICHTINSTALLATIE EN OVERIGE INSTALLATIES 2E VERDIEPING VLEUGEL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/01(2).json",
+                        "label": "TEKENINGENLIJST VLEUGEL E1 EN E2",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/02.json",
+                        "label": "TEKENINGENLIJST VLEUGEL E1 EN E2",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/2(1).json",
+                        "label": "PRINCIPE SCHEMA CV INSTALLATIE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/2(2).json",
+                        "label": "PRINCIPE AANSLUITING BUFFERVAT KOELMACHINE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/2(3).json",
+                        "label": "LICHT EN NOODLICHTINSTALLATIE 3E VERDIEPING VL E1 EN E2",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/03.json",
+                        "label": "LICHT EN NOODLICHTINSTALLATIE 3E VERDIEPING VL E1 EN E2",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/3(1).json",
+                        "label": "REVISIE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/3(2).json",
+                        "label": "CV INSTALLATIE 3E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/3(3).json",
+                        "label": "PRINCIPESCHEMA CV INSTALLATIE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/4(1).json",
+                        "label": "CV EN KOELINSTALLATIE 2E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/4(2).json",
+                        "label": "KOELINSTALLATIE 2E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/4(3).json",
+                        "label": "OVERIGE INSTALLATIES 3E VERDIEPING VLEUGEL E1 EN E2",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/5(1).json",
+                        "label": "KOELINSTALLATIE 3E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/5(2).json",
+                        "label": "OVERIGE INSTALLATIES DAK VLEUGEL E1 EN E2",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/6.json",
+                        "label": "OVERIGE INSTALLATIES DAK VLEUGEL E1 EN E2",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/6(1).json",
+                        "label": "BLOKSCHEMA VERDEELINRICHTINGEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/6(2).json",
+                        "label": "CV INSTALLATIE KELDER EN SCHACHTEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/7(1).json",
+                        "label": "BLOKSCHEMA ZONWERING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/7(2).json",
+                        "label": "CV INSTALLATIE 2E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/7(3).json",
+                        "label": "INDELING TECHNISCHE RUIMTE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/8(1).json",
+                        "label": "CV INSTALLATIE EN VENTILATIE 3E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/8(2).json",
+                        "label": "INSTALLATIESCHEMA VERDEELINRICHTING LEE55",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/9-1.json",
+                        "label": "NIEUW TE PLAATSEN HOOFDVERDELING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/9-111.json",
+                        "label": "GEEN OMSCHRIJVING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/9-II.json",
+                        "label": "GEEN OMSCHRIJVING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/9(1).json",
+                        "label": "VENTILATIE DAKVERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/9(2).json",
+                        "label": "INSTALLATIESCHEMA VERDEELINRICHTING LEE56",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/10(1).json",
+                        "label": "RADIATOROPSTELLING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/10(2).json",
+                        "label": "INSTALLATIESCHEMA VERDEELINRICHTING LEE57",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/11.json",
+                        "label": "INSTALLATIESCHEMA VERDEELINRICHTING LEE57",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/12(1).json",
+                        "label": "OPSTELLING KOELMACHINE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/12(2).json",
+                        "label": "GROEPENVERKLARING VERD INR LEE55",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/13.json",
+                        "label": "GROEPENVERKLARING VERD INR LEE55",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/14.json",
+                        "label": "GROEPENVERKLARING VERD INR LEE55",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/15.json",
+                        "label": "GROEPENVERKLARING VERD INR LEE55",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/16.json",
+                        "label": "GROEPENVERKLARING VERD INR LEE55",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/17.json",
+                        "label": "GROEPENVERKLARING VERD INR LEE55",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/84-024.json",
+                        "label": "UITBREIDING DERDE VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/89-021.json",
+                        "label": "VERDEELINRICHTING LEE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/89-023.json",
+                        "label": "PHILIPS NEDERLAND AFDELING ELA EINDHOVEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/4322-179-10141.json",
+                        "label": "BLOKSCHEMA SYSTEEM I",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/16229-556-1.json",
+                        "label": "REVISIE ELECTRISCHE INSTALLATIE 2E VERDIEPNG BLOK IV LICHT KRACHT NOODVERL EN 110 V INSTALLATIE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/16229-556-01.json",
+                        "label": "TEKENINGENLIJST",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/16229-556-2.json",
+                        "label": "REVISIE ELECTRISCHE INSTALLATIE 2E VERDIEPING BLOK IV KABEL WANDGOTEN INTERCOM DETECTORS BRANDMELDDIENST",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/16229-556-02.json",
+                        "label": "ARMATURENLIJST",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/16229-556-3.json",
+                        "label": "REVISIE ELECTRISCHE INSTALLATIE 3E VERDIEPING BLOK IV WATEROVERLASTSIGNALERING INTERCOM",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/16229-556-4.json",
+                        "label": "REVISIE ELECTRISCHE INSTALLATIE 2 VER BLOK IV VERDEELKAST SUBMICRON TECHNOLOGIE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/16229-556-5.json",
+                        "label": "SCHAK EN VER INRICHTING SUBMICRON TECHNOLOGIE 2E VERDIEPING  BLOK IV",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/16229-556-6.json",
+                        "label": "BLOKSCHEMA WATEROVERLASTSIGNALERING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/16229-556-7.json",
+                        "label": "BLOKSCHEMA INTERCOMINSTALLATIE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/16229-556-8.json",
+                        "label": "BLOKSCHEMA BRANDMELDINSTALLATIE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/16229-556-9.json",
+                        "label": "GROEPENVERKLARING KAST SUBMICRON TECHNOLOGIE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/26229-71.json",
+                        "label": "REVISIETEKENING KAST LB",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/26229-73(1).json",
+                        "label": "KLEMMENKAST KELDER",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/26229-73(2).json",
+                        "label": "KASTAANZICHT LB",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/26229-73(3).json",
+                        "label": "AANSLUITSCHEMA KAST LB",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/26229-73(4).json",
+                        "label": "AANSLUITSCHEMA KAST LB",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/26229-73(5).json",
+                        "label": "AANSLUITSCHEMA KAST LB",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/26229-307.json",
+                        "label": "STROOMKRINGSCHEMA GANG ORIENTATIE VERLICHTING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/26229-307(1)(1).json",
+                        "label": "AANSLUITSCHEMA KAST",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/26229-307(1)(2).json",
+                        "label": "AANZICHT KAST",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/26229-307(2)(1).json",
+                        "label": "STROOMKRINGSCHEMA TRAPPENHUISIVERL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/26229-307(2)(2).json",
+                        "label": "AANSLUITSCHEMA KAST",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/26229-307(3).json",
+                        "label": "AANSLUITSCHEMA KAST",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/26229-307(4).json",
+                        "label": "AANZICHT KAST",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/26229-307(5).json",
+                        "label": "AANZICHT KAST",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/26229-307(6).json",
+                        "label": "STROOMKRINGSCHEMA GANG EN ORIENTATIEVERL IN PORT LOGE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/26229-307(7).json",
+                        "label": "STROOMKRINGSCHEMA GANG ORIENTATIE VERLICHTING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/77167-37-E-44769(1).json",
+                        "label": "STROOMKRINGSCHEMA REGEL VERDEELKAST CST",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/77167-37-E-44769(2).json",
+                        "label": "STROOMKRINGSCHEMA REGEL VERDEELKAST CST",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/77167-37-E-44769(3).json",
+                        "label": "STROOMKRINGSCHEMA REGEL VERDEELKAST CST",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/GEEN TEKENINGNUMMER(1).json",
+                        "label": "CV INSTALLATIE KELDER EN SCHACHTEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/GEEN TEKENINGNUMMER(2).json",
+                        "label": "KABELLOOP CENTRALISATIE GANGVERLICHTING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/GEEN TEKENINGNUMMER(3).json",
+                        "label": "LAB VOOR TECHNISCHE NATUURKUNDE DELFT",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270930/GEEN TEKENINGNUMMER(4).json",
+                        "label": "LAB VOOR TECHNISCHE NATUURKUNDE DELFT",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

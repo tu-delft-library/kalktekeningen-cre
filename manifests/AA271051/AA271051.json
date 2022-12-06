@@ -1,0 +1,102 @@
+{
+        "label": "AA271051",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA271051"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Elektrotechniek hoofdgebouw"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Elektrotechniek, Wiskunde en Informatica (EWI)"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271051/AA271051",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271051/1197-Be 21A.json",
+                        "label": "HOOFDGEBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271051/1197-Be 22.json",
+                        "label": "GEEN OMSCHRIJVING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271051/1197-Be 28.json",
+                        "label": "HOOFDGEBOUW RIOLERING EN H.W AFVOEREN BEGANEGROND T.P.V. AS 15-16, 32-33, 34-40, 56-57, 63-71",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271051/1197-Be 32.json",
+                        "label": "HOOFDGEBOUW RIOLERING EN H.W. AFV. 1E VERDIEPING T.P.V. AS 51-71",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271051/1197-Be 35.json",
+                        "label": "HOOFDGEBOUW RIOLERING EN H.W. AFV. 1E VERDIEPING T.P.V. AS 4-22",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271051/1197-Be 37.json",
+                        "label": "HOOFDGEBOUW H.W. AFVOEREN T.P.V. GRONDMECHANICA EN WERKPLAATSEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271051/1197-Be 38.json",
+                        "label": "HOOFDGEBOUW RIOLERING 1E VERDIEPING T.P.V. AS 67-69",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271051/1197-Be 53.json",
+                        "label": "HOOFDGEBOUW RIOLERING EN H.W. AFV. COLLOQUIMZALEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271051/1197-Be 60.json",
+                        "label": "HOOFDGEBOUW RIOLERING EN H.W. AFVOEREN 3E VERDIEPING T.P.V. AS 13-20",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271051/1197-Be 83.json",
+                        "label": "HOOFDGEBOUW H.W. AFVOEREN T.P.V. KANTINE NIVEAU 630+",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271051/1673- Be 72.json",
+                        "label": "HOOFDGEBOUW RIOLERING EN H.W. AFVOEREN 5E VERDIEPING T.P.V. AS 61 TM 71",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271051/1673-Be 6.json",
+                        "label": "HOOFDGEBOUW RIOLERING EN H.W. AFVOEREN 5E VERDIEPING T.P.V. AS 34 TM 42",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271051/1673-Be 65.json",
+                        "label": "HOOFDGEBOUW STANDLEIDINGEN EN H.W. AFVOEREN T.P.V. AS 22-23, 25-26, 46-47, 49-50",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271051/1673-Be 68.json",
+                        "label": "HOOFDGEBOUW RIOLERING EN H.W. AFVOEREN 6E VERDIEPING T.P.V. AS 21 TM 34",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271051/1673-Be 69.json",
+                        "label": "HOOFDGEBOUW RIOLERING EN H.W. AFVOEREN 6E VERDIEPING T.P.V. AS 34 TM 42",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271051/1673-Be 71.json",
+                        "label": "HOOFDGEBOUW RIOLERING EN H.W. AFVOEREN 6E VERDIEPING T.P.V. AS 55 TM 60",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

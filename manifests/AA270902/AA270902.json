@@ -1,0 +1,137 @@
+{
+        "label": "AA270902",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA270902"
+                },
+                {
+                        "label": "Koker",
+                        "value": "W en S werkplaatstechniek"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Industrieel Ontwerpen (IO)"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270902/AA270902",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270902/612-D-P-1(1).json",
+                        "label": "PALENPLAN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270902/612-D-P-1(2).json",
+                        "label": "PALENPLAN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270902/612-S-1(1).json",
+                        "label": "PALENPLAN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270902/612-S-1(2).json",
+                        "label": "DAK HALLEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270902/612-S-2.json",
+                        "label": "KELDER",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270902/612-S-3.json",
+                        "label": "BEGANEGROND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270902/612-S-4.json",
+                        "label": "1E VERDIEPING EN ENTRESOLVLOEREN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270902/612-S-5.json",
+                        "label": "2E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270902/612-S-6.json",
+                        "label": "3E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270902/612-S-7.json",
+                        "label": "4E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270902/612-S-8.json",
+                        "label": "DAK",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270902/612-S-9.json",
+                        "label": "DOORSNEDEN I-IA EN II",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270902/612-S-10.json",
+                        "label": "DOORSNEDEN III EN IV",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270902/612-S-11.json",
+                        "label": "DOORSNEDEN V TM VII",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270902/612-SS-1.json",
+                        "label": "DAK HALLEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270902/612-SS-2(1).json",
+                        "label": "DOORSNEDEN A-A TM E-E",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270902/612-SS-2(2).json",
+                        "label": "DOORSNEDEN A-A TM E-E",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270902/612-SS-3(1).json",
+                        "label": "DOORSNEDEN F-F TM L-L",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270902/612-SS-3(2).json",
+                        "label": "DOORSNEDEN F-F TM L-L",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270902/612-SS-4(1).json",
+                        "label": "KANTOOR BORDESSEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270902/612-SS-4(2).json",
+                        "label": "KANTOOR BORDESSEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270902/612-SS-5(1).json",
+                        "label": "PRINCIPE DETAILS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270902/612-SS-5(2).json",
+                        "label": "PRINCIPE DETAILS",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

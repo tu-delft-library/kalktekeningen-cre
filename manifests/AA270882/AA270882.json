@@ -1,0 +1,152 @@
+{
+        "label": "AA270882",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA270882"
+                },
+                {
+                        "label": "Koker",
+                        "value": "W en S Kantine"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Werktuigbouwkunde, Maritieme Techniek, Technische Materiaalwetenschappen (3mE)"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270882/AA270882",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270882/464-DB-1.json",
+                        "label": "CANTINE COLLEGEZALEN COMPLEX DAKBALKLAAG",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270882/464-DB-2.json",
+                        "label": "VOORZIENINGEN TBV HET AANBREGEN V ZONWERINGEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270882/464-DB-3.json",
+                        "label": "DAKLIJST TUSSEN C D",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270882/464-DB-4.json",
+                        "label": "DAKLIJST TUSSEN D E",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270882/464-DB-5.json",
+                        "label": "DAKLIJST TUSSEN A B",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270882/464-DB-6.json",
+                        "label": "DAKLIJST TUSSEN B C",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270882/464-DB-7.json",
+                        "label": "MEUBILAIR CANTINE VERZAMEL BLAD",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270882/464-DB-7A.json",
+                        "label": "INDELING BUFFET",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270882/464-DB-7B.json",
+                        "label": "INDELING KEUKEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270882/464-DB-8.json",
+                        "label": "CANTINE COLLEGEZALEN COMPLEX DETAILS MEUBILAIR",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270882/464-DB-8a.json",
+                        "label": "MEUBILAIR BUFFET",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270882/464-DB-8B.json",
+                        "label": "MEUBILAIR BUFFET",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270882/464-DB-9.json",
+                        "label": "CANTINE COLLEGEZALEN COMPLEX DETAILS MEUBILAIR",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270882/464-DB-9A.json",
+                        "label": "MEUBILAIR KEUKEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270882/464-DB-12.json",
+                        "label": "STIJLEN GEVELBEKLEDING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270882/464-DB-13.json",
+                        "label": "BORSTWERING TUSSEN B C D E EN TUSSEN A B",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270882/464-DB-14.json",
+                        "label": "BORSTWERING TUSSEN F F1 G",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270882/464-DB-15.json",
+                        "label": "DETAILS STIJLEN BEVESTIGING AAN BETONVLOER EN STAAL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270882/464-DB-16.json",
+                        "label": "DAKLIJST TUSSEN F F1 G",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270882/464-DB-17.json",
+                        "label": "INDELING STIJLEN VOOR GEVELBEKLEDING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270882/464-DB-18.json",
+                        "label": "CANTINE OP TERRAS COLLEGEZALEN COMPLEX TE PLAATSEN SECURITDEUREN IN BESTAANDE PUI.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270882/464-DB-22.json",
+                        "label": "SITUATIE KEUKEN BUFFET FUSTBERGING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270882/464-DB-23.json",
+                        "label": "BETONTRAPJES T.P.V. DE DEUREN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270882/464-DB-24.json",
+                        "label": "AANVRAGE HANDLIFT",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270882/464-DB-25.json",
+                        "label": "CANTINE COLLEGEZALEN COMPLEX HOUTEN PUI",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270882/464-DB-26.json",
+                        "label": "CANTINE OP TERRAS COLLEGEZALENCOMPLEX STALEN BINNEN DEUR KOZIJN",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

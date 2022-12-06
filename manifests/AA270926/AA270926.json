@@ -1,0 +1,157 @@
+{
+        "label": "AA270926",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA270926"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Biologisch centrum"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Biotechnologie"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270926/AA270926",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270926/3.json",
+                        "label": "1E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270926/W1.json",
+                        "label": "FUNDERINGSPLAN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270926/W2.json",
+                        "label": "BEGANE GROND SCH 1 20",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270926/W4.json",
+                        "label": "ZOLDERVERDIEPING SCHAAL 1 20",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270926/W6.json",
+                        "label": "DOORSNEDE SCHAAL 1 20",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270926/W7.json",
+                        "label": "VOORGEVEL SCHAAL 1 20",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270926/W8.json",
+                        "label": "RECHTERZIJGEVEL SCHAAL 1 20",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270926/W9.json",
+                        "label": "ACHTERGEVEL W 9",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270926/W17.json",
+                        "label": "DETAILS BUITENRAAM EN DEURKOZIJNEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270926/W18.json",
+                        "label": "BUITENDEURKOZIJNEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270926/W19.json",
+                        "label": "METERKAST IN BEIDE WONINGEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270926/W20.json",
+                        "label": "GARAGE DEUREN MET DETAILS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270926/W21.json",
+                        "label": "2 KRUIPLUIKEN IN DE KELDERKASTEN MET DETAILS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270926/W22.json",
+                        "label": "2 STUKS VOORDEURKOZIJNEN MERK A MET EIKEN VOORDEUREN EN DETAILS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270926/W25.json",
+                        "label": "KELDERTRAPJES MET DETAILS SCHAAL 1 A 20 DETAILS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270926/W26.json",
+                        "label": "TUINMUURTJE MET HEKKEN MET DETAILS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270926/W27.json",
+                        "label": "BUITEN EN BINNEN RIOLERINGEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270926/W28.json",
+                        "label": "TRAPPEN VOOR BEIDE WONINGEN MET DETAILS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270926/W29.json",
+                        "label": "TRAPPEN VOOR BEIDE WONINGEN MET DETAILS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270926/W30.json",
+                        "label": "SCHUURTJES ACHTER WONINGEN MET DETAILS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270926/W31.json",
+                        "label": "SCHUURTJES ACHTER WONINGEN MET DETAILS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270926/W34.json",
+                        "label": "NEUTEN EN DORPELS VAN NAMENSE STEEN VOOR BINNEND KOZIJN VAN HARDSTEEN VOOR BUITEND KOZIJNEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270926/W35.json",
+                        "label": "STALEN RAMEN MET DETAILS OP DE BADKAMERST",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270926/W36.json",
+                        "label": "BALCONLEUNINGEN MET DETAILS SCHAAL 1 A 20",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270926/W37.json",
+                        "label": "KEUKENINRICHTING VOOR 2 WONINGEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270926/W38.json",
+                        "label": "BORDENKAST IN BEIDE KEUKENS MET DETAILS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270926/W39.json",
+                        "label": "2 STUKS AANRECHTEN MET ONDERKASTJES EN DETAILS",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

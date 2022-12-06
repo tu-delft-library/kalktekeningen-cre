@@ -1,0 +1,57 @@
+{
+        "label": "AA270904",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA270904"
+                },
+                {
+                        "label": "Koker",
+                        "value": "W en S Werkplaats techniek"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Industrieel Ontwerpen (IO)"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270904/AA270904",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270904/612-D-B-403.json",
+                        "label": "DEEL 4 FUNDATIEBLOK VOOR SCHAAFBANK BIJ MOD. 9",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270904/612-D-B-404.json",
+                        "label": "DEEL 4 FUNDATIEBLOK VOOR SCHAAFBANK BIJ MOD. 10",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270904/612-D-B-505.json",
+                        "label": "DEEL 5 FUNDATIEBLOK TUSSEN DE MODULEN N-R EN 14-16",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270904/612-D-B-506.json",
+                        "label": "DEEL 5 FUNDATIEBLOK T.P.V. MODUUL R TUSSEN 14 EN 16",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270904/612-D-B-507.json",
+                        "label": "DEEL 5 FUNDATIEBLOK T.P.V. MOD. M TUSSEN 14 EN 16",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270904/612-D-B-509.json",
+                        "label": "DEEL 5 FUNDATIEBLOK VOOR LUCHTHAMERS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270904/612-D-B-510.json",
+                        "label": "DEEL 5 5 STUKS FUNDATIEPLATEN",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

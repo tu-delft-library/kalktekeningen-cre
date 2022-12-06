@@ -1,0 +1,67 @@
+{
+        "label": "AA270936",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA270936"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Cultuurtuin"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Biotechnologie"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270936/AA270936",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270936/2.json",
+                        "label": "PLATTEGROND CULTUURTUIN TECHN. GEWASSEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270936/3.145.json",
+                        "label": "PLATTEGROND CULTUURTUIN TECHN. GEWASSEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270936/4.131.json",
+                        "label": "PLATTEGROND CULTUURTUIN TECHN. GEWASSEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270936/GEEN TEKENINGNUMMER.json",
+                        "label": "PLATTEGROND CULTUURTUIN V. TECHN. GEWASSEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270936/GEEN TEKENINGNUMMER(1).json",
+                        "label": "PLANTENKASSEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270936/GEEN TEKENINGNUMMER(2).json",
+                        "label": "GEEN OMSCHRIJVING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270936/GEEN TEKENINGNUMMER(3).json",
+                        "label": "BERGLOODS VD CULTUURTUIN V. TECHNISCHE GEWASSEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270936/GEEN TEKENINGNUMMER(4).json",
+                        "label": "PLANTENKASSEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270936/GEEN TEKENINGNUMMER(5).json",
+                        "label": "PLANTENKASSEN",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

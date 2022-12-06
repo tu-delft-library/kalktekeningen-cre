@@ -1,0 +1,172 @@
+{
+        "label": "AA271021",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA271021"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Elektrotechniek lage voorbouw"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Elektrotechniek, Wiskunde en Informatica (EWI)"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271021/AA271021",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271021/500-DB-LV-A-62.json",
+                        "label": "SPARINGEN TUSSENVLOER EN 1E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271021/500-DB-LV-A-63.json",
+                        "label": "LAGE VOORBOUW AFDEKPLATEN RADIATOREN TYPE A",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271021/500-DB-LV-A-65.json",
+                        "label": "LAGE VOORBOUW III SPARINGEN 2E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271021/500-DB-LV-A-66.json",
+                        "label": "LAGE VOORBOUW III SPARINGEN 3E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271021/500-DB-LV-A-67.json",
+                        "label": "SPARINGEN TUSSENVLOER EN 1E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271021/500-DB-LV-A-68.json",
+                        "label": "SPARINGEN PLATTEGROND DAK EN DAKOPBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271021/500-DB-LV-A-69.json",
+                        "label": "SPARINGEN TUSSENVLOER EN 1E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271021/500-DB-LV-A-70.json",
+                        "label": "HOUTEN PUI OP ASLIJN C1",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271021/500-DB-LV-A-71.json",
+                        "label": "PLAATSTALEN VENTILATIEBLOK",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271021/500-DB-LV-A-72.json",
+                        "label": "AANZICHT GANGWAND TPV LIFT MET DOORSNEDE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271021/500-DB-LV-A-73.json",
+                        "label": "VERZAMELBLAD HOUTEN BINNENPUIEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271021/500-DB-LV-A-74.json",
+                        "label": "DETAILS HOUTEN BINNENPUI WERKGANG",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271021/500-DB-LV-A-75.json",
+                        "label": "DETAILS HOUTEN BINNENPUIEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271021/500-DB-LV-A-76.json",
+                        "label": "DOORSNEDE BORSTWERING BINNENPUI WERKGANG",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271021/500-DB-LV-A-77.json",
+                        "label": "LAGE VOORBOUW PUIEN OP MOD B OP VERD",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271021/500-DB-LV-A-78.json",
+                        "label": "PUIEN OP HOOG B DETAILS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271021/500-DB-LV-A-79.json",
+                        "label": "SPARINGEN 2E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271021/500-DB-LV-A-80.json",
+                        "label": "SPARINGEN 2E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271021/500-DB-LV-A-81.json",
+                        "label": "LAGE VOORBOUW HARDSTENEN DAGKANTEN LIFTINGANG",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271021/500-DB-LV-A-82.json",
+                        "label": "CONSTRUCTIE VELUM 1",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271021/500-DB-LV-A-83.json",
+                        "label": "CONSTRCTIE VELUM II",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271021/500-DB-LV-A-85.json",
+                        "label": "STEENGAASPLAFONDS IN TOILETTEN OP VERD",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271021/500-DB-LV-A-86.json",
+                        "label": "SPARINGEN PLATTEGROND 3E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271021/500-DB-LV-A-87.json",
+                        "label": "SPARINGEN PLATTEGROND 3E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271021/500-DB-LV-A-88.json",
+                        "label": "LIFTSTANDAANWIJZING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271021/500-DB-LV-A-89.json",
+                        "label": "WEGNEEMBARE TOEGANGSPUI NETSIMULATOR",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271021/500-DB-LV-A-90.json",
+                        "label": "LAGE VOORBOUW DETAILS TRAPPEN II",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271021/500-DB-LV-A-91.json",
+                        "label": "LUIEN TUSSENVERD EN VLOER LIFT MACH K",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271021/500-DB-LV-A-92.json",
+                        "label": "DETAILS TRAPPEN III",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271021/500-DB-LV-A-94.json",
+                        "label": "LAGE VOORBOUW VERGADERZAAL 1E VERDIEPING OVERZICHT INDUCTIE UNITS DV",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

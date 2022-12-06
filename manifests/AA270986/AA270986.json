@@ -1,0 +1,52 @@
+{
+        "label": "AA270986",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA270986"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Sportgebouw"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Sport"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270986/AA270986",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270986/6.json",
+                        "label": "SPORTGEBOUW VOOR DE TECHNISCHE HOGESCHOOL TE DELFT SCHETSONTWERP BEGANE GROND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270986/27.json",
+                        "label": "SPORTGEBOUW VOOR DE TECHNISCHE HOGESCHOOL TE DELFT SCHETSONTWERP BEGANE GROND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270986/29.json",
+                        "label": "SPORTGEBOUW VOOR DE TECHNISCHE HOGESCHOOL TE DELFT SCHETSONTWERP BEGANE GROND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270986/WX-8-1.json",
+                        "label": "STUDENTEN \u2013 SPORTCENTRUM VAN DE TECHNISCHE HOGESCHOOL AAN DE ROTTERDAMSE WEG TE DELFT. BESTEKTEKENING. BEGANE GROND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270986/WX-8-3.json",
+                        "label": "STUDENTEN \u2013 SPORTCENTRUM VAN DE TECHNISCHE HOGESCHOOL AAN DE ROTTERDAMSE WEG TE DELFT. BESTEKTEKENING. PLATTEGR. VERDIEPING EN DOORSNEDEN.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270986/WX-44-2.json",
+                        "label": "STUDENTEN \u2013 SPORTCENTRUM VAN DE TECHNISCHE HOGESCHOOL REVISIETEKENING WATERLEIDING",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

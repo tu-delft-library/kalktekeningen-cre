@@ -1,0 +1,42 @@
+{
+        "label": "AA271055",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA271055"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Civiele techniek Gezondheidst. Bestekstekeningen"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Civiele Techniek en Geowetenschappen (CiTG)"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271055/AA271055",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271055/E10(1).json",
+                        "label": "KELDER, BEGANEGROND EN TUSSENVERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271055/E10(2).json",
+                        "label": "KELDER, BEGANEGROND EN TUSSENVERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271055/E11(1).json",
+                        "label": "1E VERDIEPING, ENTRESOLS EN DAK",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271055/E11(2).json",
+                        "label": "1E VERDIEPING, ENTRESOLS EN DAK",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

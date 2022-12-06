@@ -1,0 +1,207 @@
+{
+        "label": "AA270960",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA270960"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Master-plan"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "TR"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270960/AA270960",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270960/20.json",
+                        "label": "BESTAANDE BOMEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270960/21.json",
+                        "label": "BESTAANDE BOMEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270960/22.json",
+                        "label": "BESTAANDE BOMEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270960/23.json",
+                        "label": "BESTAANDE BOMEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270960/25.json",
+                        "label": "BESTAANDE BOMEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270960/26.json",
+                        "label": "BESTAANDE BOMEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270960/27.json",
+                        "label": "BESTAANDE BOMEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270960/29.json",
+                        "label": "BESTAANDE BOMEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270960/30.json",
+                        "label": "BESTAANDE BOMEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270960/31.json",
+                        "label": "BESTAANDE BOMEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270960/32.json",
+                        "label": "BESTAANDE BOMEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270960/33.json",
+                        "label": "BESTAANDE BOMEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270960/34.json",
+                        "label": "BESTAANDE BOMEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270960/40.json",
+                        "label": "BESTAANDE BOMEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270960/41.json",
+                        "label": "BESTAANDE BOMEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270960/42.json",
+                        "label": "BESTAANDE BOMEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270960/43.json",
+                        "label": "BESTAANDE BOMEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270960/44.json",
+                        "label": "BESTAANDE BOMEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270960/45.json",
+                        "label": "BESTAANDE BOMEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270960/46.json",
+                        "label": "BESTAANDE BOMEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270960/47.json",
+                        "label": "BESTAANDE BOMEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270960/48.json",
+                        "label": "BESTAANDE BOMEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270960/49.json",
+                        "label": "BESTAANDE BOMEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270960/55.json",
+                        "label": "BESTAANDE BOMEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270960/57.json",
+                        "label": "BESTAANDE BOMEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270960/60.json",
+                        "label": "BESTAANDE BOMEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270960/61.json",
+                        "label": "BESTAANDE BOMEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270960/69.json",
+                        "label": "BESTAANDE BOMEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270960/74.json",
+                        "label": "BESTAANDE BOMEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270960/76.json",
+                        "label": "BESTAANDE BOMEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270960/91.json",
+                        "label": "BESTAANDE BOMEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270960/92.json",
+                        "label": "BESTAANDE BOMEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270960/93.json",
+                        "label": "BESTAANDE BOMEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270960/94.json",
+                        "label": "BESTAANDE BOMEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270960/95.json",
+                        "label": "BESTAANDE BOMEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270960/97.json",
+                        "label": "BESTAANDE BOMEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270960/GEEN TEKENINGNUMMER.json",
+                        "label": "BESTAANDE BOMEN",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

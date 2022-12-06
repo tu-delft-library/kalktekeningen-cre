@@ -1,0 +1,92 @@
+{
+        "label": "AA271102",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA271102"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Elektrotechniek verbindingsgang"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Elektrotechniek, Wiskunde en Informatica (EWI)"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271102/AA271102",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271102/500-DB-VG-A-1.json",
+                        "label": "VERBINDINGSGANG PLATTEGRONDEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271102/500-DB-VG-A-2.json",
+                        "label": "VERBINDINGSGANG PLATTEGROND DAK MET DETAILS GED. PLAFOND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271102/500-DB-VG-A-3.json",
+                        "label": "VERBINDINGSGANG DOORSNEDE A-A EN DOORSNEDE B-B",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271102/500-DB-VG-A-5.json",
+                        "label": "VERBINDINGSGANG NOORD- EN ZUIDGEVEL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271102/500-DB-VG-A-6.json",
+                        "label": "VERBINDINGSGANG VERTICALE DETAILS 1 TM 4",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271102/500-DB-VG-A-7.json",
+                        "label": "VERBINDINGSGANG VERTICALE DETAILS 5 TM 11",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271102/500-DB-VG-A-8.json",
+                        "label": "VERBINDINGSGANG HORIZONTALE DETAILS 12 TM 21",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271102/500-DB-VG-A-9.json",
+                        "label": "VERBINDINGSGANG VERTICALE DETAILS 22 TM 26",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271102/500-DB-VG-A-10.json",
+                        "label": "VERBINDINGSGANG RADIATOREN OPSTELLING BEG. GR + VERDIEPINGEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271102/500-DB-VG-A-11.json",
+                        "label": "VERBINDINGSGANG DAKRANDELEMENTEN VAN PREFAB. BETON",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271102/500-DB-VG-A-12.json",
+                        "label": "VERBINDINGSGANG BEKLEDING HOEK PUIEN VERB.GANG EN LAGE VOORB.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271102/500-DB-VG-A-13.json",
+                        "label": "VERBINDINGSGANG BEKLEDING BIJ VELUM VAN DE LAGE VOORBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271102/500-DB-VG-A-101.json",
+                        "label": "VERBINDINGSGANG BEGANE GROND SPARINGEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271102/500-DB-VG-A-102.json",
+                        "label": "VERBINDINGSGANG 1E, 2E EN 3E VERDIEPING DAK SPARINGEN",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

@@ -1,0 +1,142 @@
+{
+        "label": "AA271073",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA271073"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Windtunnel uitbreiding"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Lage Snelheden Laboratorium / VSSD / Inholland"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271073/AA271073",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271073/52.json",
+                        "label": "PLAATSING LUCHTDICHTE MARKUSDEUR",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271073/1368-DB-36.json",
+                        "label": "HOUTEN VLOER OP 1483+",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271073/1368-DB-38.json",
+                        "label": "BALIE IN HOOFD ENTREE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271073/1368-DB-39.json",
+                        "label": "LUCHTDICHTE DEUREN EN LUIKEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271073/1368-DB-40.json",
+                        "label": "STALENTRAP IN ROOKTUNNEL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271073/1368-DB-41.json",
+                        "label": "DAK HOOFDENTREE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271073/1368-DB-42.json",
+                        "label": "DETAILS VLOER OP 1483+",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271073/1368-DB-43.json",
+                        "label": "INMETSELRAAM T.B.V. ROOSTER IN RUIMTE HEATER",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271073/1368-DB-44.json",
+                        "label": "LATEI AS A",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271073/1368-DB-45.json",
+                        "label": "STAALCONSTRUCTIE MET BEPLATING T.B.V. MARKUS-DEUR EN SCHUIFDEUR",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271073/1368-DB-46.json",
+                        "label": "TAKELBALKEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271073/1368-DB-47.json",
+                        "label": "VENTILATIEKAP RUIMTE B01",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271073/1368-DB-48.json",
+                        "label": "STAALWERK T.B.V. GEVELBEPLATING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271073/1368-DB-49.json",
+                        "label": "DETAILS STAALWERK T.B.V. GEVELBEPLATING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271073/1368-DB-50.json",
+                        "label": "VENTILATIEKAPPEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271073/1368-DB-51.json",
+                        "label": "VERLAAGDE ACOUSTISCHE PLAFONDS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271073/1368-DB-52.json",
+                        "label": "VERLAAGDE HERAKLITH PLAFONDS ENTREE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271073/1368-DB-53.json",
+                        "label": "VERLAAGD PLAFOND MET LUIK ONDERVLOERLUIK IN LIFTMACHINEKAMER",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271073/1368-DB-54.json",
+                        "label": "HOUTENTRAP IN LUCHTSLUIS RUIMTE V21",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271073/1368-DB-55.json",
+                        "label": "ROOKTUNNEL MACH.KAMER VLOERROOSTER + HEKKEN SCHACHT BORDESSEN OP 3500+ EN 11400+",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271073/1368-DB-56.json",
+                        "label": "VLOERLUIKEN HEATHERRUIMTE LUIK A EN B LIFTMACHINEKAMER LUIK C",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271073/1368-DB-57.json",
+                        "label": "TRAPPENHUIS UITBREIDING I HEKKEN EN LEUNINGEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271073/1368-DB-58.json",
+                        "label": "TRAPPENHUIS UITBREIDING II HEKKEN EN LEUNINGEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271073/1368-DB-60.json",
+                        "label": "GEVELLADDERS",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

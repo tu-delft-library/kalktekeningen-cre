@@ -1,0 +1,77 @@
+{
+        "label": "AA271030",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA271030"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Hoge snelheden"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Hoge Snelheden Laboratorium"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271030/AA271030",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271030/2DB1.json",
+                        "label": "LAB. VOOR HOGE SNELHEDEN COMPRESSORHAL PLATTEGRONDEN-DOORSN.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271030/2DB3.json",
+                        "label": "LAB. VOOR HOGE SNELHEDEN COMPRESSORHAL WAARNEMINGSRUIMTE EN LUCHT IN ZUIGKAST",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271030/2DB4.json",
+                        "label": "LABORATORIUM VOOR HOGE SNELHEDEN LUCHTFILTERKAST COMPRESSORHAL KOELLUCHT",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271030/2DB5.json",
+                        "label": "LAB. VOOR HOGE SNELHEDEN HOUTEN KOZIJNEN IN DURISOLWANDEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271030/2DB7.json",
+                        "label": "LAB. VOOR HOGE SNELHEDEN COMPR.HAL UITBLAASCONSTR. MET STALEN KAP L.D. COMPRESSOR",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271030/2DB8.json",
+                        "label": "LAB. VOOR HOGE SNELHEDEN STALEN BINNENDEUREN IN RUIMTEN AO3, AO7 STALEN RAAM IN AO3",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271030/3DB1.json",
+                        "label": "LAB. VOOR HOGE SNELHEDEN LAB. I BEGANE GROND WAARNEMERSRUIMTEN TUSSEN AS 11 EN AS 15 EN VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271030/3DB2.json",
+                        "label": "LAB. VOOR HOGE SNELHEDEN LABORATORIUM I DOORSNEDEN OVER AS 11 EN 15",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271030/3DB3.json",
+                        "label": "LAB. VOOR HOGE SNELHEDEN LABORATORIUM I BEGANE GROND EN VERDIEPING EN DOORSNEDEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271030/3DB4.json",
+                        "label": "LAB. VOOR HOGE SNELHEDEN KNALDEMPER DETAILS TROXROOSTERS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271030/3DB6.json",
+                        "label": "LAB. VOOR HOGE SNELHEDEN KNALDEMPER DETAILS STALEN LUIK",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

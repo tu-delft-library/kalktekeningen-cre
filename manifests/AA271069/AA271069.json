@@ -1,0 +1,82 @@
+{
+        "label": "AA271069",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA271069"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Windtunnel uitbreiding"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Lage Snelheden Laboratorium / VSSD / Inholland"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271069/AA271069",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271069/1368-D-2-6.json",
+                        "label": "UITBREIDING DEEL I EN II KOLOMMEN TUSSEN 1E VERD. EN DAK VAN 729 5+ TOT 1231+1236+",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271069/1368-D-A-1.json",
+                        "label": "TRAPPEHUIS UITBREIDING I BEGANEGROND BORDES 995+",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271069/1368-D-A-1A.json",
+                        "label": "TRAPPEHUIS UITBREIDING I BEGANEGROND BORDES 995+",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271069/1368-D-A-2(1).json",
+                        "label": "TRAPPEHUIS UITBREIDING II BEG.GROND 2E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271069/1368-D-A-2(2).json",
+                        "label": "TRAPPEHUIS UITBREIDING II BEG.GROND 2E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271069/1368-D-A-3.json",
+                        "label": "DETAILS UITBREIDING TRAFO DETAILS WIJZIGINGEN BESTAANDE GEBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271069/1368-D-D-1.json",
+                        "label": "UITBREIDING I EN II BETONKONSTRUKTIE DAK 1236+ EN 1231+ DAKOPBOUW 1440+",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271069/1368-D-D-1A.json",
+                        "label": "UITBREIDING I EN II BETONKONSTRUKTIE DAK 1236+ EN 1231+ DAKOPBOUW 1440+",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271069/1368-D-D-2(1).json",
+                        "label": "DAKVERDIEPING BALKEN 1 TM 17",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271069/1368-D-D-2(2).json",
+                        "label": "DAKVERDIEPING BALKEN 1 TM 17",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271069/1368-D-D-3(1).json",
+                        "label": "DAKVERDIEPING BALKEN 18 TM 29 GEVELBALKEN BB-7-9 1009+",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271069/1368-D-D-3(2).json",
+                        "label": "DAKVERDIEPING BALKEN 18 TM 29 GEVELBALKEN BB-7-9 1009+",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

@@ -1,0 +1,157 @@
+{
+        "label": "AA270881",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA270881"
+                },
+                {
+                        "label": "Koker",
+                        "value": "W en S Werkplaats techniek fase 2"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Industrieel Ontwerpen (IO)"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270881/AA270881",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270881/612-DB-B-21.json",
+                        "label": "BETONNEN PLATEN STRAMIEN 17",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270881/612-DB-B-22.json",
+                        "label": "KOEKOEK",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270881/612-DB-B-23.json",
+                        "label": "GEDEELTE NOORDGEVEL UITSPRINGENDE BALKONS MODULEN 1. 2 EN R.S.T.U.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270881/612-DB-B-24.json",
+                        "label": "HOEK NOORDGEVEL MET INSPRINGERD BALKON",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270881/612-DB-B-25.json",
+                        "label": "AFWIJKENDE BORSTWERINGEN O.A BIJ BALKONS MET OMKASTINGEN INDUCTAIRS.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270881/612-DB-B-26.json",
+                        "label": "OOST-ZUID GEVEL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270881/612-DB-B-27.json",
+                        "label": "BALKON HEKKEN 4STUKS WESTGEVEL, 4 STUKS NOORDGEVEL, 4 STUKS NOORDGEVEL.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270881/612-DB-B-28.json",
+                        "label": "DETAILS OOST ZUID GEVEL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270881/612-DB-B-29.json",
+                        "label": "GEDEELTE NOORDGEVEL BIJ TRAPPENHUIS TOILETGROEP MODULEN 1 2",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270881/612-DB-B-30.json",
+                        "label": "GEDEELTE OOSTGEVEL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270881/612-DB-B-31.json",
+                        "label": "GEDEELTE ZUIDGEVEL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270881/612-DB-B-32.json",
+                        "label": "HEKWERKEN + DETAILS STRAMIEN U  2_5A",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270881/612-DB-B-33.json",
+                        "label": "TRAP MATERIAALMAGAZIJN RUIMTE 43C EN DETAILS MAGAZIJNBORDERS RUIMTE 42D",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270881/612-DB-B-34.json",
+                        "label": "TRAP RUIMTE 27",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270881/612-DB-B-35.json",
+                        "label": "HIJSGAT OMRANDING MET WEGNEEMBARE HEKKEN EN TRAP RUIMTE 35 MOD. E.F. 20-21",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270881/612-DB-B-36.json",
+                        "label": "HALWAND OP MODUUL D",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270881/612-DB-B-37.json",
+                        "label": "HALWAND OP MODUUL 5",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270881/612-DB-B-38.json",
+                        "label": "NOORD- EN ZUIDWAND LABORATORIUM G.V.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270881/612-DB-B-41.json",
+                        "label": "TRAP MET GEDEELTELIJK WEGNEEMBAAR BORDES VAN RUIMTE 35 NAAR RUIMTEN 36A EN 37A MODULEN E EN 18 \u2013 19 EN 20",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270881/612-DB-B-42.json",
+                        "label": "DOORSNEDEN DIENSTENTREE MET HOUTEN WAND OP ASLIJN 5A",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270881/612-DB-B-43.json",
+                        "label": "DETAILS DIENSTENTREE EN HOUTEN WAND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270881/612-DB-B-44.json",
+                        "label": "VLOERLUIKEN VAN BETON IN HALLEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270881/612-DB-B-45.json",
+                        "label": "PLATTEGROND PORTAAL DIENSTENTREE MET DETAILS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270881/612-DB-B-46.json",
+                        "label": "STAALWERK BEGANE GROND RUIMTEN 33-39, ROOSTERS MET OMRANDING MODUUL T. OMRANDING MET BALUSTERS RONDOM KLEIN PARKET. OMRANDING STELVLOER MET STALEN TUSSENLUIKEN ED.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270881/612-DB-B-47.json",
+                        "label": "OPEN PLAFOND WERKPLAATS G.V.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270881/612-DB-B-48.json",
+                        "label": "BINENKOZIJNEN 2E VERDIEPING, GANGRAMEN BOVEN 135 + VLOER TUSSEN ASSEN. MUUROMVATTINGDDETAILS VOOR MERK AZ EN AG TERPLAATSE VAN DILATIEVOEG. BEGANEGROND RAMEN TUSSEN RUIMTEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270881/612-DB-B-49.json",
+                        "label": "PLAFOND INDELING RUIMTEN 8 TM 11",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

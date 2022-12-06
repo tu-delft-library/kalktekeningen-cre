@@ -1,0 +1,207 @@
+{
+        "label": "AA270963",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA270963"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Oude delft 39"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "00-12.6"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270963/AA270963",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270963/1.json",
+                        "label": "REVISIE TEKENING BEG. GROND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270963/1A.json",
+                        "label": "REVISIETEKENING BEG. GROND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270963/2-1.json",
+                        "label": "OPMETING CANTINERUIMTE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270963/2-2.json",
+                        "label": "OPMETING CANTINERUIMTE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270963/2(1).json",
+                        "label": "GEEN OMSCHRIJVING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270963/2(2).json",
+                        "label": "REVISIETEKENING 1E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270963/3(1).json",
+                        "label": "DOORSNEDEN A-B C-D E-F BESTAANDE TOESTAND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270963/3(2).json",
+                        "label": "REVISIETEKENING 2E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270963/3(3).json",
+                        "label": "REVISIETEKENING 2E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270963/3(4).json",
+                        "label": "GEEN OMSCHRIJVING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270963/4.json",
+                        "label": "GEEN OMSCHRIJVING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270963/4(1).json",
+                        "label": "REVISIETEKENING 3E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270963/4(2).json",
+                        "label": "REVISIETEKENING 3E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270963/5(1).json",
+                        "label": "GEVELS BEST. TOEST.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270963/5(2).json",
+                        "label": "VOORMALIG RIJKSKLEEDINGMAGAZIJN TE DELFT",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270963/8-1.json",
+                        "label": "CANTINE PLATTEGROND EN DOORSNEDE A-B",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270963/8-2.json",
+                        "label": "CANTINE DOORSNEDEN C-D, E-F, G-H",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270963/8-3.json",
+                        "label": "CANTINE VELUM en GLAS-SERVIESKAST",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270963/8-5.json",
+                        "label": "BALIE VOOR CANTINE, DETAILS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270963/8-6.json",
+                        "label": "CANTINE DETAILS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270963/8-7.json",
+                        "label": "CANTINE KOZIJN EN NATUURSTEEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270963/8-8.json",
+                        "label": "CANTINE PLANKDRAGERS en AFSCHERMSTROKEN WARE GR.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270963/8.json",
+                        "label": "CANTINE PLANKDRAGERS en AFSCHERMSTROKEN WARE GR.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270963/9.json",
+                        "label": "CANTINE PLANKDRAGERS en AFSCHERMSTROKEN WARE GR.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270963/9A.json",
+                        "label": "ISOMETRISCHE PROJECTIE V. STAALCONSTRUCTIE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270963/11.json",
+                        "label": "ISOMETRISCHE PROJECTIE V. STAALCONSTRUCTIE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270963/18.json",
+                        "label": "ISOMETRISCHE PROJECTIE V. STAALCONSTRUCTIE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270963/21.json",
+                        "label": "ISOMETRISCHE PROJECTIE V. STAALCONSTRUCTIE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270963/22(1).json",
+                        "label": "ISOMETRISCHE PROJECTIE V. STAALCONSTRUCTIE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270963/22(2).json",
+                        "label": "1E VERDIEPING REVISIE TEEK. NO.5",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270963/23(1).json",
+                        "label": "SPANTVORMEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270963/23(2).json",
+                        "label": "2E VERDIEPING REVISIE TEEK. NO.6",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270963/124.json",
+                        "label": "2E VERDIEPING REVISIE TEEK. NO.6",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270963/125.json",
+                        "label": "2E VERDIEPING REVISIE TEEK. NO.6",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270963/126.json",
+                        "label": "2E VERDIEPING REVISIE TEEK. NO.6",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270963/139.json",
+                        "label": "2E VERDIEPING REVISIE TEEK. NO.6",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270963/795-D-1.json",
+                        "label": "GEEN OMSCHRIJVING",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

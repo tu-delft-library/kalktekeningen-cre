@@ -1,0 +1,137 @@
+{
+        "label": "AA270899",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA270899"
+                },
+                {
+                        "label": "Koker",
+                        "value": "W en S Sleeptank"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Werktuigbouwkunde, Maritieme Techniek, Technische Materiaalwetenschappen (3mE)"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270899/AA270899",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270899/506 DB 33.json",
+                        "label": "HOEKSTALLEN OMRANDINGEN EN WEMAROOSTERS KELDER",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270899/506-DB-25.json",
+                        "label": "SIERBETON WESTGEVEL MET DETAILS OVERZICHT III",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270899/506-DB-26.json",
+                        "label": "OVERZICHT BETON-ELEMENTEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270899/506-DB-27.json",
+                        "label": "DETAILS BETON-ELEMENTEN + OVERZICHT BETON-VENSTERTABLETTEN MERKW.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270899/506-DB-28.json",
+                        "label": "DOORVOEREN DIVERSE LEIDINGEN OP GRENS VAN GEBOUWTERREIN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270899/506-DB-29.json",
+                        "label": "TOILETGROEP 1E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270899/506-DB-30.json",
+                        "label": "BIMSBETON CASSETTEN PLATEN DAK",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270899/506-DB-31.json",
+                        "label": "BEUGELS VOOR BEVESTIGING STROOMDRAAD IN PLAFOND BEGANEGROND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270899/506-DB-32.json",
+                        "label": "LOOPKRANEN BEGANEGROND EN KELDER",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270899/506-DB-32A.json",
+                        "label": "LOOPKRANEN BEGANEGROND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270899/506-DB-34.json",
+                        "label": "LUIKEN EN VLOEROMRANDINGEN - BEGANEGROND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270899/506-DB-35.json",
+                        "label": "TRAP NAAR EVENTUELE UITBREIDING TE MAKEN VOORZIENINGEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270899/506-DB-36.json",
+                        "label": "LUIKEN EN VLOEROMRANDINGEN - 1E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270899/506-DB-37.json",
+                        "label": "IN TE STORTEN HYSKOKERS ID HUSLUIKEN BEGANEGROND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270899/506-DB-39.json",
+                        "label": "HOESTALEN DORPELS IN GEVELS-BEGANEGROND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270899/506-DB-40.json",
+                        "label": "VERANKERING VOOR CAVITATIETUNNEL TE MAKEN VOORZIENINGEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270899/506-DB-42.json",
+                        "label": "PLATTEGROND EN WANDEN YK LOCAAL 39",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270899/506-DB-43.json",
+                        "label": "AANRACHTEN I,II IN RUIMTEN 36-39",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270899/506-DB-44.json",
+                        "label": "ACOUSTISCHE BEKLEDING IN RUIMTE 5 GOLFMAKER",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270899/506-DB-45.json",
+                        "label": "ACOUSTISCHE BEKLEDING IN TIMMERWERKPLAATS BESTAANDE BOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270899/506-DB-46.json",
+                        "label": "ACOUSTISCHE BEKLEDING IN MEETRUIMTE EN DOORGANG - 1E VERDIEPING -",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270899/506-DB-47.json",
+                        "label": "PLAFONDS AC. BOARD 1E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270899/506-DB-48.json",
+                        "label": "AFDICHTING VLOERRANDEN 747+",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

@@ -1,0 +1,137 @@
+{
+        "label": "AA270950",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA270950"
+                },
+                {
+                        "label": "Koker",
+                        "value": "IWECO"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Werktuigbouwkunde, Maritieme Techniek, Technische Materiaalwetenschappen (3mE)"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270950/AA270950",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270950/613-D-HB-1-1(1).json",
+                        "label": "HOOGBOUW PL.GROND 1E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270950/613-D-HB-1-1(2).json",
+                        "label": "HOOGBOUW PL.GROND 1E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270950/613-D-HB-1-1(3).json",
+                        "label": "HOOGBOUW PL. GROND 4E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270950/613-D-HB-1-2.json",
+                        "label": "HOOGBOUW BALKEN 1E VERDIEPING BALKEN 1 TM 22",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270950/613-D-HB-1-3.json",
+                        "label": "HOOGBOUW BALKEN 1E VERDIEPING BALKEN 25 TM 34, 46,47 EN 49",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270950/613-D-HB-1-4.json",
+                        "label": "HOOGBOUW BALKEN 1E VERDIEPING BALKEN 35 TM 38",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270950/613-D-HB-1-5.json",
+                        "label": "HOOGBOUW BALKEN 1E VERDIEPING BALKEN 39 TM 42",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270950/613-D-HB-1-6.json",
+                        "label": "HOOGBOUW BALKEN 1E VERDIEPING BALKEN 43 TM 45 EN 48",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270950/613-D-HB-1-7.json",
+                        "label": "HOOGBOUW BALKEN 1E VERDIEPING BALKEN 50 TM 56",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270950/613-D-HB-1-8.json",
+                        "label": "HOOGBOUW LIFTWANDEN C.D.L.M.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270950/613-D-HB-1-9.json",
+                        "label": "HOOGBOUW WANDEN VAN 1E VERD. TOT 2E VERD. WANDEN B,G EN H",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270950/613-D-HB-1-10(1).json",
+                        "label": "HOOGBOUW WANDEN VAN 1E VERD. TOT 2E VERD. WANDEN J.K.N. EN P.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270950/613-D-HB-1-10(2).json",
+                        "label": "HOOGBOUW WANDEN VAN 1E VERD. TOT 2E VERD. WANDEN J.K.N. EN P.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270950/613-D-HB-B-5.json",
+                        "label": "HOOGBOUW BEG.GROND BALKEN 44 TM 51",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270950/613-D-HB-B-6.json",
+                        "label": "HOOGBOUW BEG.GROND BALKEN 52 TM 62A",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270950/613-D-HB-B-7.json",
+                        "label": "HOOGBOUW STIEPEN BEG.GROND 17-18A 19 TM 29A 30 EN 33",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270950/613-D-HB-B-8.json",
+                        "label": "HOOGBOUW LIFTWANDEN C.D.L.M.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270950/613-D-HB-B-9.json",
+                        "label": "HOOGBOUW WANDEN VAN BEG.GROND TOT 1E VERD. WANDEN B,G,H EN O",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270950/613-D-HB-B-10.json",
+                        "label": "HOOGBOUW WAND N VAN BEGANEGROND TOT 1E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270950/613-D-HB-B-11.json",
+                        "label": "HOOGBOUW KOLOMMEN TUSSEN BEG.GROND EN 1E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270950/613-D-HB-B-12.json",
+                        "label": "HOOGBOUW STEKEINDEN KOLOMMEN BEG.GROND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270950/613-D-HB-B-13.json",
+                        "label": "HOOGBOUW VETVANGPUT",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270950/613-D-HB-B-14.json",
+                        "label": "HOOGBOUW WANDEN TUSSEN BEG.GROND EN 1E VERD. WANDEN J EN K",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

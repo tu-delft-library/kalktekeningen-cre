@@ -1,0 +1,42 @@
+{
+        "label": "AA270912",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA270912"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Scheikunde"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Chemische Technologie"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270912/AA270912",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270912/05.json",
+                        "label": "NIEUWE TOESTAND KELDER",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270912/06.json",
+                        "label": "NIEUWE TOESTAND KELDER",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270912/07.json",
+                        "label": "NIEUWE TOESTAND KELDER",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270912/08.json",
+                        "label": "NIEUWE TOESTAND KELDER",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

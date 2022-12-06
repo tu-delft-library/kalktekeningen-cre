@@ -1,0 +1,107 @@
+{
+        "label": "AA271023",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA271023"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Elektrotechniek lage voorbouw LVS"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Elektrotechniek, Wiskunde en Informatica (EWI)"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271023/AA271023",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271023/500-SB-LV-1-1.json",
+                        "label": "LAGE VOORBOUW 1E VERDIEPING VLOERPEIL 520",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271023/500-SB-LV-2-1.json",
+                        "label": "LAGE VOORBOUW 2E VERDIEPING VLOERPEIL 895",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271023/500-SB-LV-3-1.json",
+                        "label": "LAGE VOORBOUW 3E VERDIEPING VLOERPEIL 1270",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271023/500-SB-LV-A-2.json",
+                        "label": "LAGE VOORBOUW DWARSDOORSNEDEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271023/500-SB-LV-A-30.json",
+                        "label": "LAGE VOORBOUW OOSTGEVEL OVERZICHT STALEN RAMEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271023/500-SB-LV-A-31.json",
+                        "label": "LAGE VOORBOUW STALEN RAMEN WESTGEVEL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271023/500-SB-LV-A-32.json",
+                        "label": "LAGE VOORBOUW OVERZICHT STALEN RAMEN NOORD EN ZUIDGEVEL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271023/500-SB-LV-A-33.json",
+                        "label": "LAGE VOORBOUW VARIANTEN GLASGEVELDETAILS OP VLOERHOOGTEN EN HOEKDETAILS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271023/500-SB-LV-A-34.json",
+                        "label": "LAGE VOORBOUW DETAILS GLASGEVELS DET NO 7",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271023/500-SB-LV-A-35.json",
+                        "label": "LAGE VOORBOUW STALEN BUITENGEVEL VERT. DOORSNEDE DETAILS 5-14",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271023/500-SB-LV-A-36.json",
+                        "label": "LAGE VOORBOUW DETAILS GLASGEVELS -2-3-4",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271023/500-SB-LV-A-37.json",
+                        "label": "LAGE VOORBOUW DETAILS GLASGEVELS HOEK N-O GEVEL DETAILS NO. 5-7-8",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271023/500-SB-LV-A-38.json",
+                        "label": "LAGE VOORBOUW GLASGEVELDETAILS NOORDGEVEL EN GED. WESTGEVEL DETAILS 1, 10, 10A, 11, 12, 13",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271023/500-SB-LV-A-39.json",
+                        "label": "LAGE VOORBOUW PLATTEGROND EN DOORSNEDEN + GEVEL NOORDELIJK GEDEELTE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271023/500-SB-LV-A-40.json",
+                        "label": "LAGE VOORBOUW AANSLUITING GLASGEVEL DAKGOOT DETAIL NO. 15",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271023/500-SB-LV-A-42.json",
+                        "label": "LAGE VOORBOUW HOEK GEVELS OOST ZUID",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271023/500-SB-LV-T-1.json",
+                        "label": "LAGE VOORBOUW TUSSENVERDIEPING",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

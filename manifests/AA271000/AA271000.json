@@ -1,0 +1,142 @@
+{
+        "label": "AA271000",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA271000"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Elektrotechniek hoogbouw"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Elektrotechniek, Wiskunde en Informatica (EWI)"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271000/AA271000",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271000/184.json",
+                        "label": "LIFTEN DETAIL KOZIJNSTIJL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271000/500-DB-HB-A-38.json",
+                        "label": "HOOGBOUW PRINCIPE GANGPUI MET DEUREN-KOZIJNEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271000/500-SB-HB-A-18.json",
+                        "label": "HOOGBOUW SOORNSEDE BORSTWERING BINNENPUI",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271000/500-SB-HB-A-19.json",
+                        "label": "HOOGBOUW PRINCIPE GANGPUI MET DEUREN-KOZIJNEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271000/500-SB-HB-A-20.json",
+                        "label": "HOOGBOUW PLAATSTALEN VENTILATIEBLOK",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271000/500-SB-HB-A-21.json",
+                        "label": "HOOGBOUW VERZAMELBLAD STALEN BINNENPUIEN EN PLAATSTALEN KOZIJNEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271000/500-sb-hb-a-22.json",
+                        "label": "HOOGBOUW PRINCIPEDETAILS STALEN BINNEN PUIEN VERT. DOORSNEDEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271000/500-SB-HB-A-23.json",
+                        "label": "HOOGBOUW PRINCIPE DETAILS STALEN BINNENPUIEN HOR. DOORSNEDEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271000/500-SB-HB-A-24.json",
+                        "label": "HOOGBOUW PRINCIPEDETAILS PLAATSTALEN BINNENKOZIJNEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271000/500-SB-HB-A-25.json",
+                        "label": "PRINCIPE PLAFONDINDELING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271000/500-SB-HB-A-26.json",
+                        "label": "HOOGBOUW PRINCIPE CONSTR VELUM",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271000/500-SB-HB-A-27.json",
+                        "label": "HOOGBOUW DILATATIEVOEGEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271000/500-SB-HB-A-28.json",
+                        "label": "HOOGBOUW TOILETGROUP VERDIEPINGEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271000/500-SB-HB-A-29.json",
+                        "label": "VERBINDINGSGANG HOOGBOUW LAGE VOORBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271000/500-SB-HB-A-30.json",
+                        "label": "TERREIN GEGEVENS BESTAANDE TOESTAND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271000/500-SB-HB-A-31.json",
+                        "label": "HOOGBOUW TRAPPEN MET DETAILS EN PLATTEGRONDEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271000/500-SB-HB-A-32.json",
+                        "label": "HOOGBOUW VENT. KAP BIJ COLLEGEZAAL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271000/500-SB-HB-A-33.json",
+                        "label": "HOOGBOUW ALTERNATIEF TRAPLEUNING DOORDNEDEN TRAPHUIS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271000/500-SB-HB-A-34.json",
+                        "label": "ALTERNATIEF SCHUIVENDE MUURAANSLUITING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271000/500-SB-HB-A-36.json",
+                        "label": "HOOGBOUW PRINCIPE VELUM IN GANG ALTERNATIEF 1",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271000/500-SB-HB-A-37.json",
+                        "label": "HOOGBOUW ALTERNATIEF 2 PRINCIPE VELUM IN GANG",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271000/500-SB-HB-A-39.json",
+                        "label": "HOOGBOUW ALTERNATIEF Z.W. GEVEL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271000/500-SB-HB-A-40.json",
+                        "label": "HOOGBOUW DETAIL DAKRAND ALTERNATIEF IN ALUMINIUM",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271000/500-SB-HB-A-41.json",
+                        "label": "HOOGBOUW DETAILS DAKRAND ALTERNATIEF IN STAAL",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

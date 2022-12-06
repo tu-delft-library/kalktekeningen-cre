@@ -1,0 +1,112 @@
+{
+        "label": "AA270868",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA270868"
+                },
+                {
+                        "label": "Koker",
+                        "value": "TNW"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Technische Natuurkunde"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270868/AA270868",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270868/AI.-B.json",
+                        "label": "BEGANE GROND VLEUGEL AI",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270868/Blad R.L.json",
+                        "label": "BEGANE GROND VLEUGEL AI",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270868/R-AII-1E.json",
+                        "label": "1E VERDIEPING VLEUGEL AII",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270868/R.-AI-2E.json",
+                        "label": "REVISIETEKENING VLEUGEL AI 2E",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270868/R.-AII-2e.json",
+                        "label": "2E VERDIEPING VLEUGEL AII",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270868/R.-AII-B.json",
+                        "label": "2E VERDIEPING VLEUGEL AII",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270868/R.-AZ-1E.json",
+                        "label": "1E VERDIEPING VLEUGEL AI",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270868/R.-B.i-B._1.json",
+                        "label": "BEGANE GROND VLEUGEL BZ",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270868/R.-B.i-B._2.json",
+                        "label": "BEGANE GROND VLEUGEL BI",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270868/R.-B.I-K.json",
+                        "label": "BEGANE GROND VLEUGEL BI",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270868/R.-BI-2e.json",
+                        "label": "2E VERDIEPING VLEUGEL BI",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270868/R.-Bz-1e.json",
+                        "label": "1E VERDIEPING VLEUGEL BZ",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270868/R.-IV-1e.json",
+                        "label": "1E VERDIEPING BLOK IV",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270868/R.-IV-2e.json",
+                        "label": "1E VERDIEPING BLOK IV",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270868/R.-IV-3e.json",
+                        "label": "3E VERDIEPING BLOK IV",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270868/R.-IV-4e.json",
+                        "label": "4E VERDIEPING BLOK IV",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270868/R.-IV-B.json",
+                        "label": "4E VERDIEPING BLOK IV",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270868/R.-IV-K.json",
+                        "label": "4E VERDIEPING BLOK IV",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

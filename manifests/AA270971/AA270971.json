@@ -1,0 +1,152 @@
+{
+        "label": "AA270971",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA270971"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Scheepconstructie dakopbouw"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Werktuigbouwkunde, Maritieme Techniek, Technische Materiaalwetenschappen (3mE)"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270971/AA270971",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270971/795-D-1.json",
+                        "label": "BETON- EN STAALCONSTRUCTIE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270971/795-D-2 .json",
+                        "label": "BETON- EN STAALCONSTRUCTIE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270971/795-D-2-WAP.json",
+                        "label": "BETONCONSTRUCTIE TRAPPENHUIZEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270971/795-DB-1.json",
+                        "label": "TRAPPENHUIZEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270971/795-DB-2.json",
+                        "label": "TRAPPEN-DETAILS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270971/795-DB-3(1).json",
+                        "label": "PLATTEGROND EN DAKPLATTEGROND REVISIETEKENING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270971/795-DB-3(2).json",
+                        "label": "DETAILS DAK",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270971/795-DB-4.json",
+                        "label": "DETAILS OPLEGGING RAIL TBV GLAZENWASLADDER",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270971/795-DB-5.json",
+                        "label": "GEVELFRAGMENTEN + DOORSNEDEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270971/795-DB-6.json",
+                        "label": "GEVELDETAILS 1 TM 13",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270971/795-DB-7.json",
+                        "label": "DETAILS 14 TM 27 UITGEZONDERD DETAILS 20 EN 21 + DETAIL DILATATIEVOEGF ZUIDGEVEL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270971/795-DB-8.json",
+                        "label": "DETAILS 28 TM 41",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270971/795-DB-9.json",
+                        "label": "DETAILS 20 EN 21",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270971/795-DB-10.json",
+                        "label": "PLAFONDINDELING + DOORSNEDEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270971/795-DB-11.json",
+                        "label": "GYPTEX WANDEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270971/795-DB-12.json",
+                        "label": "GRANITO TRAPTREDEN, STOOTBORDEN, BORDESRANDEN ENZ.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270971/795-DB-13.json",
+                        "label": "PLAATSTALEN VENSTERBANKEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270971/795-DB-14.json",
+                        "label": "PLAFONDHANGERS TUSSEN MODUUL W EN Q",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270971/795-DB-15.json",
+                        "label": "RIOLERING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270971/795-DB-16.json",
+                        "label": "DOKA 1E VERD",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270971/795-DB-17.json",
+                        "label": "WIJZIGING TOEGANGSPUI TOILET",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270971/795-DB-18.json",
+                        "label": "AANRECHT MET KASTEN DOKA 1E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270971/795-DB-19.json",
+                        "label": "COLLOQUIUMZAAL VERDUISTERING AANVRAAGTEKENING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270971/795-S-1.json",
+                        "label": "BETON- EN STAALCONSTRUCTIE BESTEKTEKENING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270971/795-SB-1.json",
+                        "label": "BESTEKTEKENING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270971/795-SB-2.json",
+                        "label": "DETAILS EN DOORSNEDEN",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

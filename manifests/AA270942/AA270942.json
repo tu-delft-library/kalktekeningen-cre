@@ -1,0 +1,147 @@
+{
+        "label": "AA270942",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA270942"
+                },
+                {
+                        "label": "Koker",
+                        "value": "W en S werkplaats techniek"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Industrieel Ontwerpen (IO)"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270942/AA270942",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270942/612-D-3-2.01.json",
+                        "label": "DEEL 2 WAND-C MIDDENKOL. VAN 2E VERDIEPING NAAR 3E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270942/612-D-3-2.02.json",
+                        "label": "DEEL 2 RANDKOLOMMEN VAN 2E VERD. NAAR 3E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270942/612-D-3-2.03.json",
+                        "label": "DEEL 2 3E VERDIEPING BALK 1 TM 10-37 TM 40",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270942/612-D-3-2.04.json",
+                        "label": "DEEL 2 3E VERDIEPING BALKEN 21 TM 36",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270942/612-D-3-2.05.json",
+                        "label": "DEEL 2 3E VERDIEPING RANDBALKEN 11 TM 20",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270942/612-D-3-3.01.json",
+                        "label": "DEEL 3 KOLOMMEN VAN 2E VERD.-3E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270942/612-D-3-3.02.json",
+                        "label": "DEEL 3 3E VERDIEPING WANDEN VAN 2E-3E VERD. WAND B.C.H.J.K.L. EN OP MOD. R EN T",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270942/612-D-3-3.03.json",
+                        "label": "DEEL 3 3E VERDIEPING BALKEN 1 TM 13",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270942/612-D-3-3.04.json",
+                        "label": "DEEL 3 3E VERDIEPING BALKEN 26 TM 51",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270942/612-D-3-3.05.json",
+                        "label": "DEEL 3 3E VERDIEPING BALKEN 14 TM 25",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270942/612-D-4-1.01.json",
+                        "label": "DEEL 1 4E VERDIEPING LIFTWANDEN D.E.J. EN K. VAN 3E VERD.-4E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270942/612-D-4-1.02.json",
+                        "label": "DEEL 1 4E VERDIEPING LIFTWANDEN F.G.M.N.R. EN WAND H. EN L. VAN 3E-4E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270942/612-D-4-1.03.json",
+                        "label": "DEEL 1 4E VERDIEPING KOLOMMEN VAN 3E VERD.-4E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270942/612-D-4-1.04.json",
+                        "label": "DEEL 1 4E VERDIEPING BALKEN 2 TM 20",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270942/612-D-4-1.05.json",
+                        "label": "DEEL 1 4E VERDIEPING BALKEN 21 TM 32",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270942/612-D-4-1.06.json",
+                        "label": "DEEL 1 4E VERDIEPING BALKEN 33 TM 57",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270942/612-D-4-1.07.json",
+                        "label": "DEEL 1 4E VERDIEPING BALKEN 58 TM 66",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270942/612-D-4-1.json",
+                        "label": "DEEL 1 PLATTEGROND 4E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270942/612-D-4-2.01.json",
+                        "label": "DEEL 2 WAND-C KOLOMMEN VAN 3E VERD.-4E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270942/612-D-4-2.02.json",
+                        "label": "DEEL-2-4E VERDIEPING BALK 1 TM 10-21 TM 40",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270942/612-D-4-2.03.json",
+                        "label": "DEEL-2-4E VERDIEPING RANDBALKEN 11 TM 20",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270942/612-D-4-2.json",
+                        "label": "DEEL-2-PLATTEGROND 4E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270942/612-D-4-3.01.json",
+                        "label": "DEEL 3 4E VERDIEPING KOLOMMEN VAN 3E VERD. -4E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270942/612-D-4-3.02.json",
+                        "label": "DEEL 3 4E VERDIEPING WANDEN VAN 3E-4E VERD. WAND B.C.H.J.K.L. EN OP MOD. R EN T",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270942/612-D-4-3.json",
+                        "label": "DEEL 3 PLATTEGROND 4E VERDIEPING",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

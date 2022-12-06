@@ -1,0 +1,152 @@
+{
+        "label": "AA271062",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA271062"
+                },
+                {
+                        "label": "Koker",
+                        "value": "CMC"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Logistiek & Milieu"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271062/AA271062",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271062/0.67.16.1.json",
+                        "label": "GEEN OMSCHRIJVING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271062/1712-DB-2.json",
+                        "label": "PLATTEGROND WESTVLEUGEL EN MIDDENBEUK",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271062/1712-DB-3.json",
+                        "label": "PLATTEGROND OOSTVLEUGEL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271062/1712-DB-4.json",
+                        "label": "DAKPLATTEGROND WESTVLEUGEL DETAILERING VENTILATIE KANALEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271062/1712-DB-5.json",
+                        "label": "DAKPLATTEGROND OOSTVLEUGEL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271062/1712-DB-6.json",
+                        "label": "PLATTEGROND OOSTVLEUGEL RIOLERING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271062/1712-DB-7.json",
+                        "label": "PLATTEGROND WESTVLEUGEL EN MIDDENBEUK RIOLERING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271062/1712-S-1.json",
+                        "label": "PALENPLAN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271062/1712-S-2.json",
+                        "label": "PLATTEGR. HOOFDGEBOUW-BIJGEBOUWTJES EN DAKOPBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271062/1712-SB-1.json",
+                        "label": "SITUATIE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271062/1712-SB-2.json",
+                        "label": "PLATTEGROND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271062/1712-SB-3.json",
+                        "label": "PLATTEGROND DAK EN DAKOPBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271062/1712-SB-4.json",
+                        "label": "DOORSNEDEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271062/1712-SB-5.json",
+                        "label": "DOORSNEDEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271062/1712-SB-6.json",
+                        "label": "GEVELS HOOFDGEBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271062/1712-SB-7.json",
+                        "label": "GEVELS EN DOORSNEDEN VAN DE BIJGEBOUWTJES C-19, C-20, C-22",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271062/1712-SB-8(1).json",
+                        "label": "RIOLERING PLATTEGROND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271062/1712-SB-8(2).json",
+                        "label": "RIOLERING PLATTEGROND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271062/1712-SB-9.json",
+                        "label": "PLAFONDS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271062/1712-SB-10.json",
+                        "label": "DETAILS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271062/1712-SB-11.json",
+                        "label": "PUIENSTAAT",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271062/1712-VB-10.json",
+                        "label": "GEVELS EN DOORSNEDEN VAN DE BIJGEBOUWTJES C-19, C-20, C-22",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271062/1712-VB-13.json",
+                        "label": "GEVELS HOOFDGEBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271062/1712-VB-14.json",
+                        "label": "DOORSNEDEN A_A, B-B, C-C, D-D",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271062/1712-VB-15.json",
+                        "label": "SITUATIE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271062/1928-14.json",
+                        "label": "RIOLERING BESTEKTEKENING",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

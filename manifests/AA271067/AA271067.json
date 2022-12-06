@@ -1,0 +1,92 @@
+{
+        "label": "AA271067",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA271067"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Windtunnel uitbreiding"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Lage Snelheden Laboratorium / VSSD / Inholland"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271067/AA271067",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271067/1368-DB-10(1).json",
+                        "label": "GEEN OMSCHRIJVING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271067/1368-DB-10(2).json",
+                        "label": "ZUIDGEVEL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271067/1368-DB-11.json",
+                        "label": "WESTGEVEL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271067/1368-DB-12.json",
+                        "label": "NOORDGEVEL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271067/1368-SB-10(1).json",
+                        "label": "ZUIDGEVEL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271067/1368-SB-10(2).json",
+                        "label": "ZUIDGEVEL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271067/1368-SB-11.json",
+                        "label": "WESTGEVEL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271067/1368-SB-12.json",
+                        "label": "NOORDGEVEL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271067/1368-SB-13(1).json",
+                        "label": "WESTGEVEL UITBREID MET DOORSNEDE BESTAAND GEBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271067/1368-SB-13(2).json",
+                        "label": "WESTGEVEL UITBREID MET DOORSNEDE BESTAAND GEBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271067/1368-SB-13(3).json",
+                        "label": "WESTGEVEL UITBREID MET DOORSNEDE BESTAAND GEBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271067/1368-SB-14.json",
+                        "label": "PRINCIPE-DETAILS BUITENKOZIJNEN, BORSTWERINGEN EN DAKRANDEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271067/1368-SB-15.json",
+                        "label": "PRINCIPE-DETAILS MERBAU KOZIJNEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271067/1368-SB-16.json",
+                        "label": "OVERZICHT BINNENPUIEN -DEUREN EN -KOZIJNEN MET PRINCIPE-DETAILS",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

@@ -1,0 +1,102 @@
+{
+        "label": "AA270913",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA270913"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Scheikunde"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Chemische Technologie"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270913/AA270913",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270913/158.json",
+                        "label": "BOVENAANZICHT EN DOORSNEDEN DAKVLAKKEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270913/160.json",
+                        "label": "BOVENAANZICHT EN DOORSNEDEN DAKVLAKKEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270913/161.json",
+                        "label": "BOVENAANZICHT EN DOORSNEDEN DAKVLAKKEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270913/162.json",
+                        "label": "BOVENAANZICHT EN DOORSNEDEN DAKVLAKKEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270913/180.json",
+                        "label": "BOVENAANZICHT EN DOORSNEDEN DAKVLAKKEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270913/181.json",
+                        "label": "BOVENAANZICHT EN DOORSNEDEN DAKVLAKKEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270913/183.json",
+                        "label": "BOVENAANZICHT EN DOORSNEDEN DAKVLAKKEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270913/520.json",
+                        "label": "BOVENAANZICHT EN DOORSNEDEN DAKVLAKKEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270913/521.json",
+                        "label": "BOVENAANZICHT EN DOORSNEDEN DAKVLAKKEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270913/528.json",
+                        "label": "BOVENAANZICHT EN DOORSNEDEN DAKVLAKKEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270913/680.json",
+                        "label": "BOVENAANZICHT EN DOORSNEDEN DAKVLAKKEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270913/681.json",
+                        "label": "BOVENAANZICHT EN DOORSNEDEN DAKVLAKKEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270913/682.json",
+                        "label": "BOVENAANZICHT EN DOORSNEDEN DAKVLAKKEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270913/683.json",
+                        "label": "BOVENAANZICHT EN DOORSNEDEN DAKVLAKKEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270913/688.json",
+                        "label": "BOVENAANZICHT EN DOORSNEDEN DAKVLAKKEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270913/694.json",
+                        "label": "BOVENAANZICHT EN DOORSNEDEN DAKVLAKKEN",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

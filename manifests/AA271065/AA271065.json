@@ -1,0 +1,87 @@
+{
+        "label": "AA271065",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA271065"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Windtunnel"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Lage Snelheden Laboratorium / VSSD / Inholland"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271065/AA271065",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271065/1.json",
+                        "label": "REVISIETEKENING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271065/2.json",
+                        "label": "REVISIETEKENING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271065/3.json",
+                        "label": "REVISIETEKENING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271065/4.json",
+                        "label": "REVISIETEKENING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271065/5-148(1).json",
+                        "label": "GEW.BETONFUNDATIE V.H. COMPRESSORGEBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271065/5-148(2).json",
+                        "label": "VERBINDINGSTUNNEL TUSSEN HOOFDGEBOUW EN COMPRESSORGEBOUW DETAILS HOUTWERK",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271065/5-166.json",
+                        "label": "COMPRESSORGEBOUW REVISIE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271065/5.json",
+                        "label": "COMPRESSORGEBOUW REVISIE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271065/6-196.json",
+                        "label": "HOGE DRUKINSTALLATIE BOUWKUNDIG GEDEELTE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271065/6.json",
+                        "label": "HOGE DRUKINSTALLATIE BOUWKUNDIG GEDEELTE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271065/7.json",
+                        "label": "HOGE DRUKINSTALLATIE BOUWKUNDIG GEDEELTE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271065/8.json",
+                        "label": "HOGE DRUKINSTALLATIE BOUWKUNDIG GEDEELTE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271065/9.json",
+                        "label": "HOGE DRUKINSTALLATIE BOUWKUNDIG GEDEELTE",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

@@ -1,0 +1,162 @@
+{
+        "label": "AA271002",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA271002"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Elektrotechniek lage voorbouw"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Elektrotechniek, Wiskunde en Informatica (EWI)"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271002/AA271002",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271002/22.json",
+                        "label": "BEGANE GROND RECHTER MIDDENGEDEELTE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271002/500-SB-LV-1-1.json",
+                        "label": "LAGE VOORBOUW 1E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271002/500-SB-LV-2-1.json",
+                        "label": "LAGE VOORBOUW 2E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271002/500-SB-LV-3-1.json",
+                        "label": "LAGE VOORBOUW 3E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271002/500-SB-LV-A-1.json",
+                        "label": "LAGE VOORBOUW LENGTEDOORSNEDEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271002/500-SB-LV-A-2.json",
+                        "label": "LAGE VOORBOUW DWARSDOORSNEDEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271002/500-SB-LV-A-3.json",
+                        "label": "LAGE VOORBOUW OOSTGEVEL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271002/500-SB-LV-A-4.json",
+                        "label": "LAGE VOORBOUW WESTGEVEL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271002/500-SB-LV-A-5.json",
+                        "label": "LAGE VOORBOUW NOORD EN ZUIDGEVEL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271002/500-SB-LV-A-6.json",
+                        "label": "LAGE VOORBOUW OOSTGEVEL OVERZICHT STALEN RAMEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271002/500-SB-LV-A-7.json",
+                        "label": "LAGE VOORBOUW OVERZICHT STALEN RAMEN WESTGEVEL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271002/500-SB-LV-A-8.json",
+                        "label": "LAGE VOORBOUW OVERZICHT STALEN RAMEN NOORD EN ZUIDGEVEL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271002/500-SB-LV-A-9.json",
+                        "label": "LAGE VOORBOUW DETAILS GLASGEVELS BEG. GR.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271002/500-SB-LV-A-10.json",
+                        "label": "LAGE VOORBOUW DETAILS GLASGEVELS BEG. GR.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271002/500-SB-LV-A-11.json",
+                        "label": "LAGE VOORBOUW DETAILS GLASGEVELS BEG. GR.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271002/500-SB-LV-A-16.json",
+                        "label": "VERZAMELBLAD STALEN BINNEN PUIEN  PLAATSTALEN KOZIJNEN \u2013 LAGE VOORBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271002/500-SB-LV-A-18.json",
+                        "label": "LAGE VOORBOUW VERZAMELBLAD HOUTEN PUIEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271002/500-SB-LV-A-19.json",
+                        "label": "LAGE VOORBOUW PRINCIPE BINNENPUI WERKGANG",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271002/500-SB-LV-A-20.json",
+                        "label": "LAGE VOORBOUW KASTENWAND en GANG",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271002/500-SB-LV-A-21.json",
+                        "label": "LAGE VOORBOUW VENTILATIEBLOK PLAATSTAAL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271002/500-SB-LV-A-22.json",
+                        "label": "LAGE VOORBOUW CONSTRUCTIE VELUM",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271002/500-SB-LV-A-23.json",
+                        "label": "LAGE VOORBOUW DETAILS LUCHTVERWARMINGSKASTEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271002/500-SB-LV-A-24.json",
+                        "label": "LAGE VOORBOUW DETAILS BORSTWERING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271002/500-SB-LV-A-25.json",
+                        "label": "LAGE VOORBOUW PRINCIPE PLAFONDINDELING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271002/500-SB-LV-B-1.json",
+                        "label": "LAGE VOORBOUW BEGANE GROND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271002/500-SB-LV-B-2.json",
+                        "label": "LAGE VOORBOUW PLAN RIOLERING DRAINS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271002/500-SB-LV-D-1.json",
+                        "label": "LAGE \u2013 VOORBOUW DAK PEIL 1645+",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271002/500-SB-LV-T-1.json",
+                        "label": "LAGE VOORBOUW TUSSENVERDIEPING",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

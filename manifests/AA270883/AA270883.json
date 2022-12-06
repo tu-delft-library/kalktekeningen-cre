@@ -1,0 +1,122 @@
+{
+        "label": "AA270883",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA270883"
+                },
+                {
+                        "label": "Koker",
+                        "value": "W en S Kantine"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Werktuigbouwkunde, Maritieme Techniek, Technische Materiaalwetenschappen (3mE)"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270883/AA270883",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270883/464-R-SB-4.json",
+                        "label": "GEVEL BEKLEDING ALGEHEEL OVERZICHT",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270883/464-S-2.json",
+                        "label": "CANTINE COLLEGEZALEN COMPLEX METING BESTAANDE BETONCONSTRUCTIE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270883/464-SB-1.json",
+                        "label": "CANTINE TERRAS COLLEGEZALENCOMPLEX PLATTEGROND DOORSNEDEN EN AANZICHTEN.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270883/464-SB-2.json",
+                        "label": "CANTINE COLLEGEZALEN DETAILS DAKRAND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270883/464-SB-3.json",
+                        "label": "CANTINE OP TERRAS COLLEGEZALENCOMPLEX DETAILS BORSTWERING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270883/464-SB-4.json",
+                        "label": "GEVEL BEKLEDING ALGEHEEL OVERZICHT",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270883/464-SB-5.json",
+                        "label": "GEVEL BEKLEDING TOELICHTENDE DETAILS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270883/464-SB-6.json",
+                        "label": "CANTINE COLLEGEZALEN COMPL. VERLAAGD PLAFONS.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270883/464-SB-R-1.json",
+                        "label": "CANTINE OP TERRAS COLLEGEZALENCOMPLEX PLATTEGRONDEN DOORSNEDEN EN AANZICHTEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270883/464-VB-Z-10.json",
+                        "label": "CANTINE OP TERRAS COLLEGEZALEN COMPLEX PRINCIPE DETAILS TBV AANVRAAG ZONWERING EN ALUM, GEVELBEKLEDING.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270883/464-VB-Z-11.json",
+                        "label": "CANTINE COLLEGEZALENC. SCHUIFRUITEN BALIE.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270883/464-VB-Z-12.json",
+                        "label": "PLAN CANTINE TH DELFT ZONWERING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270883/464-VB-Z-13.json",
+                        "label": "PLAN CANTINE TH DELFT ZONWERING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270883/464-VB-Z1.json",
+                        "label": "ZONWERING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270883/464-VB-Z2.json",
+                        "label": "ZONWERING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270883/464-VB-Z4.json",
+                        "label": "GEVEL BEKLEDING ALGEHEEL OVERZICHT AANVRAGE ALUMINUM",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270883/464-VB-Z5.json",
+                        "label": "GEVEL BEKLEDING TOELICHTENDE DETAILS AANVRAGE ALUMINIUM",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270883/464-VB-Z8.json",
+                        "label": "GEVEL BEKLEDING ALGEHEEL OVERZICHT AANVRAGE THERMOPANE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270883/464-VB-Z9.json",
+                        "label": "GEVEL BEKLEDING TOELICHTENDE DETAILS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270883/464.S-1.json",
+                        "label": "GEEN OMSCHRIJVING",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

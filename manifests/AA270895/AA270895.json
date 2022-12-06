@@ -1,0 +1,147 @@
+{
+        "label": "AA270895",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA270895"
+                },
+                {
+                        "label": "Koker",
+                        "value": "W en S werkplaatstechniek"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Industrieel Ontwerpen (IO)"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270895/AA270895",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270895/612-D-4-2.02.json",
+                        "label": "DEEL-2-4E VERDIEPING BALK 1 TM 10-21 TM 40",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270895/612-D-4-2.03.json",
+                        "label": "DEEL-2-4E VERDIEPING RANDBALKEN 11 TM 20",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270895/612-D-4-301.json",
+                        "label": "DEEL 3 4E VERDIEPING KOLOMMEN VAN 3E VERD.-4E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270895/612-D-4-302.json",
+                        "label": "DEEL 3 4E VERDIEPING WANDEN VAN 3E-4E VERD. WAND. B.C.H.J.K.L. EN OP MOD. R. EN T.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270895/612-D-4-303.json",
+                        "label": "DEEL 3 4E VERDIEPING BALKEN 1 TM 13",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270895/612-D-4-304.json",
+                        "label": "DEEL 3 4E VERDIEPING BALKEN 26 TM 51",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270895/612-D-4-305.json",
+                        "label": "DEEL 3 4E VERDIEPING BALKEN 14 TM 25",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270895/612-D-D-1.01.json",
+                        "label": "DEEL 1 DAK HOOFDTRAP 4E VERD. LIFTMACHINE-KAMER",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270895/612-D-D-1.02.json",
+                        "label": "DEEL 1 DAK LIFTMACHINEKAMER TUSSEN ASSEN 16-17",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270895/612-D-D-1.03.json",
+                        "label": "DEEL 1 DAK LIFTMACHINEKAMER TUSSEN ASSEN 3-5",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270895/612-D-D-1.04.json",
+                        "label": "DEEL 1 DAK LIFTWANDEN D.E.J. EN K. VAN 4E VERD.-MACH.KAMERVLOER",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270895/612-D-D-1.05.json",
+                        "label": "DEEL 1 DAK LIFTWANDEN F.G.L.M.N.P.H. VAN 4E VERD.-MACH.KAMERVLOER",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270895/612-D-D-1.06.json",
+                        "label": "DEEL 1 DAK KOLOMMEN VAN 4E VERD.-DAK",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270895/612-D-D-1.07.json",
+                        "label": "DEEL 1 DAK BALKEN 17.20 EN 36 TM 58",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270895/612-D-D-1.08.json",
+                        "label": "DEEL 1 DAK BALKEN 59 TM 69",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270895/612-D-D-1.09.json",
+                        "label": "DEEL 1 DAK BALKEN 18.19 21 TM 23",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270895/612-D-D-1.json",
+                        "label": "DEEL 1 PLATTEGROND DAK",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270895/612-D-D-2.01.json",
+                        "label": "DEEL 2 WAND C EN KOLOMMEN V. 4E VERD. -> DAK",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270895/612-D-D-2.02.json",
+                        "label": "DEEL 2 DAKBALKEN 21 TM 40",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270895/612-D-D-2.json",
+                        "label": "DEEL 2 PLATTEGROND DAK",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270895/612-D-D-3.01.json",
+                        "label": "DEEL 3 DAK KOLOMMEN VAN 4E VERD.-DAK",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270895/612-D-D-3.02.json",
+                        "label": "DEEL 3 DAK WANDEN VAN 4E VERD.-DAK WAND. B.C.H.J.K. EN L.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270895/612-D-D-3.03.json",
+                        "label": "DEEL 3 DAKBALKEN 13.14 27 TM 53",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270895/612-D-D-3.json",
+                        "label": "DEEL 3 PLATTEGROND DAK",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270895/612-D-K-1 WAP.json",
+                        "label": "DEEL 1 PLATTEGROND KELDER",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

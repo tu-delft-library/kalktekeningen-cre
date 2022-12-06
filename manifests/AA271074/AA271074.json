@@ -1,0 +1,112 @@
+{
+        "label": "AA271074",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA271074"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Elektotechniek lage hallen"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Elektrotechniek, Wiskunde en Informatica (EWI)"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271074/AA271074",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271074/500-DB-LH-B-4.json",
+                        "label": "LAGE HALLEN SCHUIFDEUREN WESTGEVEL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271074/500-DB-LH-B-6.json",
+                        "label": "LAGE HALLEN INDELING BEGANEGROND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271074/500-DB-LH-B-23.json",
+                        "label": "LAGE HALLEN STALEN TRAPPEN NAAR GALERIJEN IN RUIMTEN 013 EN 024",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271074/500-DB-LH-B-25.json",
+                        "label": "LAGE HALLEN DETAILS SCHUIFDEUREN WESTGEVEL 1 TM 10",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271074/500-DB-LH-B-26.json",
+                        "label": "LAGE HALLEN DETAILS SCHUIFDEUREN WESTGEVEL 11 TM 15",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271074/500-DB-LH-B-27.json",
+                        "label": "LAGE HALLEN PLATTEGROND BEG.GR. DEEL I",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271074/500-DB-LH-B-28.json",
+                        "label": "LAGE HALLEN PLATTEGROND BEG.GROND DEEL II",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271074/500-DB-LH-B-29.json",
+                        "label": "LAGE HALLEN DEEL I SPARINGEN ENZ. BEGANEGROND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271074/500-DB-LH-B-30.json",
+                        "label": "LAGE HALLEN DEEL II SPARINGEN ENZ. BEGANEGROND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271074/500-DB-LH-B-31.json",
+                        "label": "LAGE HALLEN SITUATIE MACHINE LABORATORIUM SPANRAILS EN SPARINGEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271074/500-DB-LH-B-32.json",
+                        "label": "LAGE HALLEN DWARSDOORSNEDE OVER SPANRAILS EN DOORVOERHULZEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271074/500-DB-LH-B-33.json",
+                        "label": "LAGE HALLEN LANGSDOORSNEDEN DOORVOERHULZEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271074/500-DB-LH-B-34.json",
+                        "label": "LAGE HALLEN AFSLUITING SPARINGEN 20X20 ELECTRICITEITS VOORZIENINGEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271074/500-DB-LH-B-35.json",
+                        "label": "LAGE HALLEN AFSLUITING SPARINGEN 30X40 CM ELECTRICITEITS VOORZIENING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271074/500-DB-LH-B-36.json",
+                        "label": "LAGE HALLEN SCHAKEL BORDES-SITUATIE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271074/500-DB-LH-H-10.json",
+                        "label": "LAGE HALLEN HERINDELING KELDER TUSSEN SYSTEEMLYNEN 023B-029",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271074/500-DB-LH-K-11.json",
+                        "label": "LAGE HALLEN STALEN TRAP LAB. ELEK. VOORZ.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271074/500-VB-LH-A-37.json",
+                        "label": "LAGE HALLEN VOORSTEL ACOUSTISCH en STOFWEREND PLAFOND ONDER DE SHEDS",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

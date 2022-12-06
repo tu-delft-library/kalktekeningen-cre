@@ -1,0 +1,112 @@
+{
+        "label": "AA271053",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA271053"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Civiele techniek hoofdgebouw binnenriolering"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Civiele Techniek en Geowetenschappen (CiTG)"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271053/AA271053",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271053/1197-Be 23.json",
+                        "label": "HOOFDGEBOUW DIEPRIOLERING TUSSEN AS 62-70",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271053/1197-Be 25.json",
+                        "label": "HOOFDGEBOUW DIEPRIOLERING TUSSEN AS 36-50",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271053/1197-Be 26.json",
+                        "label": "HOOFDGEBOUW DIEPRIOLERING TUSSEN AS 28-36",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271053/1197-Be 27.json",
+                        "label": "HOOFDGEBOUW DIEPRIOLERING TUSSEN AS 19-28 EN E-B",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271053/1197-Be 28A.json",
+                        "label": "HOOFDGEBOUW BEGANEGROND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271053/1197-Be 31.json",
+                        "label": "HOOFDGEBOUW RIOLERING EN H.W. AFVOEREN WERKPLAATSEN BEGANEGROND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271053/1197-Be 43.json",
+                        "label": "HOOFDGEBOUW STANDLEIDINGEN EN H.W. AFVOERENLEIDINGEN T.P.V. AS 16-32-40-56-64 EN 6970 C-D",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271053/1197-Be 44.json",
+                        "label": "HOOFDGEBOUW STANDLEIDINGEN EN H.W. AFVOEREN T.P.V. TOILETGROEPEN EN COLLEGEZALEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271053/1197-Be 50.json",
+                        "label": "HOOFDGEBOUW RIOLERING EN H.W. AFVOEREN T.P.V. NIVEAU 262 5+ T.P.V. AS 47-49",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271053/1197-Be 51.json",
+                        "label": "HOOFDGEBOUW H.W. AFVOEREN EN ONTL. IN TOILETGROEP EN COLLEGEZALEN 130-133-160-163 T.P.V. AS 23-25 en 47-50",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271053/1197-Be 52.json",
+                        "label": "HOOFDGEBOUW RIOLERING EN H.W. AFVOEREN T.P.V. AS 23-25 NIVEAU 262 5+",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271053/1197-Be 54.json",
+                        "label": "HOOFDGEBOUW RIOLERING EN H.W. AFVOEREN TEKENZALEN T.P.V. AS 4-11 NIVEAU 1256+ en 1886+",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271053/1197-Be 62.json",
+                        "label": "HOOFDGEBOUW STANDLEIDINGEN EN H.W. AFVOEREN SCHACHT T.P.V. AS 16-32-40-56-64-69",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271053/1197-Be 63.json",
+                        "label": "HOOFDGEBOUW STANDLEIDINGEN EN H.W. AFVOEREN T.P.V. AS 22-23, 25-26, 46-47, 49-50",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271053/1197-Be 64.json",
+                        "label": "HOOFDGEBOUW H.W. AFVOEREN STUDENTENADMINISTRATIE EN VERGADERZALEN NIVEAU 630+ EN 1260+",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271053/1197-Be24.json",
+                        "label": "GEEN OMSCHRIJVING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271053/1673-Be 79.json",
+                        "label": "HOOFDGEBOUW STANDLEIDINGEN EN H.W. AFVOEREN SCHACHT T.P.V. AS 16-32-40-56-64-69",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271053/1673-Be 82.json",
+                        "label": "HOOFDGEBOUW H.W. AFVOEREN DAKOPBOUW TEKENZALEN",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

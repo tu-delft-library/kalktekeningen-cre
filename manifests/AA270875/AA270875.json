@@ -1,0 +1,112 @@
+{
+        "label": "AA270875",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA270875"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Woningen Michiel de Ruyterweg huisnr. 33 tm 39"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "00-22.48"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270875/AA270875",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270875/513.json",
+                        "label": "BESTEKTEKENING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270875/Blad 1A.json",
+                        "label": "BESTEKTEKENING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270875/Blad 2.json",
+                        "label": "BEGANE GROND EN FUNDERING MET RIOLERING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270875/Blad 3.json",
+                        "label": "1E VERDIEPING EN VLOERCONSTRUCTIE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270875/Blad 4.json",
+                        "label": "2E VERDIEPING EN VLOERCONSTRUCTIE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270875/Blad 5.json",
+                        "label": "PLAFOND HANGERS EN KAPPLAN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270875/Blad 6.json",
+                        "label": "VOORGEVEL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270875/Blad 7.json",
+                        "label": "ACHTERGEVEL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270875/Blad 8.json",
+                        "label": "LINKER ZIJGEVEL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270875/Blad 9.json",
+                        "label": "DOORSNEDE EN RAAM DETAILS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270875/Blad 10.json",
+                        "label": "GEVEL DETAILS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270875/Blad 11.json",
+                        "label": "GOOT DETAIL EN BOVENDORPEL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270875/Blad 12.json",
+                        "label": "SITUATIE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270875/Blad 13.json",
+                        "label": "TRAPPEN EINDHUIZEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270875/Blad 14.json",
+                        "label": "TRAPPEN MIDDEN HUIZEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270875/Blad 15.json",
+                        "label": "KOZIJNEN 1-22 BEGANE GROND 1E BLAD",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270875/Blad 16.json",
+                        "label": "KOZIJNEN 23-75 VOOR DETAILS BLAD 15 2E BLAD",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270875/Blad 17.json",
+                        "label": "BALCONHEKKEN",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

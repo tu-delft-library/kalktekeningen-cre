@@ -1,0 +1,27 @@
+{
+        "label": "AA270918",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA270918"
+                },
+                {
+                        "label": "Koker",
+                        "value": "afstandsverwarmingskoker 23-09-1986"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "TR"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270918/AA270918",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270918/GEEN TEKENINGNUMMER.json",
+                        "label": "AFSTAND VERWARMINGSNET",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

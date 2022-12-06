@@ -1,0 +1,152 @@
+{
+        "label": "AA270903",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA270903"
+                },
+                {
+                        "label": "Koker",
+                        "value": "W en S Werkplaats techniek"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Industrieel Ontwerpen (IO)"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270903/AA270903",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270903/612-SB-1.json",
+                        "label": "KELDER",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270903/612-SB-2.json",
+                        "label": "BEGANEGROND EN ENTRESOL-VLOEREN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270903/612-SB-3.json",
+                        "label": "1E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270903/612-SB-4.json",
+                        "label": "2E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270903/612-SB-5.json",
+                        "label": "3E VERDIEPING EN DAK LAAGBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270903/612-SB-6.json",
+                        "label": "4E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270903/612-SB-7.json",
+                        "label": "DAKEN HOOGBOUW EN LIFTMACHEKAMERS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270903/612-SB-8.json",
+                        "label": "SITUATIE NOORDWESTHOEK",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270903/612-SB-9.json",
+                        "label": "WESTGEVEL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270903/612-SB-10.json",
+                        "label": "NOORDGEVEL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270903/612-SB-11.json",
+                        "label": "OOSTGEVEL HOOGBOUW MET DOORSNEDE TUSSEN AS E EN AS F GEDEELTE DOORSN. TUSSEN AS Q EN AS R",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270903/612-SB-12.json",
+                        "label": "OOSTGEVEL LAAGBOUW MET DOORSNEDE TUSSEN AS V EN AS W OOSTGEVEL LAAGBOUW BIJ AS V",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270903/612-SB-13.json",
+                        "label": "ZUIDGEVEL HOOGBOUW MET DOORSNEDE BIJ AS 6 ZUIDGEVEL LAAGBOUW MET GEDEELTE DOORSN. BIJ AS 9",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270903/612-SB-14.json",
+                        "label": "DOORSNEDEN TUSSEN AS 11 EN AS 12",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270903/612-SB-15.json",
+                        "label": "PRINCIPE-DETAILS BORSTWERINGEN, DAKRANDEN EN BUITENRAMEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270903/612-SB-16.json",
+                        "label": "PRINCIPE-DETAILS DAKRAND BORSTWERINGEN EN BUITENRAMEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270903/612-SB-17.json",
+                        "label": "MERBAU VENSTERBANK",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270903/612-SB-18.json",
+                        "label": "VERZAMELBLAD BINNENPUIEN EN KOZIJNEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270903/612-SB-19.json",
+                        "label": "PRINCIPEDETAILS BINNENPUIEN EN KOZIJNEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270903/612-SB-20.json",
+                        "label": "PRINCIPEDETAILS BINNENPUIEN EN KOZIJNEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270903/612-SB-21.json",
+                        "label": "BEGANE GROND EN ENTRESOL-VLOEREN MET GEWIJZIGDE HOOFDENTREE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270903/612-SB-22.json",
+                        "label": "WESTGEVEL MET GEWIJZIGDE HOOFDENTREE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270903/612-SB-23.json",
+                        "label": "NOORDGEVEL MET GEWIJZIGDE HOOFDENTREE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270903/612-SB-501.json",
+                        "label": "NIEUWE BINNENPLAATS MET OPSLAGRUIMTEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270903/612-SB-502.json",
+                        "label": "TOILET-EN DOUCHE-RUIMTE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270903/612-SB-503.json",
+                        "label": "SITUATIE NOORDWESTHOEK",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

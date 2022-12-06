@@ -1,0 +1,132 @@
+{
+        "label": "AA271034",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA271034"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Hoge snelheden"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Hoge Snelheden Laboratorium"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271034/AA271034",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271034/1DS1.json",
+                        "label": "LAB. VOOR HOGE SNELHEDEN KOLOM AS 20-AS D",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271034/1DS3.json",
+                        "label": "LAV. VOOR HOGE SNELHEDEN TRAPJES VERB.GANGEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271034/1DS4.json",
+                        "label": "LAB. VOOR HOGE SNELHEDEN DILATATIE KABINETTENGEBOUW EN VERBINDINGSGANGEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271034/1DS5.json",
+                        "label": "LAB. VOOR HOGE SNELHEDEN LEUNINGEN DIENSTGEBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271034/2DB2.json",
+                        "label": "LAB. VOOR HOGE SNELHEDEN COMPRESSORHAL IJZERWERK FUNDATIEBLOKKEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271034/2DB6.json",
+                        "label": "LAB. VOOR HOGE SNELHEDEN STALEN BUITENDEUREN IN HALLEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271034/2DB9.json",
+                        "label": "LAB. VOOR HOGE SNELHEDEN AFWERKING BORDES IN AO6",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271034/2DB10.json",
+                        "label": "LAB. VOOR HOGE SNELHEDEN VERANKERING CONSOLE TUSSEN AS J EN K IN COMPR.HAL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271034/2DB11.json",
+                        "label": "LAB. VOOR HOGE SNELHEDEN JEMELWATERAFVOER COMPR.HAL LAB. I EN II EN VERB.GANGEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271034/2DS1.json",
+                        "label": "LAB. VOOR HOGE SNELHEDEN TRAPPEN EN BORDES TUSSEN AS H EN L IN COMPR.HAL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271034/3DS1.json",
+                        "label": "LAB. VOOR HOGE SNELHEDEN DIV. IJZERWERK IN LAB. I EN KABINETTENGEBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271034/4DB1.json",
+                        "label": "LABORATORIUM VOOR HOGE SNELHEDEN TRAFO RUIMTE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271034/5DB1.json",
+                        "label": "LABORATORIUM VOOR HOGE SNELHEDEN KOELTOREN LUIKEN VAN BASRALOCUS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271034/524Y-1.json",
+                        "label": "L.D.,M.D.,H.D. COMPRESSOREN GEW. BETONNEN FUNDATIES MATENPLAN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271034/524Y-2.json",
+                        "label": "L.D.,M.D.,H.D. COMPRESSOREN GEW. BETONNEN FUNDATIES WAPENING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271034/S1.json",
+                        "label": "BETONCONSTRUCTIE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271034/S2(1).json",
+                        "label": "TRAFO RUIMTE KOELTOREN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271034/S2(2).json",
+                        "label": "KOELTORENS TRAFORUIMTE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271034/S3.json",
+                        "label": "PALENPLAN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271034/SB2.json",
+                        "label": "LABORATORIUM VOOR HOGE SNELHEDEN KELDER",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271034/SB3.json",
+                        "label": "LABORATORIUM VOOR HOGE SNELHEDEN BEGANEGROND-VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271034/SP-1.json",
+                        "label": "SPARINGS TEKENING",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

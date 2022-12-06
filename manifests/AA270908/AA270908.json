@@ -1,0 +1,142 @@
+{
+        "label": "AA270908",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA270908"
+                },
+                {
+                        "label": "Koker",
+                        "value": "W en S Sleeptank"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Werktuigbouwkunde, Maritieme Techniek, Technische Materiaalwetenschappen (3mE)"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270908/AA270908",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270908/506-DB-49.json",
+                        "label": "DETAILS ACOUST. BEKLEDING IN GOLIMAKER",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270908/506-DB-50.json",
+                        "label": "LEIDINGEN-SCHACHT",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270908/506-DB-51.json",
+                        "label": "DWARSDOORSNEDE OVER DE KANTOORLOCALEN 1E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270908/506-DB-52.json",
+                        "label": "DILATATIEVOEGEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270908/506-DB-53.json",
+                        "label": "IN TE STORTEN SCHROEFHULZEN ID BALKEN 10-11-40-41-61-62-63 VD BUITENPUIEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270908/506-DB-54.json",
+                        "label": "1E VERDIEPING VOORZIENINGEN AAN BALKEN 35 TM 41",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270908/506-DB-55.json",
+                        "label": "VOORZIENINGEN AAN BALKEN 1 TM 11 1E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270908/506-DB-56.json",
+                        "label": "1E VERDIEPING VOORZIENINGEN AAN BALKEN 33 TM 34",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270908/506-DB-57.json",
+                        "label": "VOORZIENINGEN AAN KOLOMMEN TUSSEN 1E VERDIEPING EN DAK",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270908/506-DB-58.json",
+                        "label": "VOORZIENINGEN EN SPARINGEN IN DAKBALKEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270908/506-DB-59.json",
+                        "label": "VOORZIENINGEN IN PLATTEGROND DAK EN TUSSENVLOER",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270908/506-DB-60.json",
+                        "label": "BEUKENHOUTEN WANDREKKEN 1E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270908/506-DB-61.json",
+                        "label": "TEKENTAFEL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270908/506-DB-62.json",
+                        "label": "INSTRUMENTENKAST",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270908/506-DB-63.json",
+                        "label": "ELECTRONICA-TAFELS SITUATIE YKKAMER",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270908/506-DB-64.json",
+                        "label": "OPBERGKAST",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270908/506-DB-65.json",
+                        "label": "HOUTENWAND IJKLOKAAL OVERZICHT",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270908/506-DB-66.json",
+                        "label": "HOUTENWAND IJKLOKAAL DETAILS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270908/506-DB-67.json",
+                        "label": "ELECTRONICA-TAFELS DETAILS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270908/506-DB-68.json",
+                        "label": "AANVRAGE VLOERAFWERKING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270908/506-DDB-63A.json",
+                        "label": "ELECTRONICA TAFELS DETAILS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270908/506-R-SB-1.json",
+                        "label": "PLATTEGRONDEN EN DOORSNEDEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270908/506-R-SB-2.json",
+                        "label": "GEVELS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270908/506-R-SB-4.json",
+                        "label": "BESTAANDE GEDEELTE MET VERBOUWINGEN",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

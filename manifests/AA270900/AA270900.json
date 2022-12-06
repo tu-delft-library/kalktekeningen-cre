@@ -1,0 +1,142 @@
+{
+        "label": "AA270900",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA270900"
+                },
+                {
+                        "label": "Koker",
+                        "value": " W en S werkplaats techniek"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "00-35.112"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270900/AA270900",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270900/612-M-1.json",
+                        "label": "INDELING BIBLIOTHEEK 1E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270900/612-M-2.json",
+                        "label": "WANDEN BIBLIOTHEEK 1E VERDI. NOORD",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270900/612-M-3-1.json",
+                        "label": "KAMER PROF KOOLEN. 1E VERD. EN KAMER VOOR MEJ. VD POLL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270900/612-M-3.json",
+                        "label": "INDELING HOEKKAMERS HOOGLERAREN NO. 5 211 EN 409",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270900/612-M-3A.json",
+                        "label": "INDELING HOEKKAMER 3 VERO PROF JR. A.J. PEKELHARING KAMER 310",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270900/612-M-4.json",
+                        "label": "INDELING HOOGLERAREN KAMER NO. 322",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270900/612-M-4A.json",
+                        "label": "KAMER PROF IN T VELD T. BL RUIMTE NO. 428 4E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270900/612-M-5.json",
+                        "label": "INDELING KEUKEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270900/612-M-6.json",
+                        "label": "INDELING KANTINE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270900/612-M-7.json",
+                        "label": "COLLOQUIUMZALEN 1E, 2E EN 4E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270900/612-M-8.json",
+                        "label": "RAAMTAFEL VOORSTEL WERKTAFEL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270900/612-M-9.json",
+                        "label": "DETAILS RAAMTAFEL CANTINE EN BIBLIOTHEEK",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270900/612-M-10.json",
+                        "label": "PL. GROND INDELING STOF ARMERUIMTE 224 229",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270900/612-M-11.json",
+                        "label": "DETAILS GLASKAST IN STOFARMERUIMTE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270900/612-M-12.json",
+                        "label": "RAAMTAFELS RUIMTE 118B BIBLIOTHEEK, RAAMTAFELS RUIMTE 119 CANTINE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270900/612-M-13.json",
+                        "label": "WERKTAFEL IN IJSKAMER F.M.T. RUIMTE 228",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270900/612-M-19.json",
+                        "label": "INDELING VAN RUIMTEN 9 TM 11 MET DOORSNEDE RAAMTAFEL EN AANZICHT WANDKAST",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270900/612-M-21.json",
+                        "label": "DETAILS GARDEROBEKAST VAN VOORPORTAAL STOFARMERUIMTE 229",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270900/612-M-22.json",
+                        "label": "INDELING PRACTICUM 3E JAARS RUIMTE 438 + 437",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270900/612-M-23.json",
+                        "label": "KASTENBLOK IN FIJNMECHANISME WERKPL.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270900/612-M-24.json",
+                        "label": "DETAILS KASTWAND HOOGLERAREN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270900/612-M-25.json",
+                        "label": "DETAILS VAN KAST MET GARDEROBE + FONTEINTJE IN KAMERS HOOGLERAREN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270900/612-M-26.json",
+                        "label": "AANZICHT BALIE BIBLIOTHEEK",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270900/612-M-27.json",
+                        "label": "DETAILS BALIE BIBLIOTHEEK",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

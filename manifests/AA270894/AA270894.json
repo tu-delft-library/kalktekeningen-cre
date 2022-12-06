@@ -1,0 +1,172 @@
+{
+        "label": "AA270894",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA270894"
+                },
+                {
+                        "label": "Koker",
+                        "value": "W en S werkplaatstechniek"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Industrieel Ontwerpen (IO)"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270894/AA270894",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270894/612-DB-B-1.json",
+                        "label": "PLATTEGROND BEGANEGROND EN ENTRESOL DEEL 1",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270894/612-DB-B-2.json",
+                        "label": "PLATTEGROND BEGANEGROND EN ENTRESOLVL. DEEL 2",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270894/612-DB-B-6.json",
+                        "label": "PLATTEGROND HOOFDENTREE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270894/612-DB-B-7.json",
+                        "label": "TRAPPENHUIS NOORDGEVEL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270894/612-DB-B-8.json",
+                        "label": "PLAFOND HOOFDENTREE MET INDELING VERLICHTING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270894/612-DB-B-9.json",
+                        "label": "AFRIT MET RUWIELTRAP",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270894/612-DB-B-10.json",
+                        "label": "HOOFDTRAP KELDER TM 3E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270894/612-DB-B-11.json",
+                        "label": "HOOFDTRAP 4E VERD. LIFTMACH. KAMER",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270894/612-DB-B-12.json",
+                        "label": "SCHACHTWANDEN MET E-KASTEN EN LUCHTBEH. KANALEN T.P.V. AS Z.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270894/612-DB-B-13.json",
+                        "label": "DEEL 1 KANALEN + ELEKTRAKASTEN T.P.V. LIFT TUSSEN MOD. 16 EN 17 1E, 2E, 3E EN 4E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270894/612-DB-B-14.json",
+                        "label": "TRAFO EN HOOGSPANNINGSRUIMTEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270894/612-DB-B-15.json",
+                        "label": "STALENWAND MET DEUREN TRAFOS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270894/612-DB-B-16.json",
+                        "label": "NOORDGEVEL HOOFDENTREE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270894/612-DB-B-17.json",
+                        "label": "WESTGEVEL HOOFDENTREE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270894/612-DB-B-18.json",
+                        "label": "DOORSNEDEN HOOFDENTREE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270894/612-DB-B-19.json",
+                        "label": "VOUWDEUR DOORRIT RUIMTE 14 MODULEN B-5, 6, 7",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270894/612-DB-B-20.json",
+                        "label": "BALCONS WESTGEVEL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270894/612-DB-B3.json",
+                        "label": "PLATTEGROND BEGANEGROND DEEL 3",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270894/612-DB-B4.json",
+                        "label": "PLATTEGROND BEGANEGROND DEEL 4",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270894/612-DB-B5.json",
+                        "label": "PLATTEGROND BEGANEGROND DEEL 5",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270894/612-DB-K-6.json",
+                        "label": "KLEINSTAALWERK KELDER",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270894/612-DB-K-7.json",
+                        "label": "BETONTRAPPEN STR. 13.CD 8.CD",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270894/612-DB-K-8.json",
+                        "label": "HEKWERKEN KELDER",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270894/612-DB-K-9.json",
+                        "label": "DETAILS HEKWERKEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270894/612-DB-K-10.json",
+                        "label": "DEMPO PLAFOND ONDERSTATION C.V.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270894/612-DB-K1.json",
+                        "label": "PLATTEGROND KELDER DEEL 1",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270894/612-DB-K2.json",
+                        "label": "PLATTEGROND KELDER DEEL 2",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270894/612-DB-K3.json",
+                        "label": "PLATTEGROND KELDER DEEL 3",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270894/612-DB-K4.json",
+                        "label": "PLATTEGROND KELDER DEEL 4",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270894/612-DB-K5.json",
+                        "label": "PLATTEGROND KELDER DEEL 5",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

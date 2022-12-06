@@ -1,0 +1,47 @@
+{
+        "label": "AA270909",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA270909"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Biologisch centrum revisie"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Biotechnologie"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270909/AA270909",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270909/B.1.json",
+                        "label": "PLATTEGRONDEN SOUTERRAIN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270909/B.2.json",
+                        "label": "PLATTEGRONDEN BEGANEGROND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270909/B.3.json",
+                        "label": "PLATTEGRONDEN EERSTE VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270909/B.4.json",
+                        "label": "PLATTEGRONDEN 2E VERD. EN ZOLDER",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270909/B.5.json",
+                        "label": "PLATTEGRONDEN RIOLERING GAS EN WATERLEIDING SCHAAL 1A100",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

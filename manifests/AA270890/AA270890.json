@@ -1,0 +1,147 @@
+{
+        "label": "AA270890",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA270890"
+                },
+                {
+                        "label": "Koker",
+                        "value": "W en S voertuigtechniek uitbreiding"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Industrieel Ontwerpen (IO)"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270890/AA270890",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270890/1022-B-3 WAP.json",
+                        "label": "BEGANEGROND BALKEN 15 TM 28 TRAP OP MOD. 70 385-TOT 5-_",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270890/1022-D-1-1 WAP.json",
+                        "label": "PLATTEGR. 1E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270890/1022-D-1-2 WAP.json",
+                        "label": "WANDEN, KOLOMMEN EN TRAPPEN TUSSEN BEGANE GROND EN 1E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270890/1022-D-1-3 WAP.json",
+                        "label": "BALKEN 1E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270890/1022-D-2-1 WAP.json",
+                        "label": "PLATTEGR. 2E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270890/1022-D-2-2.json",
+                        "label": "WANDEN, KOLOMMEN EN TRAPPEN TUSSEN DE 1E EN 2E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270890/1022-D-2-3.json",
+                        "label": "2E VERDIEPING BALKEN 1 TM 11",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270890/1022-D-A-1.json",
+                        "label": "VERBOUWING 1E EN 2E VERD. TUSSEN MOD. C.E EN 69-71",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270890/1022-D-A-2.json",
+                        "label": "TRAPPEN TUSSEN MOD. DE VAN 1E NAAR 2E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270890/1022-D-A-3.json",
+                        "label": "SCHARNIERPLATEN MOD. 9-65 EN 71",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270890/1022-D-A-4.json",
+                        "label": "VLOERPLATEN OP 462+ EN 756+ TUSSEN ASLIJNEN O-U EN 63 12 - 65",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270890/1022-D-B-1 WAP.json",
+                        "label": "PLATTEGROND BEGANE GROND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270890/1022-D-B-2 WAP.json",
+                        "label": "BALKEN BEG. GROND 1 TM 14 TRAP BIJ MOD. G-72-73",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270890/1022-D-K-1 WAP.json",
+                        "label": "PLATTEGROND KELDER",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270890/1022-D-K-2 WAPENING.json",
+                        "label": "KELDER FUNDATIEBLOKKEN I II EN III",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270890/1022-D-K-3 WAP.json",
+                        "label": "KELDER BALKEN 1 TM 8 EN 19 STEKEINDEN WAND I TM III IDEM KOL. MOD. 73",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270890/1022-D-K-4 WAP.json",
+                        "label": "KELDERBALKEN 9 TM 18 EN 18A VLOERWANDEN LIFTPUT IX TM XII STEKEINDEN WANDEN V EN VI IDEM KOL. OP MOD. Q-6567",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270890/1022-D-K-5 WAP.json",
+                        "label": "KELDER BALKEN 20 TM 29 STEKEINDEN WANDEN IV-VII-VIII-XIII IDEM KOL. OP MOD. Q-6971  S-656771",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270890/1022-D-K-6 WAP.json",
+                        "label": "WANDEN I EN III",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270890/1022-D-K-7 WAP.json",
+                        "label": "KELDER WANDEN II EN IV KOLOMMEN MODUUL 73",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270890/1022-D-K-8 WAP.json",
+                        "label": "WANDEN V TM VII",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270890/1022-D-K-9 WAP.json",
+                        "label": "KELDER WANDEN VIII TM XIII KOL. MOD. Q 67-69 EN S 67-69",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270890/1022-D-K-10.json",
+                        "label": "KELDER DETAIL VERBINDINSGANG T.P.V. BEST. KELDERWAND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270890/1022.DB.19 WAP.json",
+                        "label": "OMRANDINGEN VLOERLUIKEN GROTE HAL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270890/1022.DB.20 WAP.json",
+                        "label": "OMRANDINGEN VLOERLUIKEN GARAGE",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

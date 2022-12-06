@@ -1,0 +1,87 @@
+{
+        "label": "AA271010",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA271010"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Scheikunde"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Chemische Technologie"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271010/AA271010",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271010/2.json",
+                        "label": "BEGANE GROND REVISIETEKENING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271010/4.json",
+                        "label": "BEGANE GROND REVISIETEKENING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271010/5.json",
+                        "label": "BEGANE GROND REVISIETEKENING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271010/6.json",
+                        "label": "BEGANE GROND REVISIETEKENING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271010/7.json",
+                        "label": "BEGANE GROND REVISIETEKENING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271010/8.json",
+                        "label": "BEGANE GROND REVISIETEKENING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271010/9.json",
+                        "label": "BEGANE GROND REVISIETEKENING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271010/10.json",
+                        "label": "BEGANE GROND REVISIETEKENING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271010/11.json",
+                        "label": "BEGANE GROND REVISIETEKENING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271010/12.json",
+                        "label": "BEGANE GROND REVISIETEKENING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271010/15.json",
+                        "label": "BEGANE GROND REVISIETEKENING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271010/506-D-5.json",
+                        "label": "BALKEN 32 TM 43 BEGANE GROND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271010/506-S-3.json",
+                        "label": "BESTEKTEKENING PALENPLAN",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

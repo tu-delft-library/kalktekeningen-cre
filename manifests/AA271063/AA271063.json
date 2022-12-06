@@ -1,0 +1,127 @@
+{
+        "label": "AA271063",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA271063"
+                },
+                {
+                        "label": "Koker",
+                        "value": "CMC"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Logistiek & Milieu"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271063/AA271063",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271063/92.json",
+                        "label": "BIJGEBOUW DEEL C19 BALKEN 1 TM 13",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271063/1712-D-2.json",
+                        "label": "PLATTEGROND HOOFDGEBOUW TUSSEN MOD. F-C",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271063/1712-D-3.json",
+                        "label": "PLATTEGROND HOOFDGEBOUW TUSSEN MOD. A-C",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271063/1712-D-4.json",
+                        "label": "PLATTEGRONDEN BIJGEBOUWEN DEEL C19, C20, C22AE, C22FK",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271063/1712-D-5.json",
+                        "label": "PLATTEGROND DAKOPBOUW EN B.K. WANDEN I TM XVI",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271063/1712-D-6.json",
+                        "label": "BALKEN HOOFDGEBOUW 1 TM 23",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271063/1712-D-7.json",
+                        "label": "BALKEN HOOFDGEBOUW 24 TM 37",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271063/1712-D-8.json",
+                        "label": "BALKEN HOOFDGEBOUW 38 TM 57",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271063/1712-D-9.json",
+                        "label": "BALKEN HOOFDGEBOUW 58 TM 80",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271063/1712-D-11.json",
+                        "label": "BIJGEBOUW DEEL C19 BALKEN 1 TM 13",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271063/1712-D-12(1).json",
+                        "label": "BIJGEBOUW DEEL C20 BALKEN 1 TM 13",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271063/1712-D-12(2).json",
+                        "label": "BIJGEBOUW DEEL C20 BALKEN 1 TM 13",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271063/1712-D-13(1).json",
+                        "label": "BIJGEBOUW DEEL C22AE BALKEN 1 TM 10",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271063/1712-D-13(2).json",
+                        "label": "BIJGEBOUW DEEL C22AE BALKEN 1 TM 10",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271063/1712-D-14(1).json",
+                        "label": "BIJGEBOUW DEEL C22 FK BALKEN 1 TM 12",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271063/1712-D-14(2).json",
+                        "label": "BIJGEBOUW DEEL C22 FK BALKEN 1 TM 12",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271063/1712-D-15(1).json",
+                        "label": "WANDEN I TM XVI KOLOMMEN AA TM DD",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271063/1712-D-15(2).json",
+                        "label": "WANDEN I TM XVI KOLOMMEN AA TM DD",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271063/1712-D-16(1).json",
+                        "label": "BALKEN DAKOPBOUW 1 TM 11",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271063/1712-D-16(2).json",
+                        "label": "BALKEN DAKOPBOUW 1 TM 11",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271063/1712-D-17.json",
+                        "label": "FUNDERING TOEGANGSHEKKEN",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

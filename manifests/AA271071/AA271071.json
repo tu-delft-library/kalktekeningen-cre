@@ -1,0 +1,77 @@
+{
+        "label": "AA271071",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA271071"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Windtunnel uitbreiding"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Lage Snelheden Laboratorium / VSSD / Inholland"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271071/AA271071",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271071/1368-SB-1.json",
+                        "label": "SITUATIE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271071/1368-SB-2.json",
+                        "label": "PLATTEGROND BEGANEGROND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271071/1368-SB-3.json",
+                        "label": "PLATTEGROND 1E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271071/1368-SB-4.json",
+                        "label": "PLATTEGROND 2E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271071/1368-SB-5.json",
+                        "label": "PLATTEGROND DAKEN MET VLOEREN OP 995+ 1140+ EN 1239 5+",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271071/1368-SB-6.json",
+                        "label": "DOORSNEDE B-B T.P.V. TRAPPENHUIS UITBREIDING II",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271071/1368-SB-7.json",
+                        "label": "DWARSDOORSNEDE UITBREIDING I T.P.V. HET TRAPPENHUIS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271071/1368-SB-8.json",
+                        "label": "DOORSNEDE A-A",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271071/1368-SB-9(1).json",
+                        "label": "OOSTGEVEL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271071/1368-SB-9(2).json",
+                        "label": "OOSTGEVEL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271071/1368-SB-9(3).json",
+                        "label": "OOSTGEVEL",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

@@ -1,0 +1,132 @@
+{
+        "label": "AA270914",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA270914"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Scheikunde"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Chemische Technologie"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270914/AA270914",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270914/9.json",
+                        "label": "AANTAL BESTEKTEKENINGEN 9 EN 1 CONSTRUCTIETEKENING NO 1",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270914/11.json",
+                        "label": "AANTAL BESTEKTEKENINGEN 9 EN 1 CONSTRUCTIETEKENING NO 1",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270914/12.json",
+                        "label": "AANTAL BESTEKTEKENINGEN 9 EN 1 CONSTRUCTIETEKENING NO 1",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270914/15.json",
+                        "label": "AANTAL BESTEKTEKENINGEN 9 EN 1 CONSTRUCTIETEKENING NO 1",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270914/16.json",
+                        "label": "AANTAL BESTEKTEKENINGEN 9 EN 1 CONSTRUCTIETEKENING NO 1",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270914/18.json",
+                        "label": "AANTAL BESTEKTEKENINGEN 9 EN 1 CONSTRUCTIETEKENING NO 1",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270914/19.json",
+                        "label": "AANTAL BESTEKTEKENINGEN 9 EN 1 CONSTRUCTIETEKENING NO 1",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270914/20.json",
+                        "label": "AANTAL BESTEKTEKENINGEN 9 EN 1 CONSTRUCTIETEKENING NO 1",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270914/21.json",
+                        "label": "AANTAL BESTEKTEKENINGEN 9 EN 1 CONSTRUCTIETEKENING NO 1",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270914/31.json",
+                        "label": "AANTAL BESTEKTEKENINGEN 9 EN 1 CONSTRUCTIETEKENING NO 1",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270914/34.json",
+                        "label": "AANTAL BESTEKTEKENINGEN 9 EN 1 CONSTRUCTIETEKENING NO 1",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270914/35.json",
+                        "label": "AANTAL BESTEKTEKENINGEN 9 EN 1 CONSTRUCTIETEKENING NO 1",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270914/50.json",
+                        "label": "AANTAL BESTEKTEKENINGEN 9 EN 1 CONSTRUCTIETEKENING NO 1",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270914/57.json",
+                        "label": "AANTAL BESTEKTEKENINGEN 9 EN 1 CONSTRUCTIETEKENING NO 1",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270914/58.json",
+                        "label": "AANTAL BESTEKTEKENINGEN 9 EN 1 CONSTRUCTIETEKENING NO 1",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270914/59.json",
+                        "label": "AANTAL BESTEKTEKENINGEN 9 EN 1 CONSTRUCTIETEKENING NO 1",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270914/59a.json",
+                        "label": "KELDER ZUID MIDDENDEEL ACHTERBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270914/68.json",
+                        "label": "KELDER ZUID MIDDENDEEL ACHTERBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270914/69.json",
+                        "label": "KELDER ZUID MIDDENDEEL ACHTERBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270914/83.json",
+                        "label": "KELDER ZUID MIDDENDEEL ACHTERBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270914/473.json",
+                        "label": "KELDER ZUID MIDDENDEEL ACHTERBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270914/479.json",
+                        "label": "KELDER ZUID MIDDENDEEL ACHTERBOUW",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

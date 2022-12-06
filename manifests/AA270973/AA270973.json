@@ -1,0 +1,127 @@
+{
+        "label": "AA270973",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA270973"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Technische mechanica"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Industrieel Ontwerpen (IO)"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270973/AA270973",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270973/614-DB-5.json",
+                        "label": "STALENTRAPPEN E.D. VAN KELDER NAAR BEGANEGROND EN HIJSGATOMRANDING MET HEK BEGANEGROND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270973/614-DB-7.json",
+                        "label": "AANVRAAGTEKENING KANTELDEUR EN VOUWDEUREN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270973/614-DB-8.json",
+                        "label": "DAK PLATTEGROND + DETAILS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270973/614-DB-9.json",
+                        "label": "GEDEELTE OOSTGEVEL TUSSEN MODUUL 22-27",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270973/614-DB-10.json",
+                        "label": "PLAFONDINDELING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270973/614-DB-11.json",
+                        "label": "GEDEELTE OOSTGEVEL TUSSEN MODUUL 27 EN 33",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270973/614-DB-12.json",
+                        "label": "AANVRAAGTEKENING VOUWWANDEN EN SCHUIFDEUR",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270973/614-DB-13.json",
+                        "label": "SANITAIRSTAAT",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270973/614-DB-14.json",
+                        "label": "BINNENDEURKOZIJNEN P11 EN P9",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270973/614-DB-15.json",
+                        "label": "BINNENDEURKOZIJNEN MET STALENDEUR MERK PAA EN PAB",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270973/614-DB-16.json",
+                        "label": "DEUREN IN DEMONTABELE WANDEN MERKEN P5A EN P5B",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270973/614-SB-1.json",
+                        "label": "KELDER UITBREIDING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270973/614-SB-2.json",
+                        "label": "BEGANE GROND UITBREIDING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270973/614-SB-3.json",
+                        "label": "1E VERDIEPING UITBREIDING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270973/614-SB-4.json",
+                        "label": "2E VERDIEPING UITBREIDING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270973/614-SB-5.json",
+                        "label": "DAK UITBREIDING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270973/614-SB-6.json",
+                        "label": "DOORSNEDEN E-E TM I-I UITBREIDING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270973/614-SB-7.json",
+                        "label": "ZUIDGEVEL UITBREIDING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270973/614-SB-8.json",
+                        "label": "NOORDGEVEL UITBREIDING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270973/614-SB-9.json",
+                        "label": "VERZAMELBLAD BINNEN- PUIEN EN KOZIJNEN UITBREIDING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270973/614-SB-10.json",
+                        "label": "SITUATIE UITBREIDING",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

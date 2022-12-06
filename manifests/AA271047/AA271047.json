@@ -1,0 +1,72 @@
+{
+        "label": "AA271047",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA271047"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Bouwkunde afwerking"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "voorheen Bouwkunde Berlageweg 1"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271047/AA271047",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271047/400A.json",
+                        "label": "BESTEKTEKENING 0E LAAG",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271047/401A.json",
+                        "label": "BESTEKTEKENING 1E LAAG",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271047/402A.json",
+                        "label": "BESTEKTEKENING 2E LAAG",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271047/410A.json",
+                        "label": "BESTEKTEKENING 15E EN DAK-LAAG",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271047/1140-A12B.json",
+                        "label": "BESTEKTEKENING 2E LAAG",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271047/A10B.json",
+                        "label": "BESTEKTEKENING 0E LAAG",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271047/A11B.json",
+                        "label": "BESTEKTEKENING 1E LAAG",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271047/A15B.json",
+                        "label": "BESTEKTEKENING 3E TM 12E LAAG",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271047/A19B.json",
+                        "label": "BESTEKTEKENING 13E EN 14E LAAG",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271047/A20B.json",
+                        "label": "BESTEKTEKENING 15E EN DAK-LAAG",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

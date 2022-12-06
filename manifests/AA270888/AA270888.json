@@ -1,0 +1,82 @@
+{
+        "label": "AA270888",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA270888"
+                },
+                {
+                        "label": "Koker",
+                        "value": "W en S diverse architecten revisie"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Werktuigbouwkunde, Maritieme Techniek, Technische Materiaalwetenschappen (3mE)"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270888/AA270888",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270888/449-S.B.1.json",
+                        "label": "PLATTEGROND KELDER",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270888/449-S.B.35.json",
+                        "label": "VERBINDINGSBOUW NAAR BLOK IV",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270888/449-SB 2.json",
+                        "label": "PLATTEGROND BEGANE GROND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270888/449-SB-3.json",
+                        "label": "PLATTEGROND 1E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270888/449-SB-4.json",
+                        "label": "PLATTEGROND BORDESSEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270888/449-SB-5.json",
+                        "label": "PLATTEGROND DAK",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270888/464-R-SB 1.json",
+                        "label": "CANTINE OP TERRAS COLLEGEZALENCOMPLEX PLATTEGRONDEN-DOORSNEDEN EN AANZICHTEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270888/1839-VB-1.json",
+                        "label": "LIFT TEGEN ZUIDGEVEL SLEEPTANK T.H. DELFT",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270888/R148.json",
+                        "label": "REVISIETEKENING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270888/R151.json",
+                        "label": "REVISIETEKENING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270888/R152.json",
+                        "label": "REVISIETEKENING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270888/R153.json",
+                        "label": "REVISIETEKENING",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

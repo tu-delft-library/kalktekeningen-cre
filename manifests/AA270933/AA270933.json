@@ -1,0 +1,137 @@
+{
+        "label": "AA270933",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA270933"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Biologisch centrum"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Biotechnologie"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270933/AA270933",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270933/118.json",
+                        "label": "VOORGESTELDE WIJZIGINGEN IN INDELING LOKALEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270933/119.json",
+                        "label": "VOORGESTELDE WIJZIGINGEN IN INDELING LOKALEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270933/120.json",
+                        "label": "VOORGESTELDE WIJZIGINGEN IN INDELING LOKALEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270933/121.json",
+                        "label": "VOORGESTELDE WIJZIGINGEN IN INDELING LOKALEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270933/122.json",
+                        "label": "VOORGESTELDE WIJZIGINGEN IN INDELING LOKALEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270933/124.json",
+                        "label": "VOORGESTELDE WIJZIGINGEN IN INDELING LOKALEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270933/125.json",
+                        "label": "VOORGESTELDE WIJZIGINGEN IN INDELING LOKALEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270933/126.json",
+                        "label": "VOORGESTELDE WIJZIGINGEN IN INDELING LOKALEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270933/127(1).json",
+                        "label": "BIO CHEMIE EN GED TECHN BOT 1STE VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270933/127(2).json",
+                        "label": "VOORGESTELDE WIJZIGINGEN INDELING LOKALEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270933/128.json",
+                        "label": "VOORGESTELDE WIJZIGINGEN INDELING LOKALEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270933/129.json",
+                        "label": "VOORGESTELDE WIJZIGINGEN INDELING LOKALEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270933/130.json",
+                        "label": "VOORGESTELDE WIJZIGINGEN INDELING LOKALEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270933/131.json",
+                        "label": "VOORGESTELDE WIJZIGINGEN INDELING LOKALEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270933/132.json",
+                        "label": "VOORGESTELDE WIJZIGINGEN INDELING LOKALEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270933/133.json",
+                        "label": "VOORGESTELDE WIJZIGINGEN INDELING LOKALEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270933/134.json",
+                        "label": "VOORGESTELDE WIJZIGINGEN INDELING LOKALEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270933/135.json",
+                        "label": "VOORGESTELDE WIJZIGINGEN INDELING LOKALEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270933/136.json",
+                        "label": "VOORGESTELDE WIJZIGINGEN INDELING LOKALEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270933/137.json",
+                        "label": "VOORGESTELDE WIJZIGINGEN INDELING LOKALEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270933/138.json",
+                        "label": "VOORGESTELDE WIJZIGINGEN INDELING LOKALEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270933/140.json",
+                        "label": "VOORGESTELDE WIJZIGINGEN INDELING LOKALEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270933/141.json",
+                        "label": "VOORGESTELDE WIJZIGINGEN INDELING LOKALEN",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

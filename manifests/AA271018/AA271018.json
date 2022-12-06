@@ -1,0 +1,137 @@
+{
+        "label": "AA271018",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA271018"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Elektrotechniek hoogbouw"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Elektrotechniek, Wiskunde en Informatica (EWI)"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271018/AA271018",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271018/500-DB-HB-A-87.json",
+                        "label": "BEVESTIGING DOORGAANDE GEVELSTIJLEN AAN DAKRAND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271018/500-DB-HB-A-88.json",
+                        "label": "HOOGBOUW METAALWERKEN 21 22 DAK",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271018/500-DB-HB-A-89.json",
+                        "label": "HOOGBOUW RIOLERING IN SCHACHT 112 113 20E VERDIEPING TOT HET DAK",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271018/500-DB-HB-A-92.json",
+                        "label": "HOOGBOUW DETAILS BIJ BLAD 500-DB-HB-A-88",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271018/500-DB-HB-A-93.json",
+                        "label": "HOOGBOUW WANDEN MET STRIPTEGELS BEG GROND EN 1E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271018/500-DB-HB-A-94.json",
+                        "label": "HOOGBOUW KEUKENLILFT",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271018/500-DB-HB-A-95.json",
+                        "label": "DOORSNEDEN EN AANZICHTEN GANGWANDEN TPV TRAPPENHUIZEN OP DE 20E EN 21E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271018/500-DB-HB-A-96.json",
+                        "label": "PRINCIPEDETAILS VAN DE GANGPUIEN OP DE 20E EN 21E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271018/500-DB-HB-A-98.json",
+                        "label": "HOOGBOUW DETAILS STALEN BINNENPUIEN 21E EN 22E VERD",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271018/500-DB-HB-A-99.json",
+                        "label": "HOOGBOUW ONDERDETAIL BORSTWERING TRAPPENHUIZEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271018/500-DB-HB-A-100.json",
+                        "label": "HOOGBOUW GLAZENWASLADDER 21 22 VERD",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271018/500-DB-HB-A-101.json",
+                        "label": "HOOGBOUW SCHOT OP MODUUL 101 SPARINGEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271018/500-DB-HB-A-102.json",
+                        "label": "HOOGBOUW SCHOT OP MODUUL 102 SPARINGEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271018/500-DB-HB-A-104.json",
+                        "label": "HOOGBOUW SCHOT OP MODUUL 106 SPARINGEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271018/500-DB-HB-A-105.json",
+                        "label": "HOOGBOUW SCHOT OP MODUUL 112 SPARINGEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271018/500-DB-HB-A-106.json",
+                        "label": "HOOGBOUW SCHOT OP MODUUL 113 SPARINGEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271018/500-DB-HB-A-107.json",
+                        "label": "HOOGBOUW SCHOT OP MODUUL 117 SPARINGEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271018/500-DB-HB-A-108.json",
+                        "label": "HOOGBOUW SCHOT OP MODUUL 118 SPARINGEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271018/500-DB-HB-A-109.json",
+                        "label": "HOOGBOUW SCHOT OP MODUUL 120 SPARINGEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271018/500-DB-HB-A-110.json",
+                        "label": "HOOGBOUW SCHOT OP MODUUL 121 SPARINGEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271018/577.json",
+                        "label": "HOOGBOUW SCHOT OP MODUUL 121 SPARINGEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271018/579.json",
+                        "label": "HOOGBOUW SCHOT OP MODUUL 121 SPARINGEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271018/A-91.json",
+                        "label": "HOOGBOUW OOST EN WEST 21E 22E VERDIEPING",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

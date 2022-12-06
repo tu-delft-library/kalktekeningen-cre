@@ -1,0 +1,147 @@
+{
+        "label": "AA271056",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA271056"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Apparatenbouw"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "TNO Leeghwaterstraat 44 / Hal Leeghwaterstraat 44a"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271056/AA271056",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271056/1035-DB-1.json",
+                        "label": "PLATTEGROND BEG.GROND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271056/1035-DB-2.json",
+                        "label": "PLATTEGROND 1E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271056/1035-DB-4.json",
+                        "label": "PLATTEGROND + DOORSNEDEN TRAFOGEBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271056/1035-DB-5.json",
+                        "label": "PLATTEGROND TOILETGROEPEN RUIMTES 10105106",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271056/1035-DB-6.json",
+                        "label": "PLATTEGROND GROTE HAL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271056/1035-DB-8.json",
+                        "label": "INDELING KWAAITAAL ELEMENTEN 1E VERD. MET DETAILS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271056/1035-DB-9.json",
+                        "label": "KWAAITAAL DAKELEMENTEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271056/1035-DB-10.json",
+                        "label": "HOOFDTRAP BEG.GROND-1E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271056/1035-DB-11.json",
+                        "label": "DOORSNEDE GROTE HAL T.P.V. KANTINE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271056/1035-DB-12.json",
+                        "label": "DOORSNEDE GROTE HAL NABIJ ASLIJN A",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271056/1035-DB-13.json",
+                        "label": "DOORSNEDE TUSSEN MOD. 7 EN 8",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271056/1035-DB-14.json",
+                        "label": "AANZICHT MET DETAILS WAND BEGANEGROND NABIJ AS 2",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271056/1035-DB-15.json",
+                        "label": "ENTREE + PUI-DETAILS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271056/1035-DB-16.json",
+                        "label": "TRAPPEN GROTE HAL BEGANEGROND BORDES 450+",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271056/1035-DB-17.json",
+                        "label": "DETAILS TRAPPEN GROTE HAL BEGANEGROND BORDES 450+",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271056/1035-DB-18.json",
+                        "label": "DOORSNEDEN MET DETAILS AANSLUITING VOORBOUW MET GROTE HAL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271056/1035-DB-19.json",
+                        "label": "PLAFOND BEGANEGROND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271056/1035-DB-20.json",
+                        "label": "TRAPPENHUIS GROTE HAL MET E- EN W-LEIDINGLOOP",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271056/1035-DB-21.json",
+                        "label": "GEVELDETAILS WESTWAND GROTE HAL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271056/1035-DB-22.json",
+                        "label": "2E VERDIEPINGVLOER GROTE HAL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271056/1035-DB-23.json",
+                        "label": "DOORSNEDE OVER KETELHUIS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271056/1035-DB-24.json",
+                        "label": "PRINCIPE-TEK. KANTELDEUR",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271056/1035-DB-25.json",
+                        "label": "DOORSNEDE TUSSEN MOD. 4 EN 5",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271056/1035-DB-26.json",
+                        "label": "AANZICHT GANGPUI PATIO OVER ASLIJNEN 4,5 EN G",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271056/1035-DB-27.json",
+                        "label": "DETAILS SCHROEFHULZEN GROTE HAL",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

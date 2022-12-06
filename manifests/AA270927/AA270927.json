@@ -1,0 +1,72 @@
+{
+        "label": "AA270927",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA270927"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Woningen biologisch centrum"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "00-11.8"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270927/AA270927",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270927/W5.json",
+                        "label": "KAPPLAN SCHAAL 1 20",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270927/W10.json",
+                        "label": "GOOTDETAIL AMBTSWONINGEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270927/W11.json",
+                        "label": "GOOTBEEINDIGING NOK DETAILS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270927/W12.json",
+                        "label": "DAKKAPELLEN MET DETAILS 1-20",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270927/W13.json",
+                        "label": "DOORSN GARAGE MET DETAILS SCH 1-20",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270927/W14.json",
+                        "label": "BINNENDEURKOZIJNEN MET DEUREN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270927/W15.json",
+                        "label": "BUITENRAAMKOZIJN TYPE F",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270927/W16.json",
+                        "label": "BUITENRAAM EN DEURKOZIJNEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270927/W23.json",
+                        "label": "2 ST EETKAMER BUITENDEUREN 2ST BRIEVENKASTJES",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270927/W24.json",
+                        "label": "SCHOKBETONNEN VOORDEUROMLIJSTINGEN EN WATERDORPELS ONDER ERKERRAAM",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

@@ -1,0 +1,87 @@
+{
+        "label": "AA270874",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA270874"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Elektroteechniek hoogbouw"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Elektrotechniek, Wiskunde en Informatica (EWI)"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270874/AA270874",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270874/500-SB-HB-1-1.json",
+                        "label": "HOOGBOUW 1 VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270874/500-SB-HB-1-2.json",
+                        "label": "HOOGBOUW PLATTEGROND FILMCABINE EN VENTILATIERUIMTE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270874/500-SB-HB-2-1.json",
+                        "label": "HOOGBOUW 2 VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270874/500-SB-HB-3-1.json",
+                        "label": "HOOGBOUW 3 VERDIEPING 1270",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270874/500-SB-HB-4-1.json",
+                        "label": "HOOGBOUW 4 VERDIEPING 1645",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270874/500-SB-HB-5-1.json",
+                        "label": "HOOGBOUW 5 VERDIEPING 2020",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270874/500-SB-HB-6-1.json",
+                        "label": "HOOGBOUW 6 VERDIEPING 2395",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270874/500-SB-HB-7-1.json",
+                        "label": "HOOGBOUW 7 VERDIEPING 2770",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270874/500-SB-HB-8-1.json",
+                        "label": "HOOGBOUW 8 VERDIEPING 3145",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270874/500-SB-HB-9-1.json",
+                        "label": "HOOGBOUW 9 VERDIEPING 3520",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270874/500-SB-HB-10-1.json",
+                        "label": "HOOGBOUW 10 VERDIEPING 3895",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270874/500-SB-HB-B-1.json",
+                        "label": "HOOGBOUW BEGANE GROND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270874/500-SB-HB-K-1.json",
+                        "label": "HOOGBOUW PLATTEGROND",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

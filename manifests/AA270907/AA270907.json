@@ -1,0 +1,102 @@
+{
+        "label": "AA270907",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA270907"
+                },
+                {
+                        "label": "Koker",
+                        "value": "W en S werkplaats techniek"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Industrieel Ontwerpen (IO)"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270907/AA270907",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270907/612-D-B-1.07.json",
+                        "label": "DEEL 1 BEGANEGROND BALKEN 47 TM 55 EN WAND. T",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270907/612-D-B-1.08.json",
+                        "label": "DEEL 1 BEGANEGROND BALKEN 56 TM 60",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270907/612-D-B-1.09.json",
+                        "label": "DEEL 1 ENTRESOL 277+ BALKEN 1 TM 7 EN WAND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270907/612-D-B-1.10.json",
+                        "label": "DEEL 1 ENTRESOL BOVEN HOOFDENTREE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270907/612-D-B-1.12.json",
+                        "label": "DEEL 1 ENTRESOL OP 277+ TUSSEN MOD. C-B14-10",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270907/612-D-B-2.01.json",
+                        "label": "DEEL 2 BEGANEGROND BALKEN 2 TM 18",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270907/612-D-B-2.02.json",
+                        "label": "DEEL 2 BEGANEGROND BALKEN 19 TM 41",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270907/612-D-B-3.01.json",
+                        "label": "DEEL 3 STIEPEN OP MOD. U,W,X",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270907/612-D-B-3.02.json",
+                        "label": "DEEL 3 BALKEN 1 TM 6, 8 TM 14",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270907/612-D-B-3.03.json",
+                        "label": "DEEL 3 BALKEN 15 TM 25",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270907/612-D-B-3.04.json",
+                        "label": "DEEL 3 BALKEN 26 TM 32",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270907/612-D-B-4-5.01.json",
+                        "label": "DEEL 4 EN 5 KOLOMMEN + WANDEN I,IA EN IIA VAN KELDER TOT BEG.GROND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270907/612-D-B-4-5.02.json",
+                        "label": "DEEL 4 EN 5 KELDERTRAPPEN VAN 323 TOT 5 BALKEN 23 EN 1",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270907/612-D-B-4.02.json",
+                        "label": "DEEL 4 KOLOMMEN KELDER-BEG.GROND NO. 1 TM 9",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270907/612-D-B-5.03.json",
+                        "label": "DEEL 5 KOLOMMEN KELDER-BEG.GROND NO. 10 TM 27",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270907/612-D-B-5.04.json",
+                        "label": "DEEL 5 KOLOMMEN KELDER-BEG.GROND NO. 28 TM 33",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

@@ -1,0 +1,92 @@
+{
+        "label": "AA270966",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA270966"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Scheepscontructie en technische mechanica"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Werktuigbouwkunde, Maritieme Techniek, Technische Materiaalwetenschappen (3mE)"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270966/AA270966",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270966/874-DB-1.json",
+                        "label": "RUIMTEN 1 EN 6",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270966/874-DB-2.json",
+                        "label": "RUIMTE -20- PORTAAL KRUIPLABORATORIUM",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270966/874-DB-3.json",
+                        "label": "HOUTEN PUI TUSSEN RUIMTEN 30 EN 31",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270966/874-DB-4.json",
+                        "label": "SANITAIRSTAAT",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270966/874-DB-5.json",
+                        "label": "KOZIJN RUIMTE 3",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270966/874-DB-6.json",
+                        "label": "PORTAAL KLIMAATRUIMTE NO 29",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270966/874-DB-7.json",
+                        "label": "STALEN TRAP RUIMTE 30",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270966/874-DB-8.json",
+                        "label": "TOILET EN DOUCHERUIMTEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270966/874-DB-9.json",
+                        "label": "BANK EN KAPSTOK DOUCHERUIMTE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270966/874-DB-10.json",
+                        "label": "DUBBELE DEUR RUIMTE 177",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270966/874-DB-11R.json",
+                        "label": "GEDEELTE PLATTEGRONDEN BEGANE GROND EN EERSTE VERDIEPING REVISIETEKENING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270966/874-DD-12R.json",
+                        "label": "GEDEELTE PLATTEGRONDEN BEGANE GROND EN EERSTE VERDIEPING REVISIETEKENING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270966/874-SB -2.json",
+                        "label": "GEDEELTE PLATTEGRONDEN BEGANE GROND EN EERSTE VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270966/874-SB-1.json",
+                        "label": "GEDEELTE PLATTEGRONDEN BEGANE GROND EN EERSTE VERDIEPING",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

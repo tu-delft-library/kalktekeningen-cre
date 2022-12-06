@@ -1,0 +1,32 @@
+{
+        "label": "AA270984",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA270984"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Tuinmanswoning julianalaan"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Woning Julianalaan 65"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270984/AA270984",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270984/1.json",
+                        "label": "TUINMANSWONING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270984/2 124.json",
+                        "label": "WIJZEGING TUINMANSWONING",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

@@ -1,0 +1,67 @@
+{
+        "label": "AA271038",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA271038"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Bouwkunde Leidinschachten"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "voorheen Bouwkunde Berlageweg 1"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271038/AA271038",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271038/448.json",
+                        "label": "LEIDINGSCHACHT N.O. TUSSEN DE ASSEN 9,10 M.N.O.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271038/449.json",
+                        "label": "LEIDINGSCHACHT N.O. TUSSEN DE ASSEN 9,10 M.N.O.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271038/466.json",
+                        "label": "LEIDINGSCHACHT N.O. TUSSEN DE ASSEN 9,10 M.N.O.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271038/469.json",
+                        "label": "LEIDINGSCHACHT N.O. TUSSEN DE ASSEN 9,10 M.N.O.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271038/549.json",
+                        "label": "LEIDINGSCHACHT N.O. TUSSEN DE ASSEN 9,10 M.N.O.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271038/550.json",
+                        "label": "LEIDINGSCHACHT N.O. TUSSEN DE ASSEN 9,10 M.N.O.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271038/652.json",
+                        "label": "LEIDINGSCHACHT N.O. TUSSEN DE ASSEN 9,10 M.N.O.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271038/653.json",
+                        "label": "LEIDINGSCHACHT N.O. TUSSEN DE ASSEN 9,10 M.N.O.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271038/654.json",
+                        "label": "LEIDINGSCHACHT N.O. TUSSEN DE ASSEN 9,10 M.N.O.",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

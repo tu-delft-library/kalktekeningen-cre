@@ -1,0 +1,187 @@
+{
+        "label": "AA271080",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA271080"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Elekrotechniek hoogbouw"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Elektrotechniek, Wiskunde en Informatica (EWI)"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271080/AA271080",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271080/500-DB-HB-A-174.json",
+                        "label": "SPARINGEN HOOGBOUW SCHOT OP MODUUL 102 VAN 17E TM 21E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271080/500-DB-HB-A-175.json",
+                        "label": "SPARINGEN HOOGBOUW SCHOT OP MODUUL 105 VAN 17E TM 20E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271080/500-DB-HB-A-176.json",
+                        "label": "SPARINGEN HOOGBOUW SCHOT OP MODUUL 106 VAN 17E TM 21E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271080/500-DB-HB-A-177.json",
+                        "label": "SPARINGEN HOOGBOUW SCHOT OP MODUUL 112 VAN 17E TM 21E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271080/500-DB-HB-A-178.json",
+                        "label": "SPARINGEN HOOGBOUW SCHOT OP MODUUL 113 VAN 17E TM 20E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271080/500-DB-HB-A-179.json",
+                        "label": "SPARINGEN HOOGBOUW SCHOT OP MODUUL 117 VAN 17E TM 20E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271080/500-DB-HB-A-180.json",
+                        "label": "SPARINGEN HOOGBOUW SCHOT OP MODUUL 118 VAN 17E TM 20E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271080/500-DB-HB-A-181.json",
+                        "label": "SPARINGEN HOOGBOUW SCHOT OP MODUUL 120 VAN 17E TM 21E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271080/500-DB-HB-A-182.json",
+                        "label": "SPARINGEN HOOGBOUW SCHOT OP MODUUL 121 VAN 17E TM 21E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271080/500-DB-HB-A-183.json",
+                        "label": "HOOGBOUW WANDEN I EN II VAN 17E TM 20 VERD. SPARINGEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271080/500-DB-HB-A-184.json",
+                        "label": "HOOGBOUW WANDEN III EN IV VAN 17E TM 20E VERD. SPARINGEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271080/500-DB-HB-A-186.json",
+                        "label": "HOOGBOUW SCHOT OP MOD. 105 VAN 20E VERD. TM DAK",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271080/500-DB-HB-A-187.json",
+                        "label": "HOOGBOUW SCHOT OP MODUUL 113 VAN 20E VERD. TOT 8590+ SPARINGEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271080/500-DB-HB-A-188.json",
+                        "label": "HOOGBOUW SCHOT OP MODUUL 117 VAN 20E VERD. TOT 8590+ SPARINGEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271080/500-DB-HB-A-189.json",
+                        "label": "HOOGBOUW SCHOT OP MOD. 118 VAN 20E TOT DAK",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271080/500-DB-HB-A-191.json",
+                        "label": "HOOGBOUW WANDEN I EN II 20E VERD. TM DAK SPARINGEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271080/500-DB-HB-A-192.json",
+                        "label": "HOOGBOUW WANDEN III EN IV 20E VERD. TM DAK SPARINGEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271080/500-DB-HB-A-193.json",
+                        "label": "WANDEN IX TM XI VAN 8590+-DAK SPARINGEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271080/500-DB-HB-A-194.json",
+                        "label": "HOOGBOUW WANDEN XII TM XV DAK SPARINGEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271080/500-DB-HB-A-202.json",
+                        "label": "HOOGBOUW HOUTEN KOZIJNEN NR. 1 EN 25 IN RUIMTEN 2021 EN 2237",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271080/500-DB-HB-A-204.json",
+                        "label": "HOOGBOUW GEVELAANSLUITING 21E EN 22E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271080/500-DB-HB-A-205.json",
+                        "label": "HOOGBOUW DETAILS GEVEL AANSLUITING 21E EN 22E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271080/500-DB-HB-A-206.json",
+                        "label": "HOOGBOUW DEJO-ROOSTERS IN DE VENSTERBANKEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271080/500-DB-HB-A-207.json",
+                        "label": "HOOGBOUW GEVELKLOKKEN RAMEN VOOR UUR AANDUIDING 24 STUKS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271080/500-DB-HB-A-208.json",
+                        "label": "HOOGBOUW OMRANDING IN STUCPLAFOND VOOR T.L. LAMPEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271080/500-DB-HB-A-209.json",
+                        "label": "WIJZIGING VOORPLEIN BIJ HOOGBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271080/500-DB-HB-A-210.json",
+                        "label": "HOOGBOUW DETAILSPLEIN HOOGBOUW TEK. 500 DB HB A 209",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271080/500-DB-HB-A-211.json",
+                        "label": "HOOGBOUW VLAGGEMAST",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271080/500-DB-HB-A-212.json",
+                        "label": "HOOGBOUW DOORVOERING AFVOER EN WATERLEIDING VOOR EXTRA WASTAFELS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271080/500-DB-HB-A-213.json",
+                        "label": "HOOGBOUW GEVELKLOKKEN RAMEN T.B.V. UUR AANDUIDING 24 STUKS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271080/500-DB-HB-A-214.json",
+                        "label": "HOOGBOUW BLOEMENBAKKEN OP VOORPLEIN 4X UITVOEREN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271080/500-DB-HB-A-215.json",
+                        "label": "HOOGBOUW PROEFLETTER NAAM HOOFDGEBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271080/500-DB-HB-A-216.json",
+                        "label": "HOOGBOUW VOORSTEL OPSTELLING KOELTORENS",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

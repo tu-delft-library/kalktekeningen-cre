@@ -1,0 +1,137 @@
+{
+        "label": "AA270939",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA270939"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Biologisch centrum"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Biotechnologie"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270939/AA270939",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270939/42.json",
+                        "label": "TRAPPENHUIS-BIOCHEMIE. PLATTEGRONDEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270939/43.json",
+                        "label": "TRAPPENHUIS-BIOCHEMIE. PLATTEGRONDEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270939/44.json",
+                        "label": "TRAPPENHUIS-BIOCHEMIE. PLATTEGRONDEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270939/45.json",
+                        "label": "TRAPPENHUIS-BIOCHEMIE. PLATTEGRONDEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270939/46.json",
+                        "label": "TRAPPENHUIS-BIOCHEMIE. PLATTEGRONDEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270939/47.json",
+                        "label": "TRAPPENHUIS-BIOCHEMIE. PLATTEGRONDEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270939/48.json",
+                        "label": "TRAPPENHUIS-BIOCHEMIE. PLATTEGRONDEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270939/49.json",
+                        "label": "TRAPPENHUIS-BIOCHEMIE. PLATTEGRONDEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270939/50.json",
+                        "label": "TRAPPENHUIS-BIOCHEMIE. PLATTEGRONDEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270939/51.json",
+                        "label": "TRAPPENHUIS-BIOCHEMIE. PLATTEGRONDEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270939/52.json",
+                        "label": "TRAPPENHUIS-BIOCHEMIE. PLATTEGRONDEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270939/53.json",
+                        "label": "TRAPPENHUIS-BIOCHEMIE. PLATTEGRONDEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270939/55.json",
+                        "label": "TRAPPENHUIS-BIOCHEMIE. PLATTEGRONDEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270939/56.json",
+                        "label": "TRAPPENHUIS-BIOCHEMIE. PLATTEGRONDEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270939/58.json",
+                        "label": "TRAPPENHUIS-BIOCHEMIE. PLATTEGRONDEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270939/59.json",
+                        "label": "TRAPPENHUIS-BIOCHEMIE. PLATTEGRONDEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270939/60.json",
+                        "label": "TRAPPENHUIS-BIOCHEMIE. PLATTEGRONDEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270939/61.json",
+                        "label": "TRAPPENHUIS-BIOCHEMIE. PLATTEGRONDEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270939/62.json",
+                        "label": "TRAPPENHUIS-BIOCHEMIE. PLATTEGRONDEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270939/63.json",
+                        "label": "TRAPPENHUIS-BIOCHEMIE. PLATTEGRONDEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270939/64.json",
+                        "label": "TRAPPENHUIS-BIOCHEMIE. PLATTEGRONDEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270939/65.json",
+                        "label": "TRAPPENHUIS-BIOCHEMIE. PLATTEGRONDEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270939/66.json",
+                        "label": "TRAPPENHUIS-BIOCHEMIE. PLATTEGRONDEN",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

@@ -1,0 +1,147 @@
+{
+        "label": "AA271072",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA271072"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Windtunnel uitbreiding"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Lage Snelheden Laboratorium / VSSD / Inholland"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271072/AA271072",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271072/1368-D-1-1.json",
+                        "label": "UITBREIDING I EN II BETONKONSTRUKTIE 1E VERDIEPING 296 5+ EN 396 5+",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271072/1368-D-2-1B.json",
+                        "label": "UITBREIDING I EN II BETONKONSTRUKTIE 2E VERDIEPING 729 5+",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271072/1368-D-B-1B(1).json",
+                        "label": "UITBREIDING I EN II BETONKONSTRUKTIE BEGANEGROND 5- KELDER ROOKTUNNEL 153-",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271072/1368-D-B-1B(2).json",
+                        "label": "UITBREIDING I EN II BETONKONSTRUKTIE BEGANEGROND 5- KELDER ROOKTUNNEL 153+",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271072/1368-D-B-2.json",
+                        "label": "UITBREIDING I BEGANEGROND + KELDER BALKEN 1 TM 8 WANDEN I, II EN IV KELDER",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271072/1368-D-B-2A.json",
+                        "label": "UITBREIDING I BEGANEGROND + KELDER BALKEN 1 TM 8 WANDEN I, II EN IV KELDER",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271072/1368-D-B-3A(1).json",
+                        "label": "UITBREIDING I BALKEN 9 TM 15 BEG.GROND, WANDEN X EN XI BEG.GROND, WANDEN II, VI, VII, IX KELDER",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271072/1368-D-B-3A(2).json",
+                        "label": "UITBREIDING I BALKEN 9 TM 15 BEG.GROND, WANDEN X EN XI BEG.GROND, WANDEN II, VI, VII, IX KELDER",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271072/1368-D-B-4A(1).json",
+                        "label": "UITBREIDING II BEGANEGROND BALKEN 16, 17, 19 TM 34",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271072/1368-D-B-4A(2).json",
+                        "label": "UITBREIDING II BEGANEGROND BALKEN 16, 17, 19 TM 34",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271072/1368-D-B-5.json",
+                        "label": "UITBREIDING I EN II BEGANEGROND BALKEN 35 TM 40 DEEL II KOLOMMEN DEEL I",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271072/1368-D-B-5A.json",
+                        "label": "UITBREIDING I EN II BEGANEGROND BALKEN 35 TM 40 DEEL II KOLOMMEN DEEL I",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271072/1368-D-D-1.json",
+                        "label": "UITBREIDING I EN II BETONKONSTRUKTIE DAK 1236+ EN 1231+ DAKOPBOUW 1440+",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271072/1368-DB-61.json",
+                        "label": "PLAFOND SUSKAMER VERTIKALE TUNNEL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271072/1368-DB-62.json",
+                        "label": "VLOER OP 350+ IN VERTIKALE TUNNEL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271072/1368-DB-63.json",
+                        "label": "STELLING MODELLEN ZITBANK KLEDINGKASTEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271072/1368-DB-64.json",
+                        "label": "GEVELLADDERS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271072/1368-DB-65.json",
+                        "label": "BENAMING GEBOUW OP BAND 1100+ HOOFDENTREE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271072/1368-DB-66.json",
+                        "label": "AANVULLINGEN OP HET INTERIEUR",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271072/1368-P-1B.json",
+                        "label": "UITBREIDING I EN II PALENPLAN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271072/1368-S-1.json",
+                        "label": "UITBREIDING I EN II BETONKONSTRUKTIE BEGANEGROND 5- KELDER ROOKTUNNEL 153",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271072/1368-S-2.json",
+                        "label": "UITBREIDING I EN II BETONKONSTRUKTIE 1E VERDIEPING 298 5+ EN 396 5+",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271072/1368-S-3.json",
+                        "label": "UITBREIDING I EN II BETONKONSTRUKTIE 2E VERDIEPING 729 5+",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271072/1368-S-4.json",
+                        "label": "UITBREIDING I EN II BETONKONSTRUKTIE DAK 1236+ EN 1231+ DAKOPBOUW 1440+",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271072/1368-S-5.json",
+                        "label": "BETONKONSTRUKTIES IN BESTAANDE BOUW EN STAALKONSTR. DAK ENTREE",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

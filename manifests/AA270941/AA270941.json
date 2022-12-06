@@ -1,0 +1,132 @@
+{
+        "label": "AA270941",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA270941"
+                },
+                {
+                        "label": "Koker",
+                        "value": "IWECO"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Werktuigbouwkunde, Maritieme Techniek, Technische Materiaalwetenschappen (3mE)"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270941/AA270941",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270941/613-D-HB-K1(1).json",
+                        "label": "HOOGBOUW PL.GROND KELDER",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270941/613-D-HB-K1(2).json",
+                        "label": "HOOGBOUW PL.GROND KELDER",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270941/613-D-HB-K1(3).json",
+                        "label": "HOOGBOUW PL.GROND KELDER",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270941/613-D-HB-K2.json",
+                        "label": "HOOGBOUW KELDER STIEPEN 17-C TM 31-C 17-B 18-B",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270941/613-D-HB-K3.json",
+                        "label": "HOOGBOUW KELDER STIEPEN 19-B TM 29-B 31-B 31-A 32-A",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270941/613-D-HB-K4.json",
+                        "label": "HOOGBOUW KELDER BALKEN 1 EN 2 TOT MOD. 25",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270941/613-D-HB-K5.json",
+                        "label": "HOOGBOUW KELDER BALKEN 2 VAN MOD. 25 EN 3 TM 9",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270941/613-D-HB-K6.json",
+                        "label": "HOOGBOUW KELDER BALKEN 1 TM 19",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270941/613-D-HB-K7.json",
+                        "label": "HOOGBOUW STIEP 35-A-C",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270941/613-D-HB-K8(1).json",
+                        "label": "HOOGBOUW LIFTPUT WANDEN C.D.L.M. EN N.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270941/613-D-HB-K8(2).json",
+                        "label": "HOOGBOUW LIFTPUT WANDEN C.D.L.M. EN N.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270941/613-S-1.json",
+                        "label": "PALENPLAN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270941/613-S-2.json",
+                        "label": "KELDER",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270941/613-S-3.json",
+                        "label": "BEGANE GROND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270941/613-S-4.json",
+                        "label": "1E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270941/613-S-5.json",
+                        "label": "2E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270941/613-S-6.json",
+                        "label": "3E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270941/613-S-7.json",
+                        "label": "4E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270941/613-S-8.json",
+                        "label": "DAK",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270941/613-S-9.json",
+                        "label": "DOORSNEDE A-A EN B-B",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270941/613-S-10.json",
+                        "label": "DOORSNEDE C-C EN D-D",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270941/613-S-11.json",
+                        "label": "FUNDATIEBLOKKEN IN HAL",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

@@ -1,0 +1,97 @@
+{
+        "label": "AA271009",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA271009"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Scheikunde"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Chemische Technologie"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271009/AA271009",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271009/13.json",
+                        "label": "KOPPENPLAN VERDIEPING LINKERVLEUGEL NOORD",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271009/17(1).json",
+                        "label": "ONDERWERP is BEGANE GROND MIDDENDEEL - ACHTERBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271009/17(2).json",
+                        "label": "ONDERWERP is MEUBELINDELING KRANEN EN SANITAIR AFD. ORGAN. CHEMIE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271009/22.json",
+                        "label": "ONDERWERP is MEUBELINDELING KRANEN EN SANITAIR AFD. ORGAN. CHEMIE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271009/23.json",
+                        "label": "ONDERWERP is MEUBELINDELING KRANEN EN SANITAIR AFD. ORGAN. CHEMIE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271009/24.json",
+                        "label": "ONDERWERP is MEUBELINDELING KRANEN EN SANITAIR AFD. ORGAN. CHEMIE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271009/52.json",
+                        "label": "ONDERWERP is MEUBELINDELING KRANEN EN SANITAIR AFD. ORGAN. CHEMIE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271009/53.json",
+                        "label": "ONDERWERP is MEUBELINDELING KRANEN EN SANITAIR AFD. ORGAN. CHEMIE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271009/54.json",
+                        "label": "ONDERWERP is MEUBELINDELING KRANEN EN SANITAIR AFD. ORGAN. CHEMIE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271009/55.json",
+                        "label": "ONDERWERP is MEUBELINDELING KRANEN EN SANITAIR AFD. ORGAN. CHEMIE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271009/56.json",
+                        "label": "ONDERWERP is MEUBELINDELING KRANEN EN SANITAIR AFD. ORGAN. CHEMIE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271009/66.json",
+                        "label": "ONDERWERP is MEUBELINDELING KRANEN EN SANITAIR AFD. ORGAN. CHEMIE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271009/67.json",
+                        "label": "ONDERWERP is MEUBELINDELING KRANEN EN SANITAIR AFD. ORGAN. CHEMIE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271009/77.json",
+                        "label": "ONDERWERP is MEUBELINDELING KRANEN EN SANITAIR AFD. ORGAN. CHEMIE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271009/GEEN TEKENINGNUMMER.json",
+                        "label": "ONDERWERP is BEGANE GROND RECHTER MIDDENGEDEELTE",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

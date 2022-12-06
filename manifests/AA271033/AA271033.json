@@ -1,0 +1,127 @@
+{
+        "label": "AA271033",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA271033"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Hoge snelheden"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Hoge Snelheden Laboratorium"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271033/AA271033",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271033/1D1(1).json",
+                        "label": "DIENSTEBOUW PLATTEGROND 278",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271033/1D1(2).json",
+                        "label": "DIENSTGEBOUW PLATTEGROND 278+",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271033/1D2(1).json",
+                        "label": "WAND AS D-3-19 DIENSTGEBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271033/1D2(2).json",
+                        "label": "WAND AS D-3-19 DIENSTGEBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271033/1D3(1).json",
+                        "label": "DIENSTGEBOUW WAND AS D-19-25, WAND AS 25-D-B",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271033/1D3(2).json",
+                        "label": "DIENSTGEBOUW WAND AS D-19-25 WAND AS 25-D-B",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271033/1D4(1).json",
+                        "label": "DIENSTGEBOUW WAND AS B-3-19",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271033/1D4(2).json",
+                        "label": "DIENSTGEBOUW WAND AS B-3-19",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271033/1D5(1).json",
+                        "label": "DIENSTGEBOUW WAND AS 3A-D, WANDEN RIJWIELTRAP, BALKEN, KOLOMMEN AS-C",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271033/1D5(2).json",
+                        "label": "DIENSTGEBOUW WAND AS 3A-D WANDEN RIJWIELTRAP BALKEN, KOLOMMEN AS-C",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271033/1D6(1).json",
+                        "label": "DIENSTGEBOUW PLATTEGROND 4+",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271033/1D6(2).json",
+                        "label": "DIENSTGEBOUW PLATTEGROND 4+",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271033/1D6(3).json",
+                        "label": "DIENSTGEBOUW PLATTEGROND 4",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271033/1D6(4).json",
+                        "label": "DIENSTGEBOUW PLATTEGROND 4",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271033/1D9.json",
+                        "label": "LABORATORIUM VOOR HOGE SNELHEDEN KABINETTENSTROOK TRAP TUSSEN STR. 19-20 KEUKEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271033/1D10.json",
+                        "label": "LABORATORIUM VOOR HOGE SNELHEDEN KABINETTENSTROOK NOODTRAP TUSSEN STR. 3-4",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271033/1D11.json",
+                        "label": "LAB. VOOR HOGE SNELHEDEN DRAAGCONSTRUCTIE VERB.GANGEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271033/1D12(1).json",
+                        "label": "LAB. VOOR HOGE SNELHEDEN DRAAGCONSTRUCTIE VERB.GANGEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271033/1D12(2).json",
+                        "label": "LAB. VOOR HOGE SNELHEDEN DRAAGCONSTRUCTIE VERB.GANGEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271033/3D12.json",
+                        "label": "LABORATORIUM 1 AANSLUITING FUNDATIEBLOK-GELUIDDEMPER",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271033/125.json",
+                        "label": "LABORATORIUM 1 AANSLUITING FUNDATIEBLOK-GELUIDDEMPER",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

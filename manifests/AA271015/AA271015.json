@@ -1,0 +1,172 @@
+{
+        "label": "AA271015",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA271015"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Elektrotechniek lage voorbouw"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Elektrotechniek, Wiskunde en Informatica (EWI)"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271015/AA271015",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271015/500-DB-LV-B-13.json",
+                        "label": "LAGE VOORBOUW III PLATTEGROND BEGANE GROND KELDER ONDER TRAFO LIFTPUT",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271015/500-DB-LV-B-14.json",
+                        "label": "LAGE VOORBOUW II SPARINGEN BEGANE GROND KELDER ONDER TRAFO LIFTPUT",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271015/500-DB-LV-B-16.json",
+                        "label": "LAGE VOORBOUW DETAILS BEGANE GROND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271015/500-DB-LV-B-17.json",
+                        "label": "LAGE VOORBOUW DEMPOPLAFONDINDELING GANG BEGANE GROND VAN MOD 047 TOT 055",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271015/500-DB-LV-B-20.json",
+                        "label": "LAGE VOORBOUW VLOERLUIK EN TRAP BEG GROND TRAPPENHUIZEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271015/500-DB-LV-B-21.json",
+                        "label": "LAGE VOORBOUW HARDHOUTEN VLOER IN GELIJKRICHTERRUIMTE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271015/500-DB-LV-B-45.json",
+                        "label": "LAGE VOORBOUW SPARINGEN BEGANE GROND LIFTPUT KELDER ONDER TRAFOS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271015/500-DB-LV-B8.json",
+                        "label": "LAGE VOORBOUW  TRAFORUIMTEN BEGANE GROND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271015/500-DB-LV-B9.json",
+                        "label": "LAGE VOORBOUW RIOLERING WAS EN KLEEDRUIMTE DOUCHES BEGANE GROND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271015/500-DB-LV-B10.json",
+                        "label": "LAGE VOORBOUW PLATTEGROND EN DOORSNEDEN BEGANE GROND V MOD 047 TOT 059",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271015/500-DB-LV-B11.json",
+                        "label": "LAGE VOORBOUW PLATTEGROND EN DOORSNEDEN BEGANE GROND V MOD 035 TOT 047",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271015/500-DB-LV-B12.json",
+                        "label": "LAGE VOORBOUW PLATTEGROND EN DOORSNEDEN BEGANE GROND V MOD 023 TOT 035",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271015/500-DB-LV-B18.json",
+                        "label": "LAGE VOORBOUW DEMPOPLAFONDINDELING GANG EN WAS EN KLEED RUIMTE TECHNISCHE DIENST",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271015/500-DB-LV-B19.json",
+                        "label": "LAGE VOORBOUW DEMPOPLAFONDINDELING GANG BEGANE GROND VAN MOD 023 TOT 035",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271015/500-DB-LV-T1.json",
+                        "label": "LAGE VOORBOUW PLATTEGROND EN DETAILS TUSSENVERDIEPING V MOD 047-059",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271015/500-SB-LV-A-26.json",
+                        "label": "LAGE VOORBOUW DWARSDOORSNEDE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271015/500-SB-LV-A-27.json",
+                        "label": "LAGE VOORBOUW DOORVOERBUIZEN TBV ZONWERING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271015/500-SB-LV-A-31.json",
+                        "label": "LAGE VOORBOUW STALEN RAMEN WESTGEVEL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271015/500-SB-LV-A-32.json",
+                        "label": "LAGE VOORBOUW OVERZICHT STALEN RAMEN NOORD EN ZUIDGEVEL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271015/500-SB-LV-A-33.json",
+                        "label": "LAGE VOORBOUW VARIANTEN GLASGEVELDETAILS OP VLOERHOOGTEN EN HOEKDETAILS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271015/500-SB-LV-A-34.json",
+                        "label": "LAGE VOORBOUW DETAILS GLASGEVELS DET NO 7",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271015/500-SB-LV-A-35.json",
+                        "label": "LAGE VOORBOUW STALEN BUITENGEVEL VERT DOORSNEDE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271015/500-SB-LV-A-36.json",
+                        "label": "LAGE VOORBOUW DETAILS GLASVEZELS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271015/500-SB-LV-A-37.json",
+                        "label": "LAGE VOORBOUW DETAILS GLASVEZELS HOEK NO GEVEL DETAILS NO 5 7 8",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271015/500-SB-LV-A-38.json",
+                        "label": "LAGE VOORBOUW GASGEVELDETAILS NOORDGEVEL EN GED WESTGEVEL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271015/500-SB-LV-A-39.json",
+                        "label": "LAGE VOORBOUW PLATTEGROND EN DOORSNEDEN GEVEL NOORDELIJK GEDEELTE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271015/500-SB-LV-A-40.json",
+                        "label": "LAGE VOORBOUW AANSLUITING GLASGEVEL DAKGOOT",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271015/500-SB-LV-A-41.json",
+                        "label": "LAGE VOORBOUW DETAIL DILATATIE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271015/500-SB-LV-A42.json",
+                        "label": "LAGE VOORBOUW HOEK GEVELS OOST ZUID",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271015/500-SB-LV-B-1.json",
+                        "label": "LAGE VOORBOUW BEGANE GROND PEIL 0",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

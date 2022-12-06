@@ -1,0 +1,87 @@
+{
+        "label": "AA271099",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA271099"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Elektrotechniek diverse architect"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Elektrotechniek, Wiskunde en Informatica (EWI)"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271099/AA271099",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271099/500-D-LH-B-18.json",
+                        "label": "LAGE HALLEN DEEL II LUIK IN INSTRUMENTMAKERIJ",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271099/500-HB-M-64.json",
+                        "label": "VOORSTEL BALIE ADMINISTRATIE HOOGBOUW 2E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271099/500-HB.json",
+                        "label": "HOOGBOUW VERDIEPING DEURNUMMERS V.D. D. STAAT",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271099/500-LH-A-6.json",
+                        "label": "LAGE HALLEN STALEN BALKEN EN DEJOROOSTERS TRAFO EN BEPROEVINGSCEL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271099/500-S-LH-B-1.json",
+                        "label": "LAGE HALLEN PLATTEGROND BEGANE GROND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271099/500-S-LH-K-1.json",
+                        "label": "LAGE HALLEN PLATTEGROND KELDER",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271099/500-SB-A-A-3.json",
+                        "label": "TERREININDELING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271099/500-SB-HB-A-65.json",
+                        "label": "HOOGBOUW DETAILS GLASGEVELS T.P.V. VERHOOGDE WINDBELASTING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271099/500-V-B-43.json",
+                        "label": "GEEN OMSCHRIJVING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271099/500-V-B-45.json",
+                        "label": "GEEN OMSCHRIJVING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271099/500-VB-44.json",
+                        "label": "GEEN OMSCHRIJVING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271099/500-VB-A-A-22.json",
+                        "label": "VOORSTEL UITBREIDING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271099/500-VB-A-A-30.json",
+                        "label": "GEEN OMSCHRIJVING",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

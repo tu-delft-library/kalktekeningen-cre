@@ -1,0 +1,152 @@
+{
+        "label": "AA271013",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA271013"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Elektrotechniek hoogbouw"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Elektrotechniek, Wiskunde en Informatica (EWI)"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271013/AA271013",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271013/500-SB-HB-11-1.json",
+                        "label": "11E VERDIEPING 4270",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271013/500-SB-HB-12-1.json",
+                        "label": "12E VERDIEPING 4645",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271013/500-SB-HB-13-1.json",
+                        "label": "13E VERDIEPING 5020",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271013/500-SB-HB-14-1.json",
+                        "label": "14E VERDIEPING 5395",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271013/500-SB-HB-15-1.json",
+                        "label": "15E VERDIEPING 5770",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271013/500-SB-HB-16-1.json",
+                        "label": "16E VERDIEPING 6145",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271013/500-SB-HB-17-1.json",
+                        "label": "17E VERDIEPING 6520",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271013/500-SB-HB-18-1.json",
+                        "label": "18E VERDIEPING 6895",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271013/500-SB-HB-19-1.json",
+                        "label": "19E VERDIEPING 7270",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271013/500-SB-HB-20-1.json",
+                        "label": "20E VERDIEPING 7645",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271013/500-SB-HB-21-1.json",
+                        "label": "21E VERDIEPING 8020",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271013/500-SB-HB-22-1.json",
+                        "label": "22E VERD SERVICEVLOER 8395",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271013/500-SB-HB-A-2.json",
+                        "label": "HOOGBOUW DOORSNEDE B-B",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271013/500-SB-HB-A-3.json",
+                        "label": "HOOGBOUW DW DSN C-C TRAPPENHUIS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271013/500-SB-HB-A-4.json",
+                        "label": "COLLEGEZALEN DOORSNEDE D-D",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271013/500-SB-HB-A-5.json",
+                        "label": "COLLEGEZALEN DOORSNEDEN E-E en F-F",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271013/500-SB-HB-A-10.json",
+                        "label": "HOOGBOUW PLAFONDS BEGANE GROND 1E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271013/500-SB-HB-A-11.json",
+                        "label": "BEKLEDING STALEN KOLOMMEN HOOGBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271013/500-SB-HB-A-12.json",
+                        "label": "HOOGBOUW DOORSNEDE KANTINE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271013/500-SB-HB-A-13.json",
+                        "label": "DOORSNEDE GEVEL EN DAKRAND 21E 22E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271013/500-SB-HB-A-14.json",
+                        "label": "PLATTEGRONDEN TRAPPENHUIS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271013/500-SB-HB-A-15.json",
+                        "label": "DOORSNEDEN TRAPPENHUIS",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271013/500-SB-HB-A-16.json",
+                        "label": "DIVERSE DETAILS DAKRANDEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271013/500-SB-HB-A-17.json",
+                        "label": "PRINCIPE BINNENPUI WERKGANG",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271013/500-SB-HB-D-1.json",
+                        "label": "DAKVLOER",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271013/500-SB-HB-D-2.json",
+                        "label": "STELVLOER",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

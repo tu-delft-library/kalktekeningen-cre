@@ -1,0 +1,167 @@
+{
+        "label": "AA271082",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA271082"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Elektrotechniek hoogbouw"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Elektrotechniek, Wiskunde en Informatica (EWI)"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271082/AA271082",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271082/500-DB-HB-A-111.json",
+                        "label": "HOOGBOUW SPARINGEN WAND I EN II VAN 5- TOT 892+",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271082/500-DB-HB-A-112.json",
+                        "label": "HOOGBOUW SPARINGEN WNAD III EN IV VAN 5- TOT 892+",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271082/500-DB-HB-A-113.json",
+                        "label": "SPARINGEN HOOGBOUW SCHOT OP MODUUL 101 VAN 2E TM 5E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271082/500-DB-HB-A-114.json",
+                        "label": "HOOGBOUW SCHOT OP MODUUL 102 VAN 2E TM 5E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271082/500-DB-HB-A-115.json",
+                        "label": "SPARINGEN HOOGBOUW SCHOT OP MODUUL 105 VAN 2E TM 5E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271082/500-DB-HB-A-116.json",
+                        "label": "SPARINGEN HOOGBOUW SCHOT OP MODUUL 106 TUSSEN 892+ EN 2018+",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271082/500-DB-HB-A-117.json",
+                        "label": "SPARINGEN HOOGBOUW SCHOT OP MODUUL 112 VAN 2E TM 5E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271082/500-DB-HB-A-118.json",
+                        "label": "SPARINGEN HOOGBOUW SCHOT OP MODUUL 113 VAN 2E TM 5E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271082/500-DB-HB-A-119.json",
+                        "label": "SPARINGEN HOOGBOUW SCHOT OP MODUUL 117 VAN 2E TM 5E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271082/500-DB-HB-A-120.json",
+                        "label": "SPARINGEN HOOGBOUW SCHOT OP MODUUL 118 VAN 2E TM 5E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271082/500-DB-HB-A-121.json",
+                        "label": "SPARINGEN HOOGBOUW SCHOT OP MODUUL 120 VAN 2E TM 5E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271082/500-DB-HB-A-122.json",
+                        "label": "SPARINGEN HOOGBOUW SCHOT OP MODUUL 121 VAN 2E TM 5E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271082/500-DB-HB-A-123.json",
+                        "label": "SPARINGEN HOOGBOUW WANDEN I EN II VAN 892+ TOT 2017+",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271082/500-DB-HB-A-124.json",
+                        "label": "SPARINGEN HOOGBOUW WANDEN III EN IV VAN 892+ TOT 2017+",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271082/500-DB-HB-A-125.json",
+                        "label": "SPARINGEN HOOGBOUW SCHOT OP MODUUL 101 VAN 5E TM 8E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271082/500-DB-HB-A-126(1).json",
+                        "label": "SPARINGEN HOOGBOUW SCHOT OP MODUUL 106 VAN 5E TM 8E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271082/500-DB-HB-A-126(2).json",
+                        "label": "SPARINGEN HOOGBOUW SCHOT OP MODUUL 102 VAN 5E TM 8E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271082/500-DB-HB-A-127.json",
+                        "label": "SPARINGEN HOOGBOUW SCHOT OP MODUUL 105 VAN 5E TM 8E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271082/500-DB-HB-A-129.json",
+                        "label": "SPARINGEN HOOGBOUW SCHOT OP MODUUL 112 VAN 5E TM 8E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271082/500-DB-HB-A-130.json",
+                        "label": "SPARINGEN HOOGBOUW SCHOT OP MODUUL 113 VAN 5E TM 8E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271082/500-DB-HB-A-131.json",
+                        "label": "SPARINGEN HOOGBOUW SCHOT OP MODUUL 117 VAN 5E TM 8E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271082/500-DB-HB-A-132.json",
+                        "label": "SPARINGEN HOOGBOUW SCHOT OP MODUUL 118 VAN 5E TM 8E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271082/500-DB-HB-A-133.json",
+                        "label": "SPARINGEN HOOGBOUW SCHOT OP MODUUL 120 VAN 5E TM 8E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271082/500-DB-HB-A-134.json",
+                        "label": "SPARINGEN HOOGBOUW SCHOT OP MODUUL 121 VAN 5E TM 8E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271082/500-DB-HB-A-135.json",
+                        "label": "SPARINGEN HOOGBOUW WANDEN I EN II VAN 5E TOT 8E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271082/500-DB-HB-A-136.json",
+                        "label": "SPARINGEN HOOGBOUW WANDEN III EN IV VAN 5E TOT 8E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271082/500-DB-HB-A-137.json",
+                        "label": "SPARINGEN HOOGBOUW SCHOT OP MODUUL 101 VAN 8E TM 11E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271082/500-DB-HB-A-138.json",
+                        "label": "SPARINGEN HOOGBOUW SCHOT OP MODUUL 102 VAN 8E TM 11E VERD.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271082/500-DB-HB-A-139.json",
+                        "label": "SPARINGEN HOOGBOUW SCHOT OP MODUUL 105 VAN 8E TM 11E VERD.",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

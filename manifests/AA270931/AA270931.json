@@ -1,0 +1,142 @@
+{
+        "label": "AA270931",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA270931"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Biologisch centrum"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Biotechnologie"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270931/AA270931",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270931/10B.json",
+                        "label": "SITUATIE PLAN SCH 1 A 1000",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270931/19.json",
+                        "label": "SITUATIE PLAN SCH 1 A 1000",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270931/20.json",
+                        "label": "SITUATIE PLAN SCH 1 A 1000",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270931/21.json",
+                        "label": "SITUATIE PLAN SCH 1 A 1000",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270931/22.json",
+                        "label": "SITUATIE PLAN SCH 1 A 1000",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270931/22a.json",
+                        "label": "HARDSTEEN VOOR DORPELS EN NEUTEN BINNENDEURKOZIJNEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270931/23.json",
+                        "label": "HARDSTEEN VOOR DORPELS EN NEUTEN BINNENDEURKOZIJNEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270931/24.json",
+                        "label": "HARDSTEEN VOOR DORPELS EN NEUTEN BINNENDEURKOZIJNEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270931/25.json",
+                        "label": "HARDSTEEN VOOR DORPELS EN NEUTEN BINNENDEURKOZIJNEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270931/26.json",
+                        "label": "HARDSTEEN VOOR DORPELS EN NEUTEN BINNENDEURKOZIJNEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270931/27.json",
+                        "label": "HARDSTEEN VOOR DORPELS EN NEUTEN BINNENDEURKOZIJNEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270931/28.json",
+                        "label": "HARDSTEEN VOOR DORPELS EN NEUTEN BINNENDEURKOZIJNEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270931/29.json",
+                        "label": "HARDSTEEN VOOR DORPELS EN NEUTEN BINNENDEURKOZIJNEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270931/30.json",
+                        "label": "HARDSTEEN VOOR DORPELS EN NEUTEN BINNENDEURKOZIJNEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270931/31.json",
+                        "label": "HARDSTEEN VOOR DORPELS EN NEUTEN BINNENDEURKOZIJNEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270931/32.json",
+                        "label": "HARDSTEEN VOOR DORPELS EN NEUTEN BINNENDEURKOZIJNEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270931/33.json",
+                        "label": "HARDSTEEN VOOR DORPELS EN NEUTEN BINNENDEURKOZIJNEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270931/34.json",
+                        "label": "HARDSTEEN VOOR DORPELS EN NEUTEN BINNENDEURKOZIJNEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270931/35.json",
+                        "label": "HARDSTEEN VOOR DORPELS EN NEUTEN BINNENDEURKOZIJNEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270931/36.json",
+                        "label": "HARDSTEEN VOOR DORPELS EN NEUTEN BINNENDEURKOZIJNEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270931/37.json",
+                        "label": "HARDSTEEN VOOR DORPELS EN NEUTEN BINNENDEURKOZIJNEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270931/38.json",
+                        "label": "HARDSTEEN VOOR DORPELS EN NEUTEN BINNENDEURKOZIJNEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270931/40.json",
+                        "label": "HARDSTEEN VOOR DORPELS EN NEUTEN BINNENDEURKOZIJNEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270931/41.json",
+                        "label": "HARDSTEEN VOOR DORPELS EN NEUTEN BINNENDEURKOZIJNEN",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

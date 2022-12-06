@@ -1,0 +1,317 @@
+{
+        "label": "AA270867",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA270867"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Technische natuurkunde"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Technische Natuurkunde"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270867/AA270867",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270867/1316.json",
+                        "label": "REVISIE TEK VENTILATIE COLLEGEZAAL 211",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270867/7315W.json",
+                        "label": "PLAATSING ANEMOSTATEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270867/8416 blad R.3.json",
+                        "label": "1E VERDIEPING VLEUGEL A, BLOK I, VLEUGEL B",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270867/8416 blad R.4.json",
+                        "label": "2E VERDIEPING VLEUGEL A, BLOK I, VLEUGEL B",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270867/8416 blad R.5.json",
+                        "label": "3E VERDIEPING BLOK I DAK VLEUGEL A en B",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270867/8416 blad R.8.json",
+                        "label": "BEGANE GROND BLOK II VLEUGEL C, BLOK III",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270867/8416 blad R.9.json",
+                        "label": "1E VERDIEPING  BLOK II VLEUGEL C, BLOK III",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270867/8416 blad R.10.json",
+                        "label": "2E VERDIEPING  BLOK II VLEUGEL C, BLOK III",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270867/8416 blad R.11.json",
+                        "label": "3E VERDIEPING  BLOK II VLEUGEL C, BLOK III",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270867/8416 blad R.14.json",
+                        "label": "BEGANE GROND VLEUGEL D, BLOK IV, VLEUGEL E",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270867/8416 blad R.15.json",
+                        "label": "1E VERDIEPING VLEUGEL D, BLOK IV, VLEUGEL E",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270867/8416 blad R.16.json",
+                        "label": "2E VERDIEPING VLEUGEL D, BLOK IV, VLEUGEL E",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270867/8416 blad R.17.json",
+                        "label": "3E VERDIEPING BLOK IV DAK VLEUGEL D-E",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270867/8416-R37-TN.json",
+                        "label": "RENVOOILIJST T.B.V. R19 E.V.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270867/8826.json",
+                        "label": "RENVOOILIJST T.B.V. R19 E.V.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270867/Blad 1_1.json",
+                        "label": "VENTILATIE TOEVOER T.B.V. MACHINE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270867/Blad 1_2.json",
+                        "label": "PRINCIPE. KOELINSTALLATIE + KANALENLOOP",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270867/Blad 1II.json",
+                        "label": "VENTILATIE PRINTKAMER",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270867/Blad 02.json",
+                        "label": "KELDER EN BEGANE GROND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270867/Blad 03.json",
+                        "label": "VERDIEPINGEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270867/Blad 101.json",
+                        "label": "VLEUGEL A + BLOK I BEGANE GROND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270867/Blad 103.json",
+                        "label": "VLEUGEL B en BLOK II 1E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270867/Blad 104.json",
+                        "label": "VLEUGEL B, BLOK II. 2E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270867/Blad 105.json",
+                        "label": "BLOK III, VLEUGEL C 1E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270867/Blad 106.json",
+                        "label": "VLEUGEL C , BLOK III, TWEEDE VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270867/Blad 107.json",
+                        "label": "BLOK IV + VLEUGEL E WEST BEGANE GROND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270867/Blad 108.json",
+                        "label": "VLEUGEL E GED en MEETHAL 1E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270867/Blad 109.json",
+                        "label": "VLEUGEL E WEST KELDER",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270867/Blad 110.json",
+                        "label": "SLIBVANGERS KELDER VLEUGEL E WEST",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270867/Blad A2.json",
+                        "label": "BEGANE GROND OVERZICHT",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270867/Blad A3.json",
+                        "label": "EERSTE VERDIEPING OVERZICHT",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270867/Blad A4.json",
+                        "label": "TWEEDE VERDIEPING OVERZICHTSPLATTEGROND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270867/Blad A5.json",
+                        "label": "DERDE VERDIEPING OVERZICHTS-PLATTEGROND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270867/Blad B1.json",
+                        "label": "BEGANE GROND OVERZICHT MEETHAL, T.N.O. \u2013 T.P.D.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270867/Blad B2.json",
+                        "label": "OVERZICHT \u2013 T.N.O., T.P.D. en MEETHAL BEGANE GROND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270867/Blad nr 1A.json",
+                        "label": "REGELINGSTALLATIE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270867/Blad R.6.json",
+                        "label": "DAK EN DAKVERDIEPING BLOK I",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270867/Blad R.12.json",
+                        "label": "DAK EN DAKVERDIEPING BLOK II en III",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270867/Blad R.18.json",
+                        "label": "DAK EN DAKVERDIEPING BLOK IV",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270867/Blad R19.json",
+                        "label": "VLEUGEL E3 TRAV 1-25 KELDER",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270867/Blad R20.json",
+                        "label": "VLEUGEL E3 TRAV 25-47 KELDER",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270867/Blad R21.json",
+                        "label": "VLEUGEL E3 TRAV 1-25 BEGANE GROND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270867/Blad R22.json",
+                        "label": "VLEUGEL E3 TRAV 25-47 BEGANE GROND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270867/Blad R23.json",
+                        "label": "VLEUGEL E3 TRAV 1-25 1E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270867/Blad R24.json",
+                        "label": "VLEUGEL E3 TRAV 25-47 1E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270867/Blad R25.json",
+                        "label": "VLEUGEL E3 TRAV 1-25 2E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270867/Blad R26.json",
+                        "label": "VLEUGEL E3 TRAV 25-47 2E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270867/Blad R27.json",
+                        "label": "VLEUGEL E3 TRAV 1-25 3E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270867/Blad R28.json",
+                        "label": "VLEUGEL E3 TRAV 25-47 3E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270867/Blad R29.json",
+                        "label": "MEETHAL KELDER",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270867/Blad R30.json",
+                        "label": "WATERGALMBASSINHAL KELDER",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270867/Blad R31.json",
+                        "label": "MEETHAL BEGANE GROND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270867/Blad R32.json",
+                        "label": "WATERGALMBASSINHAL BEGANE GROND",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270867/Blad R33.json",
+                        "label": "MEETHAL 1E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270867/Blad R34.json",
+                        "label": "WATERGALMBASSINHAL 1E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270867/Blad R35.json",
+                        "label": "MEETHAL 2E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270867/Blad R36.json",
+                        "label": "WATERGALMBASSINHAL 2E VERDIEPING",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270867/R-DI-12.json",
+                        "label": "CENTR. VERWARMING-VENTILATIE. WATER-GAS-PERSLUCHT-AFVOER.",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA270867/R-DII-1e.json",
+                        "label": "CENTR VERW.-VENT.-WATER-GAS-PERSL VLEUGEL DII 1E VERDIEPING",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

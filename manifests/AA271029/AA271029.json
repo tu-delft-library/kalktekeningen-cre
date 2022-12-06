@@ -1,0 +1,127 @@
+{
+        "label": "AA271029",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA271029"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Hoge snelheden"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Hoge Snelheden Laboratorium"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271029/AA271029",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271029/1DB11.json",
+                        "label": "LABORATORIUM VOOR HOGE SNELHEDEN KABINETTENSTROOK DETAILS OOSTGEVEL",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271029/3D1.json",
+                        "label": "LABORATORIUM 1 PL.GRONDEN 80 205",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271029/3D2(1).json",
+                        "label": "LABORATORIUM 1 BALKEN AS G-L-9-10, G-L-16-17",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271029/3D2(2).json",
+                        "label": "LABORATORIUM 1 BALKEN AS G-L-9-10, G-L-16-17",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271029/3D3.json",
+                        "label": "LABORATORIUM 1 BALKEN AS 11-15 G-L",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271029/3D4.json",
+                        "label": "LABORATORIUM I BALKEN ASSEN G-L 11-15",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271029/3D8(1).json",
+                        "label": "LABORATORIUM II PLATTEGROND 75",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271029/3D8(2).json",
+                        "label": "LABORATORIUM II PLATTEGROND 75",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271029/3D8(3).json",
+                        "label": "LABORATORIUM II PLATTEGROND 75",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271029/3D9.json",
+                        "label": "LABORATORIUM II BALKEN 1 TM 8 EN 17 TM 24",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271029/3D11(1).json",
+                        "label": "LABORATORIUM I FUNDATIEBLOK 2 OP ASSEN G_L10",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271029/3D11(2).json",
+                        "label": "LABORATORIUM I FUNDATIEBLOK 2 OP ASSEN G_L10",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271029/3D14(1).json",
+                        "label": "LABORATORIUM 1 FUNDATIE BLOK 1 OP ASSEN G-L16",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271029/3D14(2).json",
+                        "label": "LABORATORIUM I FUNDATIEBLOK 1 OP ASSEN G-L16",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271029/3D15(1).json",
+                        "label": "GELUIDDEMPER WANDEN EN BALKEN OP ASSEN 15-16M-P",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271029/3D15(2).json",
+                        "label": "GELUIDDEMPER WANDEN EN BALKEN OP ASSEN 15-16M-P",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271029/3D16(1).json",
+                        "label": "LABORATORIUM 1 KOLOMMEN VAN 85 - 253 5+",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271029/3D16(2).json",
+                        "label": "LABORATORIUM 1 KOLOMMEN VAN 85 - 253 5+",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271029/3D17(1).json",
+                        "label": "LABORATORIUM 1 PLATTEGROND 253+ EN BALKEN 1 TM 17",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271029/3D17(2).json",
+                        "label": "LABORATORIUM 1 PLATTEGROND 253+ EN BALKEN 1 TM 17",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271029/3D17(3).json",
+                        "label": "LABORATORIUM 1 PLATTEGROND 253+ EN BALKEN 1 TM 17",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}

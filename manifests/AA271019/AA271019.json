@@ -1,0 +1,172 @@
+{
+        "label": "AA271019",
+        "metadata": [
+                {
+                        "label": "Titel",
+                        "value": "AA271019"
+                },
+                {
+                        "label": "Koker",
+                        "value": "Elektrotechniek hoogbouw"
+                },
+                {
+                        "label": "Gebouw",
+                        "value": "Elektrotechniek, Wiskunde en Informatica (EWI)"
+                }
+        ],
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271019/AA271019",
+        "@type": "sc:Collection",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271019/500-HB-M-68.json",
+                        "label": "HERRIEN VOORSTEL PLATTEGROND EN AANZ KEUKEN HOOGBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271019/500-HB-M-70.json",
+                        "label": "BALIE OMTIMMERING VOOR STRAFOR BALIE ADMINISTRATIE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271019/500-HB-M-71.json",
+                        "label": "STOEL HOOGLERAARVERTREKKEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271019/500-HB-M-71A.json",
+                        "label": "STOEL HOOGLERAARVERTREKKEN",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271019/500-HB-M-72.json",
+                        "label": "RONDE TAFELS BIBLIOTHEEK 2E VERD HOOGBOUW",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271019/500-SB-HB-1-2.json",
+                        "label": "PLATTEGROND FILMCABINE EN VENTILATIERUIMTE",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271019/500-SB-HB-2-1.json",
+                        "label": "HOOGBOUW 2E VERDIEPING  895",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271019/500-SB-HB-3-1.json",
+                        "label": "HOOGBOUW 3E VERDIEPING 1270",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271019/500-SB-HB-4-1.json",
+                        "label": "HOOGBOUW 4E VERDIEPING 1645",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271019/500-SB-HB-6-1.json",
+                        "label": "6E VERDIEPING 2395",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271019/500-SB-HB-7-1.json",
+                        "label": "HOOGBOUW 7E VERDIEPING 2770",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271019/500-SB-HB-8-1.json",
+                        "label": "8E VERDIEPING 3145",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271019/500-SB-HB-9-1.json",
+                        "label": "9E VERDIEPING 3520",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271019/500-SB-HB-10-1.json",
+                        "label": "10E VERDIEPING 3895",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271019/500-SB-HB-11-1.json",
+                        "label": "11E VERDIEPING 4270",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271019/500-SB-HB-12-1.json",
+                        "label": "12E VERDIEPING 4645",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271019/500-SB-HB-13-1.json",
+                        "label": "13E VERDIEPING 5020",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271019/500-SB-HB-14-1.json",
+                        "label": "14E VERDIEPING 5395",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271019/500-SB-HB-15-1.json",
+                        "label": "15E VERDIEPING 5770",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271019/500-SB-HB-16-1.json",
+                        "label": "16E VERDIEPING 6145",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271019/500-SB-HB-17-1.json",
+                        "label": "17E VERDIEPING 6520",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271019/500-SB-HB-18-1.json",
+                        "label": "18E VERDIEPING 6895",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271019/500-SB-HB-19-1.json",
+                        "label": "19E VERDIEPING 7270",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271019/500-SB-HB-20-1.json",
+                        "label": "20E VERDIEPING 7645",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271019/500-SB-HB-21-1.json",
+                        "label": "21E VERD SPIEGELVLOER 8020",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271019/500-SB-HB-22-1.json",
+                        "label": "22E VERD SERVICEVLOER 8395",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271019/500-SB-HB-D-1.json",
+                        "label": "HOOGBOUW DAKVLOER",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271019/500-SB-HB-D-2.json",
+                        "label": "HOOGBOUW STELVLOER",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271019/768.json",
+                        "label": "HOOGBOUW STELVLOER",
+                        "@type": "sc:Manifest"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/AA271019/780.json",
+                        "label": "HOOGBOUW STELVLOER",
+                        "@type": "sc:Manifest"
+                }
+        ]
+}
