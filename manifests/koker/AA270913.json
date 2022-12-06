@@ -13,7 +13,7 @@
                 },
                 {
                         "label": "Vertaling naam",
-                        "value": NaN
+                        "value": "nan"
                 },
                 {
                         "label": "Gebouw",
@@ -21,7 +21,7 @@
                 },
                 {
                         "label": "Vleugel",
-                        "value": NaN
+                        "value": "nan"
                 }
         ],
         "sequences": [
@@ -97,7 +97,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=1892"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Bovenaanzicht en doorsneden dakvlakken"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=1893",
@@ -166,7 +167,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=1893"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Bovenaanzicht en doorsneden dakvlakken"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=1894",
@@ -235,7 +237,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=1894"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Bovenaanzicht en doorsneden dakvlakken"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=1895",
@@ -304,7 +307,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=1895"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Bovenaanzicht en doorsneden dakvlakken"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=1896",
@@ -373,7 +377,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=1896"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Bovenaanzicht en doorsneden dakvlakken"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=1897",
@@ -442,7 +447,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=1897"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Bovenaanzicht en doorsneden dakvlakken"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=1898",
@@ -511,7 +517,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=1898"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Bovenaanzicht en doorsneden dakvlakken"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=1899",
@@ -580,7 +587,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=1899"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Bovenaanzicht en doorsneden dakvlakken"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=1900",
@@ -649,7 +657,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=1900"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Bovenaanzicht en doorsneden dakvlakken"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=1901",
@@ -718,7 +727,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=1901"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Bovenaanzicht en doorsneden dakvlakken"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=1902",
@@ -787,7 +797,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=1902"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Bovenaanzicht en doorsneden dakvlakken"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=1903",
@@ -856,7 +867,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=1903"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Bovenaanzicht en doorsneden dakvlakken"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=1904",
@@ -925,7 +937,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=1904"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Bovenaanzicht en doorsneden dakvlakken"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=1905",
@@ -994,7 +1007,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=1905"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Bovenaanzicht en doorsneden dakvlakken"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=1906",
@@ -1063,7 +1077,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=1906"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Bovenaanzicht en doorsneden dakvlakken"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=1907",
@@ -1132,7 +1147,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=1907"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Bovenaanzicht en doorsneden dakvlakken"
                                 }
                         ]
                 }

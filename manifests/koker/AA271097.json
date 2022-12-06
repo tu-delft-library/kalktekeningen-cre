@@ -13,7 +13,7 @@
                 },
                 {
                         "label": "Vertaling naam",
-                        "value": NaN
+                        "value": "nan"
                 },
                 {
                         "label": "Gebouw",
@@ -21,7 +21,7 @@
                 },
                 {
                         "label": "Vleugel",
-                        "value": NaN
+                        "value": "nan"
                 }
         ],
         "sequences": [
@@ -97,7 +97,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5807"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Hoogbouw 5e verdieping links 2020 verbouwing"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5808",
@@ -166,7 +167,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5808"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Hoogbouw 15e verdieping links 5770 verbouwing"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5809",
@@ -235,7 +237,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5809"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Hoogbouw 15e verdieping rechts 5770 verbouwing"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5810",
@@ -304,7 +307,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5810"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Hoogbouw verbouwing 5e en 15e verdieping houten puien-kozijnen en deuren"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5811",
@@ -373,7 +377,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5811"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Hoogbouw verbouwing 5e en 15e verdieping lichtsluizen 15e verdieping diverse ijzer werken"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5812",
@@ -442,7 +447,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5812"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Hoogbouw verbouwing riolering in schacht 105106 beg.gr. 4e verdieping"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5813",
@@ -511,7 +517,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5813"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Hoogbouw verbouwing riol. tussen mod. 105-106 5 tm 8 verd."
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5814",
@@ -580,7 +587,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5814"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Hoogbouw verbouwing riol. tussen mod. 105-106 9 tm 12 verd."
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5815",
@@ -649,7 +657,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5815"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Verbouwing hoogbouw riolering in schacht 105106 13e-15e verd."
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5816",
@@ -718,7 +727,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5816"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Betonconstructie stiepen t.b.v. opstelling condensors 4 stuks"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5817",
@@ -787,7 +797,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5817"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Hoogbouw koelinstall. plattegrond en gevels spijlen op hoeken spiegelbordessen"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5818",
@@ -856,7 +867,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5818"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Hoogbouw koelinstallatie plaatsing condensors op het terrein"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5819",
@@ -925,7 +937,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5819"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Hoogbouw koelinstallatie doorsnede opstelbrug condensors"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5820",
@@ -994,7 +1007,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5820"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Hoogbouw schermen op hoeken spiegelbordessen"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5821",
@@ -1063,7 +1077,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5821"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Hoogbouw hoekpalen op spiegelbordessen 21e verdieping"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5822",
@@ -1132,7 +1147,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5822"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Hoogbouw koeling opstelling condensors met geluiddempers"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5823",
@@ -1201,7 +1217,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5823"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Opstelling luchtgekoelde condensors"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5824",
@@ -1270,7 +1287,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5824"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Hoogbouw bordes voor koeltorens en leidingloop"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5825",
@@ -1339,7 +1357,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5825"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Hoogbouw koeling staal-betonconstructie t.b.v. opstelling condensors met geluiddempers"
                                 }
                         ]
                 }

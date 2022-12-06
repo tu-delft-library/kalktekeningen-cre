@@ -13,7 +13,7 @@
                 },
                 {
                         "label": "Vertaling naam",
-                        "value": NaN
+                        "value": "nan"
                 },
                 {
                         "label": "Gebouw",
@@ -21,7 +21,7 @@
                 },
                 {
                         "label": "Vleugel",
-                        "value": NaN
+                        "value": "nan"
                 }
         ],
         "sequences": [
@@ -97,7 +97,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5346"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Hoogbouw sparingen wand i en ii van 5- tot 892+"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5347",
@@ -166,7 +167,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5347"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Hoogbouw sparingen wnad iii en iv van 5- tot 892+"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5348",
@@ -235,7 +237,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5348"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Sparingen hoogbouw schot op moduul 101 van 2e tm 5e verd."
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5349",
@@ -304,7 +307,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5349"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Hoogbouw schot op moduul 102 van 2e tm 5e verd."
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5350",
@@ -373,7 +377,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5350"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Sparingen hoogbouw schot op moduul 105 van 2e tm 5e verd."
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5351",
@@ -442,7 +447,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5351"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Sparingen hoogbouw schot op moduul 106 tussen 892+ en 2018+"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5352",
@@ -511,7 +517,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5352"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Sparingen hoogbouw schot op moduul 112 van 2e tm 5e verd."
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5353",
@@ -580,7 +587,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5353"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Sparingen hoogbouw schot op moduul 113 van 2e tm 5e verd."
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5354",
@@ -649,7 +657,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5354"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Sparingen hoogbouw schot op moduul 117 van 2e tm 5e verd."
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5355",
@@ -718,7 +727,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5355"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Sparingen hoogbouw schot op moduul 118 van 2e tm 5e verd."
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5356",
@@ -787,7 +797,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5356"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Sparingen hoogbouw schot op moduul 120 van 2e tm 5e verd."
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5357",
@@ -856,7 +867,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5357"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Sparingen hoogbouw schot op moduul 121 van 2e tm 5e verd."
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5358",
@@ -925,7 +937,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5358"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Sparingen hoogbouw wanden i en ii van 892+ tot 2017+"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5359",
@@ -994,7 +1007,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5359"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Sparingen hoogbouw wanden iii en iv van 892+ tot 2017+"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5360",
@@ -1063,7 +1077,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5360"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Sparingen hoogbouw schot op moduul 101 van 5e tm 8e verd."
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5361",
@@ -1132,7 +1147,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5361"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Sparingen hoogbouw schot op moduul 106 van 5e tm 8e verd."
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5362",
@@ -1201,7 +1217,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5362"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Sparingen hoogbouw schot op moduul 102 van 5e tm 8e verd."
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5363",
@@ -1270,7 +1287,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5363"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Sparingen hoogbouw schot op moduul 105 van 5e tm 8e verd."
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5364",
@@ -1339,7 +1357,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5364"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Sparingen hoogbouw schot op moduul 112 van 5e tm 8e verd."
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5365",
@@ -1408,7 +1427,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5365"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Sparingen hoogbouw schot op moduul 113 van 5e tm 8e verd."
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5366",
@@ -1477,7 +1497,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5366"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Sparingen hoogbouw schot op moduul 117 van 5e tm 8e verd."
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5367",
@@ -1546,7 +1567,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5367"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Sparingen hoogbouw schot op moduul 118 van 5e tm 8e verd."
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5368",
@@ -1615,7 +1637,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5368"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Sparingen hoogbouw schot op moduul 120 van 5e tm 8e verd."
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5369",
@@ -1684,7 +1707,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5369"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Sparingen hoogbouw schot op moduul 121 van 5e tm 8e verd."
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5370",
@@ -1753,7 +1777,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5370"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Sparingen hoogbouw wanden i en ii van 5e tot 8e verd."
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5371",
@@ -1822,7 +1847,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5371"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Sparingen hoogbouw wanden iii en iv van 5e tot 8e verd."
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5372",
@@ -1891,7 +1917,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5372"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Sparingen hoogbouw schot op moduul 101 van 8e tm 11e verd."
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5373",
@@ -1960,7 +1987,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5373"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Sparingen hoogbouw schot op moduul 102 van 8e tm 11e verd."
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5374",
@@ -2029,7 +2057,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=5374"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Sparingen hoogbouw schot op moduul 105 van 8e tm 11e verd."
                                 }
                         ]
                 }

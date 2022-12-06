@@ -13,7 +13,7 @@
                 },
                 {
                         "label": "Vertaling naam",
-                        "value": NaN
+                        "value": "nan"
                 },
                 {
                         "label": "Gebouw",
@@ -21,7 +21,7 @@
                 },
                 {
                         "label": "Vleugel",
-                        "value": NaN
+                        "value": "nan"
                 }
         ],
         "sequences": [
@@ -97,7 +97,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=4742"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Hoofdgebouw diepriolering tussen as 62-70"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=4743",
@@ -166,7 +167,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=4743"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Hoofdgebouw diepriolering tussen as 36-50"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=4744",
@@ -235,7 +237,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=4744"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Hoofdgebouw diepriolering tussen as 28-36"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=4745",
@@ -304,7 +307,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=4745"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Hoofdgebouw diepriolering tussen as 19-28 en e-b"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=4746",
@@ -373,7 +377,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=4746"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Hoofdgebouw beganegrond"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=4747",
@@ -442,7 +447,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=4747"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Hoofdgebouw riolering en h.w. afvoeren werkplaatsen beganegrond"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=4748",
@@ -511,7 +517,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=4748"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Hoofdgebouw standleidingen en h.w. afvoerenleidingen t.p.v. as 16-32-40-56-64 en 6970 c-d"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=4749",
@@ -580,7 +587,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=4749"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Hoofdgebouw standleidingen en h.w. afvoeren t.p.v. toiletgroepen en collegezalen"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=4750",
@@ -649,7 +657,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=4750"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Hoofdgebouw riolering en h.w. afvoeren t.p.v. niveau 262 5+ t.p.v. as 47-49"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=4751",
@@ -718,7 +727,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=4751"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Hoofdgebouw h.w. afvoeren en ontl. in toiletgroep en collegezalen 130-133-160-163 t.p.v. as 23-25 en 47-50"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=4752",
@@ -787,7 +797,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=4752"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Hoofdgebouw riolering en h.w. afvoeren t.p.v. as 23-25 niveau 262 5+"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=4753",
@@ -856,7 +867,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=4753"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Hoofdgebouw riolering en h.w. afvoeren tekenzalen t.p.v. as 4-11 niveau 1256+ en 1886+"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=4754",
@@ -925,7 +937,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=4754"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Hoofdgebouw standleidingen en h.w. afvoeren schacht t.p.v. as 16-32-40-56-64-69"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=4755",
@@ -994,7 +1007,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=4755"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Hoofdgebouw standleidingen en h.w. afvoeren t.p.v. as 22-23, 25-26, 46-47, 49-50"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=4756",
@@ -1063,7 +1077,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=4756"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Hoofdgebouw h.w. afvoeren studentenadministratie en vergaderzalen niveau 630+ en 1260+"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=4757",
@@ -1132,7 +1147,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=4757"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Geen omschrijving"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=4758",
@@ -1201,7 +1217,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=4758"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Hoofdgebouw standleidingen en h.w. afvoeren schacht t.p.v. as 16-32-40-56-64-69"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=4759",
@@ -1270,7 +1287,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=4759"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Hoofdgebouw h.w. afvoeren dakopbouw tekenzalen"
                                 }
                         ]
                 }

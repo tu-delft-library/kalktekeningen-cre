@@ -13,7 +13,7 @@
                 },
                 {
                         "label": "Vertaling naam",
-                        "value": NaN
+                        "value": "nan"
                 },
                 {
                         "label": "Gebouw",
@@ -21,7 +21,7 @@
                 },
                 {
                         "label": "Vleugel",
-                        "value": NaN
+                        "value": "nan"
                 }
         ],
         "sequences": [
@@ -97,7 +97,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=2444"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Wijziging vd fundering vh sleeptankgebouw"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=2445",
@@ -166,7 +167,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=2445"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Wijziging vd fundering vh sleeptankgebouw"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=2446",
@@ -235,7 +237,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=2446"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Wijziging vd fundering vh sleeptankgebouw"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=2447",
@@ -304,7 +307,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=2447"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Wijziging vd fundering vh sleeptankgebouw"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=2448",
@@ -373,7 +377,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=2448"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Wijziging vd fundering vh sleeptankgebouw"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=2449",
@@ -442,7 +447,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=2449"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Wijziging vd fundering vh sleeptankgebouw"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=2450",
@@ -511,7 +517,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=2450"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Wijziging vd fundering vh sleeptankgebouw"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=2451",
@@ -580,7 +587,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=2451"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Wijziging vd fundering vh sleeptankgebouw"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=2452",
@@ -649,7 +657,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=2452"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Wijziging vd fundering vh sleeptankgebouw"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=2453",
@@ -718,7 +727,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=2453"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Wijziging vd fundering vh sleeptankgebouw"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=2454",
@@ -787,7 +797,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=2454"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Wijziging vd fundering vh sleeptankgebouw"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=2455",
@@ -856,7 +867,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=2455"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Wijziging vd fundering vh sleeptankgebouw"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=2456",
@@ -925,7 +937,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=2456"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Wijziging vd fundering vh sleeptankgebouw"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=2457",
@@ -994,7 +1007,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=2457"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "1e verdieping balken 21 tm 34"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=2458",
@@ -1063,7 +1077,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=2458"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "1e verdieping balken 50 tm 64"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=2459",
@@ -1132,7 +1147,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=2459"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Trappen en bordessen van 51 8+ tm 461 6+"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=2460",
@@ -1201,7 +1217,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=2460"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Kol. a tm ak beg.grond tot 1e verd."
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=2461",
@@ -1270,7 +1287,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=2461"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Plattegrond dak en tussenvloer"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=2462",
@@ -1339,7 +1357,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=2462"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Plattegrond dak en tussenvloer"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=2463",
@@ -1408,7 +1427,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=2463"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Aanvrage voor voorgesp. prefab balken dak"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=2464",
@@ -1477,7 +1497,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=2464"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Dakbalken 1 tm 14"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=2465",
@@ -1546,7 +1567,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=2465"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Dakbalken 15 tm 32 kolommen al tm au van 747+"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=2466",
@@ -1615,7 +1637,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=2466"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Balken 6a 6b 6c 14a 14b 14c 33 tm 44 en wand i"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=2467",
@@ -1684,7 +1707,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=2467"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Kolommen tussen 1e verdieping en dak"
                                 }
                         ]
                 }

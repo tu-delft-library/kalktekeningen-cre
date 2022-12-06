@@ -13,7 +13,7 @@
                 },
                 {
                         "label": "Vertaling naam",
-                        "value": NaN
+                        "value": "nan"
                 },
                 {
                         "label": "Gebouw",
@@ -97,7 +97,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=3411"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Sportgebouw voor de technische hogeschool te delft schetsontwerp begane grond"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=3412",
@@ -166,7 +167,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=3412"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Sportgebouw voor de technische hogeschool te delft schetsontwerp begane grond"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=3413",
@@ -235,7 +237,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=3413"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Sportgebouw voor de technische hogeschool te delft schetsontwerp begane grond"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=3414",
@@ -304,7 +307,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=3414"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Studenten \u2013 sportcentrum van de technische hogeschool aan de rotterdamse weg te delft. bestektekening. begane grond"
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=3415",
@@ -373,7 +377,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=3415"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Studenten \u2013 sportcentrum van de technische hogeschool aan de rotterdamse weg te delft. bestektekening. plattegr. verdieping en doorsneden."
                                 },
                                 {
                                         "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=3416",
@@ -442,7 +447,8 @@
                                                         },
                                                         "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=kalktekeningen&n1=&n2=3416"
                                                 }
-                                        ]
+                                        ],
+                                        "label": "Studenten \u2013 sportcentrum van de technische hogeschool revisietekening waterleiding"
                                 }
                         ]
                 }

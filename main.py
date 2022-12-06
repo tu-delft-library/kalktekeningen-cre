@@ -37,9 +37,17 @@ for i, key in enumerate(koker_groups.keys()):
     koker_dat = pd.DataFrame()
     gebouw_dat = pd.DataFrame()
     manifests = []
-    for j, im_nr in enumerate(koker_groups[key]):
-        image = df_kalktekening.loc[im_nr]
-        url = image['Origin']
+
+    canvases = json_manifest["sequences"][0]["canvases"]
+
+    for j, canvas in enumerate(canvases):
+        id = canvas["@id"].split('=')[-1]
+
+        image = df_kalktekening[df_kalktekening["NumberReference1"] == np.int_(id)]
+
+    # for j, im_nr in enumerate(koker_groups[key]):
+    #     image = df_kalktekening.loc[im_nr]
+        url = image['Origin'].values[0]
         filename = url.split('/')[-1].strip('.jpg').replace('%20', ' ')
 
         adjustments = [filename,
@@ -72,11 +80,12 @@ for i, key in enumerate(koker_groups.keys()):
                                                             'building': koker_dat['Gebouw'].values[0]},
                                                            ignore_index=True)
 
-        ref_id = base_ref_id.format(ref2)+".json"
-        mani = {"@id": ref_id,
-                "label": koker_dat.iloc[-1]['OMSCHRIJVING'],
-                "@type": "sc:Manifest"}
-        manifests.append(mani)
+        json_manifest["sequences"][0]["canvases"][j]["label"] = koker_dat.iloc[-1]['OMSCHRIJVING'].lower().capitalize()
+        # ref_id = base_ref_id.format(ref2)+".json"
+        # mani = {"@id": ref_id,
+        #         "label": koker_dat.iloc[-1]['OMSCHRIJVING'],
+        #         "@type": "sc:Manifest"}
+        # manifests.append(mani)
 
     if gebouw_dat.empty:
         gebouw_naam = koker_dat['Gebouw'].values[0]
@@ -94,7 +103,7 @@ for i, key in enumerate(koker_groups.keys()):
             },
             {
                 "label": "Vertaling naam",
-                "value": koker_dat.iloc[0]['vertaling naam']
+                "value": str(koker_dat.iloc[0]['vertaling naam'])
             },
             {
                 "label": "Gebouw",
@@ -102,7 +111,7 @@ for i, key in enumerate(koker_groups.keys()):
             },
             {
                 "label": "Vleugel",
-                "value": koker_dat.iloc[0]['Vleugel']
+                "value": str(koker_dat.iloc[0]['Vleugel'])
             }]
 
     json_manifest['metadata'] = meta
