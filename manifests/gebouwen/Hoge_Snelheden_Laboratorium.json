@@ -1,6 +1,6 @@
 {
         "@context": "http://iiif.io/api/presentation/2/context.json",
-        "@id": "https://tu-delft-library.github.io/kalktekeningen-cre/manifests/gebouwen/Hoge_Snelheden_Laboratorium.json",
+        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/manifests/gebouwen/Hoge_Snelheden_Laboratorium.json",
         "@type": "sc:Collection",
         "label": "Hoge Snelheden Laboratorium",
         "viewingHint": "top",
@@ -8,37 +8,37 @@
         "attribution": "TU Delft Library",
         "collections": [
                 {
-                        "@id": "https://tu-delft-library.github.io/kalktekeningen-cre/manifests/kokers/AA270928.json",
+                        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/manifests/kokers/AA270928.json",
                         "@type": "sc:Collection",
                         "label": "AA270928"
                 },
                 {
-                        "@id": "https://tu-delft-library.github.io/kalktekeningen-cre/manifests/kokers/AA271029.json",
+                        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/manifests/kokers/AA271029.json",
                         "@type": "sc:Collection",
                         "label": "AA271029"
                 },
                 {
-                        "@id": "https://tu-delft-library.github.io/kalktekeningen-cre/manifests/kokers/AA271030.json",
+                        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/manifests/kokers/AA271030.json",
                         "@type": "sc:Collection",
                         "label": "AA271030"
                 },
                 {
-                        "@id": "https://tu-delft-library.github.io/kalktekeningen-cre/manifests/kokers/AA271031.json",
+                        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/manifests/kokers/AA271031.json",
                         "@type": "sc:Collection",
                         "label": "AA271031"
                 },
                 {
-                        "@id": "https://tu-delft-library.github.io/kalktekeningen-cre/manifests/kokers/AA271032.json",
+                        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/manifests/kokers/AA271032.json",
                         "@type": "sc:Collection",
                         "label": "AA271032"
                 },
                 {
-                        "@id": "https://tu-delft-library.github.io/kalktekeningen-cre/manifests/kokers/AA271033.json",
+                        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/manifests/kokers/AA271033.json",
                         "@type": "sc:Collection",
                         "label": "AA271033"
                 },
                 {
-                        "@id": "https://tu-delft-library.github.io/kalktekeningen-cre/manifests/kokers/AA271034.json",
+                        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/manifests/kokers/AA271034.json",
                         "@type": "sc:Collection",
                         "label": "AA271034"
                 }

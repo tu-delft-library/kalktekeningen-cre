@@ -1,6 +1,6 @@
 {
         "@context": "http://iiif.io/api/presentation/2/context.json",
-        "@id": "https://tu-delft-library.github.io/kalktekeningen-cre/manifests/gebouwen/Campus_(Stieltjesweg).json",
+        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/manifests/gebouwen/Campus_(Stieltjesweg).json",
         "@type": "sc:Collection",
         "label": " Campus (Stieltjesweg)",
         "viewingHint": "top",
@@ -8,7 +8,7 @@
         "attribution": "TU Delft Library",
         "collections": [
                 {
-                        "@id": "https://tu-delft-library.github.io/kalktekeningen-cre/manifests/kokers/AA270985.json",
+                        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/manifests/kokers/AA270985.json",
                         "@type": "sc:Collection",
                         "label": "AA270985"
                 }
