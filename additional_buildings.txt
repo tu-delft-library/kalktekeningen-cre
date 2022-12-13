@@ -1,0 +1,25 @@
+## Woningen
+AA270875; Woningen
+AA270927; Ambtswoningen Biologisch Centrum Delft
+AA270989; Woningen
+
+## Oude Delft
+AA270916; Oude Delft 75
+AA270963; Verbouwing Bouwkunde (Oude Delft 39a)
+AA270978; Vergaderzaal van den Senaat (Oude Delft 118)
+
+## Campus
+AA270915; Campus
+AA270917; Campus
+AA270918; Campus
+AA270919; Campus
+AA270960; Campus
+AA270985; Campus (Stieltjesweg)
+AA270992; Campus
+AA270994; Campus
+
+
+
+## Overig
+AA270900; Lab voor werkplaatstechniek en centrale werkplaats (Gebouwnummer 32)
+AA270988; Library (Gebouwnummer 21)
