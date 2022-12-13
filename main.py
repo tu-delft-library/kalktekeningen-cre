@@ -42,6 +42,8 @@ for koker in koker_keys:
 for geb in geb_keys:
     df_kalktekening[geb] = np.nan
 
+koker_collection = dict()
+
 for i, key in enumerate(koker_groups.keys()):
     gms_dat = df_GMS_meta[df_GMS_meta['INV.NRkoker'] == key]
     ref1 = 'kalktekeningen'
@@ -89,9 +91,6 @@ for i, key in enumerate(koker_groups.keys()):
             df_geb_new = df_gebouw[df_gebouw['gb nr'] == koker_dat['Gebouw'].values[0]]
             gebouw_dat = gebouw_dat.append(df_geb_new)
 
-
-
-
             # Check if building could be found
             if df_geb_new.empty:
                 building = df_gebouw_ontbreek[df_gebouw_ontbreek['Folder'] == key]['Building'].values[0]
@@ -100,7 +99,6 @@ for i, key in enumerate(koker_groups.keys()):
                 df_kalktekening.loc[image.index, "meest gangbare naam "] = building
             else:
                 df_kalktekening.loc[image.index, geb_keys] = df_geb_new.values
-
 
                 # print('Cannot directly find building {}'.format(koker_dat['Gebouw'].values[0]))
                 # df_miss_building = df_miss_building.append({'uuid': image['ID'],
@@ -157,16 +155,28 @@ for i, key in enumerate(koker_groups.keys()):
     #             "@context": "http://iiif.io/api/presentation/2/context.json",
     #             "manifests": manifests}
 
+    koker_id = base_ref_id.format(ref2)
+
+    koker_collection[i] = {
+        "@id": koker_id,
+        "@type": "sc:Collection",
+        "label": koker_dat.iloc[0]['Naam koker']
+    }
+
     json_year = json.dumps(json_manifest, indent=8)
     Path("manifests/kokers").mkdir(parents=True, exist_ok=True)
     with open("manifests/kokers/" + ref2 + ".json", "w") as outfile:
         outfile.write(json_year)
 
+build_collection = dict()
 building_groups = df_kalktekening.groupby(['meest gangbare naam ']).indices
 
 for i, key in enumerate(building_groups.keys()):
     init_build = df_kalktekening.loc[building_groups[key][0]]
     build_group = df_kalktekening.loc[building_groups[key]]
+
+    filename = key.replace(" ", "_").replace("/", "")
+    filename = filename.lstrip("_").replace("__", "_")
 
     meta = [{
         "label": "Building",
@@ -188,15 +198,22 @@ for i, key in enumerate(building_groups.keys()):
             "value": str(init_build['Vleugel'])
         })
 
+    build_id = "https://tu-delft-library.github.io/kalktekeningen-cre/manifests/gebouwen/{}.json".format(filename)
     build_manifest = {
         "@context": "http://iiif.io/api/presentation/2/context.json",
-        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/delta-archief.json",
+        "@id": build_id,
         "@type": "sc:Collection",
-        "label": "Delta Archief",
+        "label": key,
         "viewingHint": "top",
         "description": "",
         "attribution": "TU Delft Library",
         "collections": []
+    }
+
+    build_collection[i] = {
+        "@id": build_id,
+        "@type": "sc:Collection",
+        "label": key
     }
 
     build_koker_group = build_group.groupby(['Reference2']).indices
@@ -212,11 +229,35 @@ for i, key in enumerate(building_groups.keys()):
     build_manifest["collections"] = collection
     json_year = json.dumps(build_manifest, indent=8)
     Path("manifests/gebouwen").mkdir(parents=True, exist_ok=True)
-    filename = key.replace(" ", "_").replace("/", "")
-    filename = filename.lstrip("_").replace("__","_")
     with open("manifests/gebouwen/" + filename + ".json", "w") as outfile:
         outfile.write(json_year)
 
+gebouwen_manifest = {
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://tu-delft-library.github.io/kalktekeningen-cre/manifests/gebouwen.json",
+    "@type": "sc:Collection",
+    "label": "Gebouwen",
+    "viewingHint": "top",
+    "description": "",
+    "attribution": "TU Delft Library",
+    "collections": build_collection
+}
+json_out = json.dumps(gebouwen_manifest, indent=8)
+with open("manifests/gebouwen.json", "w") as outfile:
+    outfile.write(json_out)
 
 
+kokers_manifest = {
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://tu-delft-library.github.io/kalktekeningen-cre/manifests/kokers.json",
+    "@type": "sc:Collection",
+    "label": "Kokers",
+    "viewingHint": "top",
+    "description": "",
+    "attribution": "TU Delft Library",
+    "collections": koker_collection
+}
+json_out = json.dumps(kokers_manifest, indent=8)
+with open("manifests/kokers.json", "w") as outfile:
+    outfile.write(json_out)
 
