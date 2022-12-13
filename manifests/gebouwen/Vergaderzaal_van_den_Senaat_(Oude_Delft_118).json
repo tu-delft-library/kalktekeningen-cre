@@ -1,8 +1,8 @@
 {
         "@context": "http://iiif.io/api/presentation/2/context.json",
-        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/delta-archief.json",
+        "@id": "https://tu-delft-library.github.io/kalktekeningen-cre/manifests/gebouwen/Vergaderzaal_van_den_Senaat_(Oude_Delft_118).json",
         "@type": "sc:Collection",
-        "label": "Delta Archief",
+        "label": " Vergaderzaal van den Senaat (Oude Delft 118)",
         "viewingHint": "top",
         "description": "",
         "attribution": "TU Delft Library",
