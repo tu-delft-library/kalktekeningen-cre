@@ -6,31 +6,31 @@
         "viewingHint": "top",
         "description": "",
         "attribution": "TU Delft Library",
-        "collections": {
-                "0": {
+        "collections": [
+                {
                         "@id": "https://tu-delft-library.github.io/kalktekeningen-cre/manifests/kokers/AA271056.json",
                         "@type": "sc:Collection",
                         "label": "AA271056"
                 },
-                "1": {
+                {
                         "@id": "https://tu-delft-library.github.io/kalktekeningen-cre/manifests/kokers/AA271057.json",
                         "@type": "sc:Collection",
                         "label": "AA271057"
                 },
-                "2": {
+                {
                         "@id": "https://tu-delft-library.github.io/kalktekeningen-cre/manifests/kokers/AA271058.json",
                         "@type": "sc:Collection",
                         "label": "AA271058"
                 },
-                "3": {
+                {
                         "@id": "https://tu-delft-library.github.io/kalktekeningen-cre/manifests/kokers/AA271059.json",
                         "@type": "sc:Collection",
                         "label": "AA271059"
                 },
-                "4": {
+                {
                         "@id": "https://tu-delft-library.github.io/kalktekeningen-cre/manifests/kokers/AA271060.json",
                         "@type": "sc:Collection",
                         "label": "AA271060"
                 }
-        }
+        ]
 }

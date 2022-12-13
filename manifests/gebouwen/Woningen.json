@@ -6,16 +6,16 @@
         "viewingHint": "top",
         "description": "",
         "attribution": "TU Delft Library",
-        "collections": {
-                "0": {
+        "collections": [
+                {
                         "@id": "https://tu-delft-library.github.io/kalktekeningen-cre/manifests/kokers/AA270875.json",
                         "@type": "sc:Collection",
                         "label": "AA270875"
                 },
-                "1": {
+                {
                         "@id": "https://tu-delft-library.github.io/kalktekeningen-cre/manifests/kokers/AA270989.json",
                         "@type": "sc:Collection",
                         "label": "AA270989"
                 }
-        }
+        ]
 }

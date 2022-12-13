@@ -6,41 +6,41 @@
         "viewingHint": "top",
         "description": "",
         "attribution": "TU Delft Library",
-        "collections": {
-                "0": {
+        "collections": [
+                {
                         "@id": "https://tu-delft-library.github.io/kalktekeningen-cre/manifests/kokers/AA270928.json",
                         "@type": "sc:Collection",
                         "label": "AA270928"
                 },
-                "1": {
+                {
                         "@id": "https://tu-delft-library.github.io/kalktekeningen-cre/manifests/kokers/AA271029.json",
                         "@type": "sc:Collection",
                         "label": "AA271029"
                 },
-                "2": {
+                {
                         "@id": "https://tu-delft-library.github.io/kalktekeningen-cre/manifests/kokers/AA271030.json",
                         "@type": "sc:Collection",
                         "label": "AA271030"
                 },
-                "3": {
+                {
                         "@id": "https://tu-delft-library.github.io/kalktekeningen-cre/manifests/kokers/AA271031.json",
                         "@type": "sc:Collection",
                         "label": "AA271031"
                 },
-                "4": {
+                {
                         "@id": "https://tu-delft-library.github.io/kalktekeningen-cre/manifests/kokers/AA271032.json",
                         "@type": "sc:Collection",
                         "label": "AA271032"
                 },
-                "5": {
+                {
                         "@id": "https://tu-delft-library.github.io/kalktekeningen-cre/manifests/kokers/AA271033.json",
                         "@type": "sc:Collection",
                         "label": "AA271033"
                 },
-                "6": {
+                {
                         "@id": "https://tu-delft-library.github.io/kalktekeningen-cre/manifests/kokers/AA271034.json",
                         "@type": "sc:Collection",
                         "label": "AA271034"
                 }
-        }
+        ]
 }
