@@ -42,7 +42,7 @@ for koker in koker_keys:
 for geb in geb_keys:
     df_kalktekening[geb] = np.nan
 
-koker_collection = dict()
+koker_collection = []
 
 for i, key in enumerate(koker_groups.keys()):
     gms_dat = df_GMS_meta[df_GMS_meta['INV.NRkoker'] == key]
@@ -157,18 +157,23 @@ for i, key in enumerate(koker_groups.keys()):
 
     koker_id = base_ref_id.format(ref2)
 
-    koker_collection[i] = {
+    koker_collection.append({
         "@id": koker_id,
         "@type": "sc:Collection",
         "label": koker_dat.iloc[0]['Naam koker']
-    }
+    })
+    # koker_collection[i] = {
+    #     "@id": koker_id,
+    #     "@type": "sc:Collection",
+    #     "label": koker_dat.iloc[0]['Naam koker']
+    # }
 
     json_year = json.dumps(json_manifest, indent=8)
     Path("manifests/kokers").mkdir(parents=True, exist_ok=True)
     with open("manifests/kokers/" + ref2 + ".json", "w") as outfile:
         outfile.write(json_year)
 
-build_collection = dict()
+build_collection = []
 building_groups = df_kalktekening.groupby(['meest gangbare naam ']).indices
 
 for i, key in enumerate(building_groups.keys()):
@@ -210,22 +215,32 @@ for i, key in enumerate(building_groups.keys()):
         "collections": []
     }
 
-    build_collection[i] = {
+    build_collection.append({
         "@id": build_id,
         "@type": "sc:Collection",
         "label": key
-    }
+    })
+    # build_collection[i] = {
+    #     "@id": build_id,
+    #     "@type": "sc:Collection",
+    #     "label": key
+    # }
 
     build_koker_group = build_group.groupby(['Reference2']).indices
 
-    collection = dict()
+    collection = []
     for j, koker in enumerate(build_koker_group.keys()):
         koker_mani_location = base_ref_id.format(koker)
-        collection[j] = {
+        collection.append({
             "@id": koker_mani_location,
             "@type": "sc:Collection",
             "label": koker
-        }
+        })
+        # collection[j] = {
+        #     "@id": koker_mani_location,
+        #     "@type": "sc:Collection",
+        #     "label": koker
+        # }
     build_manifest["collections"] = collection
     json_year = json.dumps(build_manifest, indent=8)
     Path("manifests/gebouwen").mkdir(parents=True, exist_ok=True)
