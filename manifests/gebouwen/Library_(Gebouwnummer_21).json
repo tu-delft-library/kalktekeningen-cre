@@ -1,6 +1,6 @@
 {
         "@context": "http://iiif.io/api/presentation/2/context.json",
-        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/manifests/gebouwen/Library_(Gebouwnummer_21).json",
+        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/Library_(Gebouwnummer_21).json",
         "@type": "sc:Collection",
         "label": " Library (Gebouwnummer 21)",
         "viewingHint": "top",
@@ -8,7 +8,7 @@
         "attribution": "TU Delft Library",
         "collections": [
                 {
-                        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/manifests/kokers/AA270988.json",
+                        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270988.json",
                         "@type": "sc:Collection",
                         "label": "AA270988"
                 }

@@ -1,6 +1,6 @@
 {
         "@context": "http://iiif.io/api/presentation/2/context.json",
-        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/manifests/gebouwen/Logistiek_&_Milieu.json",
+        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/Logistiek_&_Milieu.json",
         "@type": "sc:Collection",
         "label": "Logistiek & Milieu",
         "viewingHint": "top",
@@ -8,22 +8,22 @@
         "attribution": "TU Delft Library",
         "collections": [
                 {
-                        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/manifests/kokers/AA271061.json",
+                        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271061.json",
                         "@type": "sc:Collection",
                         "label": "AA271061"
                 },
                 {
-                        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/manifests/kokers/AA271062.json",
+                        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271062.json",
                         "@type": "sc:Collection",
                         "label": "AA271062"
                 },
                 {
-                        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/manifests/kokers/AA271063.json",
+                        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271063.json",
                         "@type": "sc:Collection",
                         "label": "AA271063"
                 },
                 {
-                        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/manifests/kokers/AA271064.json",
+                        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271064.json",
                         "@type": "sc:Collection",
                         "label": "AA271064"
                 }

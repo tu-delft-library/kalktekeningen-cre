@@ -1,6 +1,6 @@
 {
         "@context": "http://iiif.io/api/presentation/2/context.json",
-        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/manifests/gebouwen/Verbouwing_Bouwkunde_(Oude_Delft_39a).json",
+        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/Verbouwing_Bouwkunde_(Oude_Delft_39a).json",
         "@type": "sc:Collection",
         "label": " Verbouwing Bouwkunde (Oude Delft 39a)",
         "viewingHint": "top",
@@ -8,7 +8,7 @@
         "attribution": "TU Delft Library",
         "collections": [
                 {
-                        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/manifests/kokers/AA270963.json",
+                        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270963.json",
                         "@type": "sc:Collection",
                         "label": "AA270963"
                 }

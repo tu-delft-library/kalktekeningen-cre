@@ -26,7 +26,7 @@ df_gebouw_ontbreek = pd.read_table('additional_buildings.txt',
 
 # Base urls
 dlcs_base = "https://dlc.services/iiif-resource/7/string1string2string3/{}/{}"
-base_ref_id = "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/manifests/kokers/{}.json"
+base_ref_id = "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/{}.json"
 
 koker_groups = df_kalktekening.groupby('Reference2').indices
 
@@ -203,7 +203,7 @@ for i, key in enumerate(building_groups.keys()):
             "value": str(init_build['Vleugel'])
         })
 
-    build_id = "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/manifests/gebouwen/{}.json".format(filename)
+    build_id = "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/{}.json".format(filename)
     build_manifest = {
         "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": build_id,
@@ -249,7 +249,7 @@ for i, key in enumerate(building_groups.keys()):
 
 gebouwen_manifest = {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/manifests/gebouwen.json",
+    "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen.json",
     "@type": "sc:Collection",
     "label": "Gebouwen",
     "viewingHint": "top",
@@ -264,7 +264,7 @@ with open("manifests/gebouwen.json", "w") as outfile:
 
 kokers_manifest = {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/manifests/kokers.json",
+    "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers.json",
     "@type": "sc:Collection",
     "label": "Kokers",
     "viewingHint": "top",
