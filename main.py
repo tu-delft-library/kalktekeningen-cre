@@ -1,3 +1,6 @@
+import warnings
+
+warnings.simplefilter(action='ignore', category=FutureWarning)
 import pandas as pd
 import numpy as np
 import re
@@ -6,26 +9,38 @@ from pathlib import Path
 import json
 from collections import OrderedDict
 
+
 def ordered(d, desired_key_order):
     return OrderedDict([(key, d[key]) for key in desired_key_order])
+
 
 # Disired key order for .json file
 desired_key_order = ("@context", "@id", "@type", "label", "metadata", "structures", "sequences")
 
-
-
 df_kalktekening = pd.read_csv('input/kalktekeningen-compleet.csv', delimiter=';')
 df_GMS_meta = pd.read_excel('input/scans_GMS_metadata_1.4.xlsx', header=0)
 df_gebouw = pd.read_excel('input/Overzicht uitgegeven gebouwnummers 20-06-2017.xls', header=2)
+df_gebouw_ontbreek = pd.read_table('additional_buildings.txt',
+                                   delimiter=';', header=None,
+                                   comment='#', names=['Folder', 'Building'])
 
 # Base urls
 dlcs_base = "https://dlc.services/iiif-resource/7/string1string2string3/{}/{}"
-base_ref_id = "https://tu-delft-library.github.io/kalktekeningen-cre/manifests/koker/{}"
+base_ref_id = "https://tu-delft-library.github.io/kalktekeningen-cre/manifests/kokers/{}.json"
 
 koker_groups = df_kalktekening.groupby('Reference2').indices
 
 df_miss_meta = pd.DataFrame(columns=['uuid', 'url', 'filename'])
-df_miss_building = pd.DataFrame(columns=['uuid', 'url', 'filename', 'folder' , 'building'])
+df_miss_building = pd.DataFrame(columns=['uuid', 'url', 'filename', 'folder', 'building'])
+
+koker_keys = df_GMS_meta.keys()
+geb_keys = df_gebouw.keys()
+
+for koker in koker_keys:
+    df_kalktekening[koker] = np.nan
+
+for geb in geb_keys:
+    df_kalktekening[geb] = np.nan
 
 for i, key in enumerate(koker_groups.keys()):
     gms_dat = df_GMS_meta[df_GMS_meta['INV.NRkoker'] == key]
@@ -45,8 +60,8 @@ for i, key in enumerate(koker_groups.keys()):
 
         image = df_kalktekening[df_kalktekening["NumberReference1"] == np.int_(id)]
 
-    # for j, im_nr in enumerate(koker_groups[key]):
-    #     image = df_kalktekening.loc[im_nr]
+        # for j, im_nr in enumerate(koker_groups[key]):
+        #     image = df_kalktekening.loc[im_nr]
         url = image['Origin'].values[0]
         filename = url.split('/')[-1].strip('.jpg').replace('%20', ' ')
 
@@ -54,31 +69,46 @@ for i, key in enumerate(koker_groups.keys()):
                        filename.replace('%23', '#'),
                        filename + '.',
                        filename.strip(' '),
-                       filename.strip('()'),
+                       filename.replace('(', '').replace(')', ''),
                        np.int_(filename.replace('.', '')) if filename.replace('.', '').isdigit() else '---']
 
         for adj_name in adjustments:
-            koker_dat = koker_dat.append(gms_dat[gms_dat['TEKENINGNUMMER'] == adj_name])
-            if not koker_dat.empty:
+            df_koker_new = gms_dat[gms_dat['TEKENINGNUMMER'] == adj_name]
+            koker_dat = koker_dat.append(df_koker_new)
+
+            if not df_koker_new.empty:
                 break
 
-        if koker_dat.empty:
+        if df_koker_new.empty:
             print('cannot find {} in {}'.format(filename, key))
             df_miss_meta = df_miss_meta.append({'uuid': image['ID'],
                                                 'url': url,
                                                 'filename': filename}, ignore_index=True)
         else:
-            gebouw_dat = gebouw_dat.append(df_gebouw[
-                df_gebouw['gb nr'] == koker_dat['Gebouw'].values[0]])
+            df_kalktekening.loc[image.index, koker_keys] = df_koker_new.iloc[0].values
+            df_geb_new = df_gebouw[df_gebouw['gb nr'] == koker_dat['Gebouw'].values[0]]
+            gebouw_dat = gebouw_dat.append(df_geb_new)
 
-            if gebouw_dat.empty:
-                print('Cannot directly find building {}'.format(koker_dat['Gebouw'].values[0]))
-                df_miss_building = df_miss_building.append({'uuid': image['ID'],
-                                                            'url': url,
-                                                            'filename': filename,
-                                                            'folder': ref2,
-                                                            'building': koker_dat['Gebouw'].values[0]},
-                                                           ignore_index=True)
+
+
+
+            # Check if building could be found
+            if df_geb_new.empty:
+                building = df_gebouw_ontbreek[df_gebouw_ontbreek['Folder'] == key]['Building'].values[0]
+                gebouw_dat = gebouw_dat.append({'meest gangbare naam ': building}, ignore_index=True)
+
+                df_kalktekening.loc[image.index, "meest gangbare naam "] = building
+            else:
+                df_kalktekening.loc[image.index, geb_keys] = df_geb_new.values
+
+
+                # print('Cannot directly find building {}'.format(koker_dat['Gebouw'].values[0]))
+                # df_miss_building = df_miss_building.append({'uuid': image['ID'],
+                #                                             'url': url,
+                #                                             'filename': filename,
+                #                                             'folder': ref2,
+                #                                             'building': koker_dat['Gebouw'].values[0]},
+                #                                            ignore_index=True)
 
         json_manifest["sequences"][0]["canvases"][j]["label"] = koker_dat.iloc[-1]['OMSCHRIJVING'].lower().capitalize()
         # ref_id = base_ref_id.format(ref2)+".json"
@@ -94,28 +124,30 @@ for i, key in enumerate(koker_groups.keys()):
 
     # Input meta data for collection manifest
     meta = [{
-                "label": "Titel",
-                "value": ref2
-            },
-            {
-                "label": "Koker",
-                "value": koker_dat.iloc[0]['Naam koker']
-            },
-            {
-                "label": "Vertaling naam",
-                "value": str(koker_dat.iloc[0]['vertaling naam'])
-            },
-            {
-                "label": "Gebouw",
-                "value": gebouw_naam
-            },
-            {
-                "label": "Vleugel",
-                "value": str(koker_dat.iloc[0]['Vleugel'])
-            }]
+        "label": "Titel",
+        "value": koker_dat.iloc[0]['Naam koker']
+    },
+        {
+            "label": "Koker",
+            "value": ref2
+        }]
+    if not str(koker_dat.iloc[0]['vertaling naam']) == 'nan':
+        meta.append({
+            "label": "Vertaling naam",
+            "value": str(koker_dat.iloc[0]['vertaling naam'])
+        })
+    meta.append({
+        "label": "Gebouw",
+        "value": gebouw_naam
+    })
+
+    if not str(koker_dat.iloc[0]['Vleugel']) == 'nan':
+        meta.append({
+            "label": "Vleugel",
+            "value": str(koker_dat.iloc[0]['Vleugel'])
+        })
 
     json_manifest['metadata'] = meta
-
 
     # Insert data into collection manifest
     # json_out = {"label": ref2,
@@ -126,6 +158,65 @@ for i, key in enumerate(koker_groups.keys()):
     #             "manifests": manifests}
 
     json_year = json.dumps(json_manifest, indent=8)
-    Path("manifests/koker").mkdir(parents=True, exist_ok=True)
-    with open("manifests/koker/" + ref2 + ".json", "w") as outfile:
+    Path("manifests/kokers").mkdir(parents=True, exist_ok=True)
+    with open("manifests/kokers/" + ref2 + ".json", "w") as outfile:
         outfile.write(json_year)
+
+building_groups = df_kalktekening.groupby(['meest gangbare naam ']).indices
+
+for i, key in enumerate(building_groups.keys()):
+    init_build = df_kalktekening.loc[building_groups[key][0]]
+    build_group = df_kalktekening.loc[building_groups[key]]
+
+    meta = [{
+        "label": "Building",
+        "value": key
+    }]
+    if not str(init_build['vertaling naam']) == 'nan':
+        meta.append({
+            "label": "Vertaling naam",
+            "value": str(init_build['vertaling naam'])
+        })
+    meta.append({
+        "label": "Gebouw",
+        "value": gebouw_naam
+    })
+
+    if not str(init_build['Vleugel']) == 'nan':
+        meta.append({
+            "label": "Vleugel",
+            "value": str(init_build['Vleugel'])
+        })
+
+    build_manifest = {
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "https://tu-delft-library.github.io/delta-archief/manifests/delta-archief.json",
+        "@type": "sc:Collection",
+        "label": "Delta Archief",
+        "viewingHint": "top",
+        "description": "",
+        "attribution": "TU Delft Library",
+        "collections": []
+    }
+
+    build_koker_group = build_group.groupby(['Reference2']).indices
+
+    collection = dict()
+    for j, koker in enumerate(build_koker_group.keys()):
+        koker_mani_location = base_ref_id.format(koker)
+        collection[j] = {
+            "@id": koker_mani_location,
+            "@type": "sc:Collection",
+            "label": koker
+        }
+    build_manifest["collections"] = collection
+    json_year = json.dumps(build_manifest, indent=8)
+    Path("manifests/gebouwen").mkdir(parents=True, exist_ok=True)
+    filename = key.replace(" ", "_").replace("/", "")
+    filename = filename.lstrip("_").replace("__","_")
+    with open("manifests/gebouwen/" + filename + ".json", "w") as outfile:
+        outfile.write(json_year)
+
+
+
+
