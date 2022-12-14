@@ -1,6 +1,6 @@
 {
         "@context": "http://iiif.io/api/presentation/2/context.json",
-        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/Fysische_en_Chemische_Technologie.json",
+        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/fysische-en-chemische-technologie.json",
         "@type": "sc:Collection",
         "label": "Fysische en Chemische Technologie",
         "viewingHint": "top",

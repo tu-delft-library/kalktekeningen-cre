@@ -1,8 +1,8 @@
 {
         "@context": "http://iiif.io/api/presentation/2/context.json",
-        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/Lage_Snelheden_Laboratorium_VSSD_Inholland.json",
+        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/lage-snelheden-laboratorium.json",
         "@type": "sc:Collection",
-        "label": "Lage Snelheden Laboratorium / VSSD / Inholland",
+        "label": "Lage Snelheden Laboratorium",
         "viewingHint": "top",
         "description": "",
         "attribution": "TU Delft Library",

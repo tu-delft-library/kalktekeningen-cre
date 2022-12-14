@@ -1,6 +1,6 @@
 {
         "@context": "http://iiif.io/api/presentation/2/context.json",
-        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/Science_Centre_Delft.json",
+        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/science-centre-delft.json",
         "@type": "sc:Collection",
         "label": "Science Centre Delft",
         "viewingHint": "top",

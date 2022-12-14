@@ -1,8 +1,8 @@
 {
         "@context": "http://iiif.io/api/presentation/2/context.json",
-        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/Gebouw_Rotterdamseweg_145.json",
+        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/rotterdamseweg-145.json",
         "@type": "sc:Collection",
-        "label": "Gebouw Rotterdamseweg 145",
+        "label": "Rotterdamseweg 145",
         "viewingHint": "top",
         "description": "",
         "attribution": "TU Delft Library",

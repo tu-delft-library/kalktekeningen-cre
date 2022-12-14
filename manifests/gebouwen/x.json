@@ -1,8 +1,8 @@
 {
         "@context": "http://iiif.io/api/presentation/2/context.json",
-        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/Sport.json",
+        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/x.json",
         "@type": "sc:Collection",
-        "label": "Sport",
+        "label": "X",
         "viewingHint": "top",
         "description": "",
         "attribution": "TU Delft Library",

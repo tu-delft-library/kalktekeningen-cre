@@ -1,8 +1,8 @@
 {
         "@context": "http://iiif.io/api/presentation/2/context.json",
-        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/voorheen_Bouwkunde_Berlageweg_1.json",
+        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/bouwkunde-berlageweg-1.json",
         "@type": "sc:Collection",
-        "label": "voorheen Bouwkunde Berlageweg 1",
+        "label": "Bouwkunde Berlageweg 1",
         "viewingHint": "top",
         "description": "",
         "attribution": "TU Delft Library",

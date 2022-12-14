@@ -9,14 +9,16 @@ from pathlib import Path
 import json
 from collections import OrderedDict
 
+# TO DO: Alphabetically sort building names
 
 def ordered(d, desired_key_order):
     return OrderedDict([(key, d[key]) for key in desired_key_order])
 
 
-# Disired key order for .json file
+# Desired key order for .json file
 desired_key_order = ("@context", "@id", "@type", "label", "metadata", "structures", "sequences")
 
+# Import files
 df_kalktekening = pd.read_csv('input/kalktekeningen-compleet.csv', delimiter=';')
 df_GMS_meta = pd.read_excel('input/scans_GMS_metadata_1.4.xlsx', header=0)
 df_gebouw = pd.read_excel('input/Overzicht uitgegeven gebouwnummers 20-06-2017.xls', header=2)
@@ -28,11 +30,14 @@ df_gebouw_ontbreek = pd.read_table('additional_buildings.txt',
 dlcs_base = "https://dlc.services/iiif-resource/7/string1string2string3/{}/{}"
 base_ref_id = "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/{}.json"
 
+# Group kalktekeningen by koker name (Reference2)
 koker_groups = df_kalktekening.groupby('Reference2').indices
 
+# Empty dataframes for data that cannot be matched
 df_miss_meta = pd.DataFrame(columns=['uuid', 'url', 'filename'])
 df_miss_building = pd.DataFrame(columns=['uuid', 'url', 'filename', 'folder', 'building'])
 
+# Make empty columns to add koker and building data to main dataframe
 koker_keys = df_GMS_meta.keys()
 geb_keys = df_gebouw.keys()
 
@@ -42,31 +47,42 @@ for koker in koker_keys:
 for geb in geb_keys:
     df_kalktekening[geb] = np.nan
 
+# Empty list for collection manifest
 koker_collection = []
 
+# Loop through every unique koker number
 for i, key in enumerate(koker_groups.keys()):
+    # Extract data
     gms_dat = df_GMS_meta[df_GMS_meta['INV.NRkoker'] == key]
     ref1 = 'kalktekeningen'
     ref2 = key
 
+    # Request .json manifest for specific koker number
     manifest_url = dlcs_base.format(ref1, ref2)
     json_manifest = requests.get(manifest_url).json()
+
+    # Empty dataframes for storage
     koker_dat = pd.DataFrame()
     gebouw_dat = pd.DataFrame()
+
+    # Empty list for collection manifest
     manifests = []
 
+    # Get canvas to match with metadata
     canvases = json_manifest["sequences"][0]["canvases"]
 
     for j, canvas in enumerate(canvases):
+        # Get id-number from canvas id
         id = canvas["@id"].split('=')[-1]
 
+        # Get image data from .csv
         image = df_kalktekening[df_kalktekening["NumberReference1"] == np.int_(id)]
 
-        # for j, im_nr in enumerate(koker_groups[key]):
-        #     image = df_kalktekening.loc[im_nr]
+        # Get filename for metadata matching
         url = image['Origin'].values[0]
         filename = url.split('/')[-1].rstrip('.jpg').replace('%20', ' ')
 
+        # Generate variations on filename for better matching
         adjustments = [filename,
                        filename.replace('%23', '#'),
                        filename + '.',
@@ -74,6 +90,7 @@ for i, key in enumerate(koker_groups.keys()):
                        filename.replace('(', '').replace(')', ''),
                        np.int_(filename.replace('.', '')) if filename.replace('.', '').isdigit() else '---']
 
+        # Match filenames with names from metadata sheet
         for adj_name in adjustments:
             df_koker_new = gms_dat[gms_dat['TEKENINGNUMMER'] == adj_name]
             koker_dat = koker_dat.append(df_koker_new)
@@ -93,32 +110,19 @@ for i, key in enumerate(koker_groups.keys()):
 
             # Check if building could be found
             if df_geb_new.empty:
-                building = df_gebouw_ontbreek[df_gebouw_ontbreek['Folder'] == key]['Building'].values[0]
-                gebouw_dat = gebouw_dat.append({'meest gangbare naam ': building}, ignore_index=True)
+                building = df_gebouw_ontbreek[df_gebouw_ontbreek['Folder'] == key]['Building'].values[0].lstrip(" ")
+                gebouw_dat = gebouw_dat.append({'nieuwe naam': building}, ignore_index=True)
 
-                df_kalktekening.loc[image.index, "meest gangbare naam "] = building
+                df_kalktekening.loc[image.index, "nieuwe naam"] = building
             else:
                 df_kalktekening.loc[image.index, geb_keys] = df_geb_new.values
 
-                # print('Cannot directly find building {}'.format(koker_dat['Gebouw'].values[0]))
-                # df_miss_building = df_miss_building.append({'uuid': image['ID'],
-                #                                             'url': url,
-                #                                             'filename': filename,
-                #                                             'folder': ref2,
-                #                                             'building': koker_dat['Gebouw'].values[0]},
-                #                                            ignore_index=True)
-
         json_manifest["sequences"][0]["canvases"][j]["label"] = koker_dat.iloc[-1]['OMSCHRIJVING'].lower().capitalize()
-        # ref_id = base_ref_id.format(ref2)+".json"
-        # mani = {"@id": ref_id,
-        #         "label": koker_dat.iloc[-1]['OMSCHRIJVING'],
-        #         "@type": "sc:Manifest"}
-        # manifests.append(mani)
 
     if gebouw_dat.empty:
         gebouw_naam = koker_dat['Gebouw'].values[0]
     else:
-        gebouw_naam = gebouw_dat.iloc[0]['meest gangbare naam ']
+        gebouw_naam = gebouw_dat.iloc[0]['nieuwe naam']
 
     # Input meta data for collection manifest
     meta = [{
@@ -147,14 +151,6 @@ for i, key in enumerate(koker_groups.keys()):
 
     json_manifest['metadata'] = meta
 
-    # Insert data into collection manifest
-    # json_out = {"label": ref2,
-    #             "metadata": meta,
-    #             "@id": base_ref_id.format(ref2, ref2),
-    #             "@type": "sc:Collection",
-    #             "@context": "http://iiif.io/api/presentation/2/context.json",
-    #             "manifests": manifests}
-
     koker_id = base_ref_id.format(ref2)
 
     koker_collection.append({
@@ -162,11 +158,6 @@ for i, key in enumerate(koker_groups.keys()):
         "@type": "sc:Manifest",
         "label": koker_dat.iloc[0]['Naam koker']
     })
-    # koker_collection[i] = {
-    #     "@id": koker_id,
-    #     "@type": "sc:Collection",
-    #     "label": koker_dat.iloc[0]['Naam koker']
-    # }
 
     json_year = json.dumps(json_manifest, indent=8)
     Path("manifests/kokers").mkdir(parents=True, exist_ok=True)
@@ -174,14 +165,14 @@ for i, key in enumerate(koker_groups.keys()):
         outfile.write(json_year)
 
 build_collection = []
-building_groups = df_kalktekening.groupby(['meest gangbare naam ']).indices
+building_groups = df_kalktekening.groupby(['nieuwe naam']).indices
 
 for i, key in enumerate(building_groups.keys()):
     init_build = df_kalktekening.loc[building_groups[key][0]]
     build_group = df_kalktekening.loc[building_groups[key]]
 
-    filename = key.replace(" ", "_").replace("/", "")
-    filename = filename.lstrip("_").replace("__", "_")
+    filename = key.lower().replace(" ", "-").replace("/", "")
+    filename = filename.lstrip("_").replace("-", "-").replace(",", "").replace("&", "")
 
     meta = [{
         "label": "Building",
@@ -220,11 +211,6 @@ for i, key in enumerate(building_groups.keys()):
         "@type": "sc:Collection",
         "label": key
     })
-    # build_collection[i] = {
-    #     "@id": build_id,
-    #     "@type": "sc:Collection",
-    #     "label": key
-    # }
 
     build_koker_group = build_group.groupby(['Reference2']).indices
 
@@ -236,15 +222,10 @@ for i, key in enumerate(building_groups.keys()):
             "@type": "sc:Manifest",
             "label": koker
         })
-        # collection[j] = {
-        #     "@id": koker_mani_location,
-        #     "@type": "sc:Collection",
-        #     "label": koker
-        # }
     build_manifest["collections"] = collection
     json_year = json.dumps(build_manifest, indent=8)
     Path("manifests/gebouwen").mkdir(parents=True, exist_ok=True)
-    with open("manifests/gebouwen/" + filename + ".json", "w") as outfile:
+    with open("manifests/gebouwen/" + filename.lower() + ".json", "w") as outfile:
         outfile.write(json_year)
 
 gebouwen_manifest = {

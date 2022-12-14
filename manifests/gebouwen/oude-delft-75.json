@@ -1,8 +1,8 @@
 {
         "@context": "http://iiif.io/api/presentation/2/context.json",
-        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/Oude_Delft_75.json",
+        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/oude-delft-75.json",
         "@type": "sc:Collection",
-        "label": " Oude Delft 75",
+        "label": "Oude Delft 75",
         "viewingHint": "top",
         "description": "",
         "attribution": "TU Delft Library",

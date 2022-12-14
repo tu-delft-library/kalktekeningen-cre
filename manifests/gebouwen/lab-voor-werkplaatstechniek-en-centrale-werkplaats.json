@@ -1,8 +1,8 @@
 {
         "@context": "http://iiif.io/api/presentation/2/context.json",
-        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/Lab_voor_werkplaatstechniek_en_centrale_werkplaats_(Gebouwnummer_32).json",
+        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/lab-voor-werkplaatstechniek-en-centrale-werkplaats.json",
         "@type": "sc:Collection",
-        "label": " Lab voor werkplaatstechniek en centrale werkplaats (Gebouwnummer 32)",
+        "label": "Lab voor Werkplaatstechniek en Centrale Werkplaats",
         "viewingHint": "top",
         "description": "",
         "attribution": "TU Delft Library",

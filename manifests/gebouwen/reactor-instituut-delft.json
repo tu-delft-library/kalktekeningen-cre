@@ -1,6 +1,6 @@
 {
         "@context": "http://iiif.io/api/presentation/2/context.json",
-        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/Reactor_Instituut_Delft.json",
+        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/reactor-instituut-delft.json",
         "@type": "sc:Collection",
         "label": "Reactor Instituut Delft",
         "viewingHint": "top",

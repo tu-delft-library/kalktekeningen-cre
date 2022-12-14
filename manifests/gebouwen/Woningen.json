@@ -1,8 +1,8 @@
 {
         "@context": "http://iiif.io/api/presentation/2/context.json",
-        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/Woningen.json",
+        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/woningen.json",
         "@type": "sc:Collection",
-        "label": " Woningen",
+        "label": "Woningen",
         "viewingHint": "top",
         "description": "",
         "attribution": "TU Delft Library",
@@ -11,6 +11,16 @@
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270875.json",
                         "@type": "sc:Manifest",
                         "label": "AA270875"
+                },
+                {
+                        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270927.json",
+                        "@type": "sc:Manifest",
+                        "label": "AA270927"
+                },
+                {
+                        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270984.json",
+                        "@type": "sc:Manifest",
+                        "label": "AA270984"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270989.json",
