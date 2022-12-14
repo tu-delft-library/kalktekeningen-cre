@@ -1,8 +1,8 @@
 {
         "@context": "http://iiif.io/api/presentation/2/context.json",
-        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/Civiele_Techniek_en_Geowetenschappen_(CiTG).json",
+        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/civiele-techniek-en-geowetenschappen.json",
         "@type": "sc:Collection",
-        "label": "Civiele Techniek en Geowetenschappen (CiTG)",
+        "label": "Civiele Techniek en Geowetenschappen",
         "viewingHint": "top",
         "description": "",
         "attribution": "TU Delft Library",

@@ -1,8 +1,8 @@
 {
         "@context": "http://iiif.io/api/presentation/2/context.json",
-        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/Vergaderzaal_van_den_Senaat_(Oude_Delft_118).json",
+        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/oude-delft-118-(vergaderzaal-van-den-senaat).json",
         "@type": "sc:Collection",
-        "label": " Vergaderzaal van den Senaat (Oude Delft 118)",
+        "label": "Oude Delft 118 (Vergaderzaal van den Senaat)",
         "viewingHint": "top",
         "description": "",
         "attribution": "TU Delft Library",

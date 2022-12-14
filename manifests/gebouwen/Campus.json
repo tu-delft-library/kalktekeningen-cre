@@ -1,8 +1,8 @@
 {
         "@context": "http://iiif.io/api/presentation/2/context.json",
-        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/Campus.json",
+        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/campus.json",
         "@type": "sc:Collection",
-        "label": " Campus",
+        "label": "Campus",
         "viewingHint": "top",
         "description": "",
         "attribution": "TU Delft Library",
@@ -31,6 +31,11 @@
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270960.json",
                         "@type": "sc:Manifest",
                         "label": "AA270960"
+                },
+                {
+                        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270985.json",
+                        "@type": "sc:Manifest",
+                        "label": "AA270985"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270992.json",

@@ -1,8 +1,8 @@
 {
         "@context": "http://iiif.io/api/presentation/2/context.json",
-        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/TNO_Leeghwaterstraat_44_Hal_Leeghwaterstraat_44a.json",
+        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/tno-leeghwaterstraat-44.json",
         "@type": "sc:Collection",
-        "label": "TNO Leeghwaterstraat 44 / Hal Leeghwaterstraat 44a",
+        "label": "TNO Leeghwaterstraat 44",
         "viewingHint": "top",
         "description": "",
         "attribution": "TU Delft Library",

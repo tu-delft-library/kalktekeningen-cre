@@ -1,8 +1,8 @@
 {
         "@context": "http://iiif.io/api/presentation/2/context.json",
-        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/Werktuigbouwkunde,_Maritieme_Techniek,_Technische_Materiaalwetenschappen_(3mE).json",
+        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/werktuigbouwkunde-maritieme-techniek-technische-materiaalwetenschappen.json",
         "@type": "sc:Collection",
-        "label": "Werktuigbouwkunde, Maritieme Techniek, Technische Materiaalwetenschappen (3mE)",
+        "label": "Werktuigbouwkunde, Maritieme Techniek, Technische Materiaalwetenschappen",
         "viewingHint": "top",
         "description": "",
         "attribution": "TU Delft Library",

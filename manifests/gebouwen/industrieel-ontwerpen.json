@@ -1,8 +1,8 @@
 {
         "@context": "http://iiif.io/api/presentation/2/context.json",
-        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/Industrieel_Ontwerpen_(IO).json",
+        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/industrieel-ontwerpen.json",
         "@type": "sc:Collection",
-        "label": "Industrieel Ontwerpen (IO)",
+        "label": "Industrieel Ontwerpen",
         "viewingHint": "top",
         "description": "",
         "attribution": "TU Delft Library",

@@ -1,8 +1,8 @@
 {
         "@context": "http://iiif.io/api/presentation/2/context.json",
-        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/Elektrotechniek,_Wiskunde_en_Informatica_(EWI).json",
+        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/elektrotechniek-wiskunde-en-informatica.json",
         "@type": "sc:Collection",
-        "label": "Elektrotechniek, Wiskunde en Informatica (EWI)",
+        "label": "Elektrotechniek, Wiskunde en Informatica",
         "viewingHint": "top",
         "description": "",
         "attribution": "TU Delft Library",

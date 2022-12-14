@@ -1,8 +1,8 @@
 {
         "@context": "http://iiif.io/api/presentation/2/context.json",
-        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/Gebouw_Kanaalweg_4.json",
+        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/kanaalweg-4.json",
         "@type": "sc:Collection",
-        "label": "Gebouw Kanaalweg 4",
+        "label": "Kanaalweg 4",
         "viewingHint": "top",
         "description": "",
         "attribution": "TU Delft Library",

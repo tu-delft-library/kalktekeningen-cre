@@ -1,8 +1,8 @@
 {
         "@context": "http://iiif.io/api/presentation/2/context.json",
-        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/Bouwkunde_(BK).json",
+        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/bouwkunde.json",
         "@type": "sc:Collection",
-        "label": "Bouwkunde (BK)",
+        "label": "Bouwkunde",
         "viewingHint": "top",
         "description": "",
         "attribution": "TU Delft Library",

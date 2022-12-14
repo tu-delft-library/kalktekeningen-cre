@@ -1,6 +1,6 @@
 {
         "@context": "http://iiif.io/api/presentation/2/context.json",
-        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/Hoge_Snelheden_Laboratorium.json",
+        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/hoge-snelheden-laboratorium.json",
         "@type": "sc:Collection",
         "label": "Hoge Snelheden Laboratorium",
         "viewingHint": "top",
