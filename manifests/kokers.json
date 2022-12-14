@@ -9,1187 +9,1187 @@
         "collections": [
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA013886.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Gepskasten gebouw 22"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA013887.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Gepskasten gebouw 22"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270861.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "W en S    IWECO"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270867.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Technische natuurkunde"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270868.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "TNW"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270869.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "TNW"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270870.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "W en S Werkplaats techniek"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270871.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "W en S"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270872.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "W en S Sleeptank"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270873.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Elektroteechniek hoogbouw"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270874.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Elektroteechniek hoogbouw"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270875.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Woningen Michiel de Ruyterweg huisnr. 33 tm 39"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270876.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "W en S werkplaatstechniek"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270877.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "W en S werkplaatstechniek fase 2"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270878.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "W en S Uitbreiding voertuigentechniek"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270879.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "W en S Werkplaats techniek"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270881.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "W en S Werkplaats techniek fase 2"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270882.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "W en S Kantine"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270883.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "W en S Kantine"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270884.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "W en S werkplaats techniek"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270885.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "W en S werkplaats techniek"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270886.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "W en S Werkplaats techniek"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270887.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "W en S Werkplaats techniek"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270888.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "W en S diverse architecten revisie"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270889.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "W en S werkplaats techniek"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270890.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "W en S voertuigtechniek uitbreiding"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270891.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "W en S werkplaats techniek"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270892.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "W en S werkplaatstechniek fase 2"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270893.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "W en S"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270894.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "W en S werkplaatstechniek"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270895.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "W en S werkplaatstechniek"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270896.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "W en S"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270897.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "W en S werkplaats techniek"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270898.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "W en S"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270899.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "W en S Sleeptank"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270900.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": " W en S werkplaats techniek"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270901.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "W en S Werkplaats techniek"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270902.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "W en S werkplaatstechniek"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270903.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "W en S Werkplaats techniek"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270904.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "W en S Werkplaats techniek"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270905.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "W en S Kantine"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270906.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "W en S "
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270907.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "W en S werkplaats techniek"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270908.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "W en S Sleeptank"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270909.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Biologisch centrum revisie"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270910.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Biologisch centrum "
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270911.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Scheikunde"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270912.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Scheikunde"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270913.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Scheikunde"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270914.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Scheikunde"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270915.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Flip over sheets "
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270916.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "oude delft 75"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270917.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Terrein"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270918.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "afstandsverwarmingskoker 23-09-1986"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270919.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Terrein"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270920.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "W en S werkplaats techniek"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270921.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Civiele techniek hoofdgebouw binnenriolering"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270922.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "W en S voertuigtechniek uitbreiding"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270923.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "W en S voertuigtechniek uitbreiding"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270924.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "W en S werkplaats techniek"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270925.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "W en S Sleeptank"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270926.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Biologisch centrum"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270927.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Woningen biologisch centrum"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270928.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Hoge snelheden"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270929.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "CENTRALE VERWARMING WATER GAS PERSLUCHT EN AFVOER"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270930.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "C.ST. 2e en 3e verd. Blok 4 TN"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270931.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Biologisch centrum"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270932.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Biologisch centrum"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270933.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Biologisch centrum"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270934.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Biologisch centrum"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270935.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Micro biologie"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270936.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Cultuurtuin"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270937.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Biologisch centrum"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270938.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Biologisch centrum"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270939.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Biologisch centrum"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270940.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "W en S Sleeptank"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270941.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "IWECO"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270942.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "W en S werkplaats techniek"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270943.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "IWECO"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270944.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "W en S uitbreiding voertuigentechniek"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270946.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "IWECO"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270947.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "IWECO"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270948.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "IWECO"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270949.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "W en S reserve"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270950.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "IWECO"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270951.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "IWECO"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270952.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "IWECO"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270953.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "IWECO"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270954.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "IWECO"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270955.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "IWECO"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270956.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "IWECO"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270957.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Technische Natuurkunde lab TPD TNO 3e verdieping uitbreiding vleugel E"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270958.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Tecnische Natuurkunde diverse"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270959.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Technische Natuurkunde"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270960.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Master-plan"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270961.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Hoofdgebouw RGD Constructie tekeningen"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270962.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Technische natuurkunde"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270963.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Oude delft 39"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270964.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Technische mechanica"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270965.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Chemische technologie"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270966.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Scheepscontructie en technische mechanica"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270967.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Technische mechanica "
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270968.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Technische mechanica"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270969.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Hoofdgebouw RGD Constructie tekeningen"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270970.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Aula bestekstekeningen"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270971.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Scheepconstructie dakopbouw"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270972.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Hoofdgebouw RGD tekeningen legger 1"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270973.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Technische mechanica"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270974.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Hoofdgebouw"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270975.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Hoofdgebouw RGD constructief Legger 3"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270976.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Hoofdgebouw rgd constructie legger 5"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270977.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Hoofdgebouw RGD Constructie tekeningen"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270978.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "oude Delft 118 - vergaderzaal van de senaat"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270979.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Hoofdgebouw RDG constructie"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270980.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Hoofdgebouw RGD Constructie tekeningen legger 4"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270981.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Elektrotechniek hoogbouw"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270982.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Elektrotechniek hoogbouw"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270984.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Tuinmanswoning julianalaan"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270985.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Wegen en terreinen aan en verbouw"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270986.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Sportgebouw"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270987.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Sted. Voorst."
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270988.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Terrein"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270989.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Woningen aan en verbouw"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270990.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "IRI diverse"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270991.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Stuurvijver"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270992.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Oude situatie"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270993.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Aero/Hydrod"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270994.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Wegen en terreinen aan en verbouw"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270995.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Vliegtuighal "
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270996.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Elektrotechniek hoogbouw"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270997.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Elektrotechniek hoogbouw"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270998.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Elektrotechniek hoogbouw"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270999.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Elektrotechniek hoogbouw"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271000.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Elektrotechniek hoogbouw"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271001.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Elektrotechniek hoogbouw"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271002.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Elektrotechniek lage voorbouw"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271003.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "IWECO"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271004.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "W en S"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271005.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "IWECO"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271007.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "W en S Werkplaats techniek"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271008.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Scheikunde"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271009.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Scheikunde"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271010.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Scheikunde"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271011.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Scheikunde Autoclaven Lab "
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271012.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Elektrotechniek hoogbouw"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271013.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Elektrotechniek hoogbouw"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271014.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Elektrotechniek lage voorbouw"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271015.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Elektrotechniek lage voorbouw"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271016.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Elektrotechniek lage voorbouw platte grond"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271017.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Elektrotechniek hoogbouw"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271018.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Elektrotechniek hoogbouw"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271019.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Elektrotechniek hoogbouw"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271020.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Elektrotechniek hoogbouw"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271021.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Elektrotechniek lage voorbouw"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271022.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Elektrotechniek tussenstuk lage voorbouw"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271023.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Elektrotechniek lage voorbouw LVS"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271024.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Elektrotechniek lage voorbouw"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271025.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Elektrotechniek lage voorbouw"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271026.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Vliegtuighal "
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271027.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Vliegtuighal "
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271028.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Vliegtuighal "
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271029.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Hoge snelheden"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271030.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Hoge snelheden"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271031.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Hoge snelheden"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271032.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Hoge snelheden"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271033.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Hoge snelheden"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271034.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Hoge snelheden"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271035.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Kanaalweg"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271036.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Bewaken Geodesie mooi"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271037.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Biotechnology kalks riool verdiepingen"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271038.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Bouwkunde Leidinschachten"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271039.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Bouwkunde aangifte stalenramen"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271040.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Bouwkunde"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271041.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Bouwkunde diverse architect Valk"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271042.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Bouwkunde stalen ramen van heist"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271043.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Bouwkunde bestekstekeningen"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271044.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Bouwkunde stalen ramen van heist"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271045.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Bouwkunde bestekstekeningen"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271046.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Bouwkunde hang en sluitwerk"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271047.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Bouwkunde afwerking"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271048.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Civiele techniek hoofdgebouw binnenriolering"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271049.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Civile techniek Waterbouwkundig LAB"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271050.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Civiele techniek klimaatkamer"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271051.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Elektrotechniek hoofdgebouw"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271052.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Civiele techniek bestekstekeningen"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271053.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Civiele techniek hoofdgebouw binnenriolering"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271054.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Civiele techniek stevin 2 bestekstekeningen"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271055.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Civiele techniek Gezondheidst. Bestekstekeningen"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271056.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Apparatenbouw"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271057.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Apparatenbouw"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271058.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Apparatenbouw"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271059.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Apparatenbouw"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271060.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Apparatenbouw"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271061.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "CMC"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271062.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "CMC"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271063.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "CMC"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271064.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "CMC"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271065.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Windtunnel"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271066.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Windtunnel uitbreiding"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271067.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Windtunnel uitbreiding"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271068.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Windtunnel uitbreiding"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271069.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Windtunnel uitbreiding"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271070.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Windtunnel uitbreiding"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271071.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Windtunnel uitbreiding"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271072.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Windtunnel uitbreiding"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271073.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Windtunnel uitbreiding"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271074.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Elektotechniek lage hallen"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271075.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Elektrotechniek lage hallen"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271076.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Elektrotechniek lage hallen"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271077.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Elektrotechniek lage hallen"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271078.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Elektrotechniek voorbouw hoogspanningshal"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271079.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Elektrotechniek voorbouw hoogspanningshal"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271080.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Elekrotechniek hoogbouw"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271081.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Elektrotechniek hoogbouw"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271082.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Elektrotechniek hoogbouw"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271083.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Elektrotechniek hoogbouw"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271084.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Elektrotechniek"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271085.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Elektrotechniek hoogbouw"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271086.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Elektrotechniek hoogbouw"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271087.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Constructie voorbouw"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271088.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Elektrotechniek hoogspanningshal"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271089.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Elektrotechniek hoogspanningshal"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271090.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Elektrotechniek lage hallen"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271091.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Elektrotechniek architect dubbel"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271092.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Elektrotechniek architect vervallen"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271093.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Elektrotechniek algemeen verzamelstaten hang en sluitwerk binnendeuren interieur "
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271094.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Elektrotechniek proefkamer"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271095.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Elektrotechniek collegezalen"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271096.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Elektrotechniek collegezalen"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271097.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Elektrotechniek hoogbouw verbouwing"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271098.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Elektrotechniek proefkamer"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271099.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Elektrotechniek diverse architect"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271100.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Elektotechniek collegezalen"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271101.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Elektrotechniek collegezalen"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271102.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Elektrotechniek verbindingsgang"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271103.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Elektrotechniek hoogbouw"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA271104.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Bouwkunde architect"
                 }
         ]

@@ -159,7 +159,7 @@ for i, key in enumerate(koker_groups.keys()):
 
     koker_collection.append({
         "@id": koker_id,
-        "@type": "sc:Collection",
+        "@type": "sc:Manifest",
         "label": koker_dat.iloc[0]['Naam koker']
     })
     # koker_collection[i] = {
@@ -217,7 +217,7 @@ for i, key in enumerate(building_groups.keys()):
 
     build_collection.append({
         "@id": build_id,
-        "@type": "sc:Manifest",
+        "@type": "sc:Collection",
         "label": key
     })
     # build_collection[i] = {
