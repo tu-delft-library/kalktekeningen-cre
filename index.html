@@ -1,0 +1,74 @@
+---
+---
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    />
+    <link rel="icon" href="favicon.ico" />
+    <title>Kalktekeningen CRE</title>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/universalviewer@4.0.0/dist/uv.css"
+    />
+    <script
+      type="application/javascript"
+      src="https://cdn.jsdelivr.net/npm/universalviewer@4.0.0/dist/umd/UV.js"
+    ></script>
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="uv" class="uv"></div>
+
+    <script type="text/javascript">
+
+      const data = {
+        manifest: "https://tu-delft-library.github.io/kalktekeningen-cre/manifests/gebouwen.json"
+      };
+
+      uv = UV.init("uv", data);
+
+      uv.on("configure", function ({ config, cb }) {
+        cb({
+          options: {
+            pagingEnabled: false
+          },
+          modules: {
+            contentLeftPanel: {
+               options: {
+                autoExpandTreeEnabled: true,
+                autoExpandTreeIfFewerThan: 100,
+                defaultToTreeEnabled: true
+               }
+            }
+          }
+        });
+      });
+    </script>
+
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        var $UV = document.getElementById("uv");
+
+        function resize() {
+          $UV.setAttribute("style", "width:" + window.innerWidth + "px");
+          $UV.setAttribute("style", "height:" + window.innerHeight + "px");
+        }
+
+        document.addEventListener("resize", function () {
+          resize();
+        });
+
+        resize();
+      });
+    </script>
+  </body>
+</html>
