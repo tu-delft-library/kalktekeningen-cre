@@ -9,12 +9,12 @@
         "collections": [
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270975.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "AA270975"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270987.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "AA270987"
                 }
         ]

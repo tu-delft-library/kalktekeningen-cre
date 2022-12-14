@@ -9,157 +9,157 @@
         "collections": [
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/Ambtswoningen_Biologisch_Centrum_Delft.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": " Ambtswoningen Biologisch Centrum Delft"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/Campus.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": " Campus"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/Campus_(Stieltjesweg).json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": " Campus (Stieltjesweg)"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/Lab_voor_werkplaatstechniek_en_centrale_werkplaats_(Gebouwnummer_32).json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": " Lab voor werkplaatstechniek en centrale werkplaats (Gebouwnummer 32)"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/Library_(Gebouwnummer_21).json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": " Library (Gebouwnummer 21)"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/Oude_Delft_75.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": " Oude Delft 75"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/Verbouwing_Bouwkunde_(Oude_Delft_39a).json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": " Verbouwing Bouwkunde (Oude Delft 39a)"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/Vergaderzaal_van_den_Senaat_(Oude_Delft_118).json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": " Vergaderzaal van den Senaat (Oude Delft 118)"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/Woningen.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": " Woningen"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/Aula_Congrescentrum.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Aula Congrescentrum"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/Biotechnologie.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Biotechnologie"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/Bouwkunde_(BK).json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Bouwkunde (BK)"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/Chemische_Technologie.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Chemische Technologie"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/Civiele_Techniek_en_Geowetenschappen_(CiTG).json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Civiele Techniek en Geowetenschappen (CiTG)"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/Elektrotechniek,_Wiskunde_en_Informatica_(EWI).json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Elektrotechniek, Wiskunde en Informatica (EWI)"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/Fysische_en_Chemische_Technologie.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Fysische en Chemische Technologie"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/Gebouw_Kanaalweg_4.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Gebouw Kanaalweg 4"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/Gebouw_Rotterdamseweg_145.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Gebouw Rotterdamseweg 145"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/Hoge_Snelheden_Laboratorium.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Hoge Snelheden Laboratorium"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/Industrieel_Ontwerpen_(IO).json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Industrieel Ontwerpen (IO)"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/Lage_Snelheden_Laboratorium_VSSD_Inholland.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Lage Snelheden Laboratorium / VSSD / Inholland"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/Logistiek_&_Milieu.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Logistiek & Milieu"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/Reactor_Instituut_Delft.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Reactor Instituut Delft"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/Science_Centre_Delft.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Science Centre Delft"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/Sport.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Sport"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/TNO_Leeghwaterstraat_44_Hal_Leeghwaterstraat_44a.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "TNO Leeghwaterstraat 44 / Hal Leeghwaterstraat 44a"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/Technische_Natuurkunde.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Technische Natuurkunde"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/Vliegtuighal.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Vliegtuighal"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/Werktuigbouwkunde,_Maritieme_Techniek,_Technische_Materiaalwetenschappen_(3mE).json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Werktuigbouwkunde, Maritieme Techniek, Technische Materiaalwetenschappen (3mE)"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/Woning_Julianalaan_65.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "Woning Julianalaan 65"
                 },
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/voorheen_Bouwkunde_Berlageweg_1.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "voorheen Bouwkunde Berlageweg 1"
                 }
         ]

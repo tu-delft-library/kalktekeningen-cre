@@ -9,7 +9,7 @@
         "collections": [
                 {
                         "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270900.json",
-                        "@type": "sc:Collection",
+                        "@type": "sc:Manifest",
                         "label": "AA270900"
                 }
         ]

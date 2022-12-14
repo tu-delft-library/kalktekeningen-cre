@@ -65,7 +65,7 @@ for i, key in enumerate(koker_groups.keys()):
         # for j, im_nr in enumerate(koker_groups[key]):
         #     image = df_kalktekening.loc[im_nr]
         url = image['Origin'].values[0]
-        filename = url.split('/')[-1].strip('.jpg').replace('%20', ' ')
+        filename = url.split('/')[-1].rstrip('.jpg').replace('%20', ' ')
 
         adjustments = [filename,
                        filename.replace('%23', '#'),
@@ -217,7 +217,7 @@ for i, key in enumerate(building_groups.keys()):
 
     build_collection.append({
         "@id": build_id,
-        "@type": "sc:Collection",
+        "@type": "sc:Manifest",
         "label": key
     })
     # build_collection[i] = {
@@ -233,7 +233,7 @@ for i, key in enumerate(building_groups.keys()):
         koker_mani_location = base_ref_id.format(koker)
         collection.append({
             "@id": koker_mani_location,
-            "@type": "sc:Collection",
+            "@type": "sc:Manifest",
             "label": koker
         })
         # collection[j] = {
@@ -265,7 +265,7 @@ with open("manifests/gebouwen.json", "w") as outfile:
 kokers_manifest = {
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers.json",
-    "@type": "sc:Manifest",
+    "@type": "sc:Collection",
     "label": "Kokers",
     "viewingHint": "top",
     "description": "",
