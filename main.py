@@ -265,7 +265,7 @@ with open("manifests/gebouwen.json", "w") as outfile:
 kokers_manifest = {
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers.json",
-    "@type": "sc:Collection",
+    "@type": "sc:Manifest",
     "label": "Kokers",
     "viewingHint": "top",
     "description": "",
