@@ -1,6 +1,6 @@
 {
         "@context": "http://iiif.io/api/presentation/2/context.json",
-        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/oude-delft-118-(vergaderzaal-van-den-senaat).json",
+        "@id": "https://tu-delft-library.github.io/kalktekeningen-cre/manifests//gebouwen/oude-delft-118-vergaderzaal-van-den-senaat.json",
         "@type": "sc:Collection",
         "label": "Oude Delft 118 (Vergaderzaal van den Senaat)",
         "viewingHint": "top",
@@ -8,7 +8,7 @@
         "attribution": "TU Delft Library",
         "collections": [
                 {
-                        "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/AA270978.json",
+                        "@id": "https://tu-delft-library.github.io/kalktekeningen-cre/manifests/kokers/AA270978",
                         "@type": "sc:Manifest",
                         "label": "AA270978"
                 }

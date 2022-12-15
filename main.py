@@ -9,7 +9,7 @@ from pathlib import Path
 import json
 from collections import OrderedDict
 
-# TO DO: Alphabetically sort building names
+# TO DO: Alphabetically sort building names, change id's for published repo
 
 def ordered(d, desired_key_order):
     return OrderedDict([(key, d[key]) for key in desired_key_order])
@@ -29,6 +29,7 @@ df_gebouw_ontbreek = pd.read_table('additional_buildings.txt',
 # Base urls
 dlcs_base = "https://dlc.services/iiif-resource/7/string1string2string3/{}/{}"
 base_ref_id = "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers/{}.json"
+base_url = "https://tu-delft-library.github.io/kalktekeningen-cre/manifests/"
 
 # Group kalktekeningen by koker name (Reference2)
 koker_groups = df_kalktekening.groupby('Reference2').indices
@@ -151,12 +152,12 @@ for i, key in enumerate(koker_groups.keys()):
 
     json_manifest['metadata'] = meta
 
-    koker_id = base_ref_id.format(ref2)
+    koker_id = base_url+"kokers/"+ref2
 
     koker_collection.append({
         "@id": koker_id,
         "@type": "sc:Manifest",
-        "label": koker_dat.iloc[0]['Naam koker']
+        "label": koker_dat.iloc[0]['Naam koker'].lstrip(" ")
     })
 
     json_year = json.dumps(json_manifest, indent=8)
@@ -172,7 +173,8 @@ for i, key in enumerate(building_groups.keys()):
     build_group = df_kalktekening.loc[building_groups[key]]
 
     filename = key.lower().replace(" ", "-").replace("/", "")
-    filename = filename.lstrip("_").replace("-", "-").replace(",", "").replace("&", "")
+    filename = filename.lstrip("_").replace(",", "").replace("&", "en").replace("(", "").replace(")", "")
+    filename = filename.replace("--", "-")
 
     meta = [{
         "label": "Building",
@@ -194,7 +196,7 @@ for i, key in enumerate(building_groups.keys()):
             "value": str(init_build['Vleugel'])
         })
 
-    build_id = "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen/{}.json".format(filename)
+    build_id = base_url+"/gebouwen/{}.json".format(filename)
     build_manifest = {
         "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": build_id,
@@ -216,7 +218,7 @@ for i, key in enumerate(building_groups.keys()):
 
     collection = []
     for j, koker in enumerate(build_koker_group.keys()):
-        koker_mani_location = base_ref_id.format(koker)
+        koker_mani_location = base_url+"kokers/"+koker
         collection.append({
             "@id": koker_mani_location,
             "@type": "sc:Manifest",
@@ -230,7 +232,7 @@ for i, key in enumerate(building_groups.keys()):
 
 gebouwen_manifest = {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/gebouwen.json",
+    "@id": base_url+"gebouwen.json",
     "@type": "sc:Collection",
     "label": "Gebouwen",
     "viewingHint": "top",
@@ -242,10 +244,16 @@ json_out = json.dumps(gebouwen_manifest, indent=8)
 with open("manifests/gebouwen.json", "w") as outfile:
     outfile.write(json_out)
 
+df_kokers = pd.DataFrame(koker_collection)
+df_kokers = df_kokers.sort_values("label")
+koker_collection = []
+for i, koker in df_kokers.iterrows():
+    koker_collection.append(koker.to_dict())
+
 
 kokers_manifest = {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://raw.githubusercontent.com/tu-delft-library/kalktekeningen-cre/main/manifests/kokers.json",
+    "@id": base_url+"kokers.json",
     "@type": "sc:Collection",
     "label": "Kokers",
     "viewingHint": "top",
