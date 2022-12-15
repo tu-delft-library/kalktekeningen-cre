@@ -152,7 +152,7 @@ for i, key in enumerate(koker_groups.keys()):
 
     json_manifest['metadata'] = meta
 
-    koker_id = base_url+"kokers/"+ref2
+    koker_id = base_url+"kokers/"+ref2+".json"
 
     koker_collection.append({
         "@id": koker_id,
@@ -218,7 +218,7 @@ for i, key in enumerate(building_groups.keys()):
 
     collection = []
     for j, koker in enumerate(build_koker_group.keys()):
-        koker_mani_location = base_url+"kokers/"+koker
+        koker_mani_location = base_url+"kokers/"+koker+".json"
         collection.append({
             "@id": koker_mani_location,
             "@type": "sc:Manifest",

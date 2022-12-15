@@ -8,7 +8,7 @@
         "attribution": "TU Delft Library",
         "collections": [
                 {
-                        "@id": "https://tu-delft-library.github.io/kalktekeningen-cre/manifests/kokers/AA270900",
+                        "@id": "https://tu-delft-library.github.io/kalktekeningen-cre/manifests/kokers/AA270900.json",
                         "@type": "sc:Manifest",
                         "label": "AA270900"
                 }
