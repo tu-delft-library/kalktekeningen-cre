@@ -1,0 +1,31 @@
+{
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "https://tu-delft-library.github.io/kalktekeningen-cre/manifests/gebouwen/logistiek-en-milieu.json",
+        "@type": "sc:Collection",
+        "label": "Logistiek & Milieu",
+        "viewingHint": "top",
+        "description": "",
+        "attribution": "TU Delft Library",
+        "collections": [
+                {
+                        "@id": "https://tu-delft-library.github.io/kalktekeningen-cre/manifests/kokers/AA271061.json",
+                        "@type": "sc:Manifest",
+                        "label": "AA271061"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/kalktekeningen-cre/manifests/kokers/AA271062.json",
+                        "@type": "sc:Manifest",
+                        "label": "AA271062"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/kalktekeningen-cre/manifests/kokers/AA271063.json",
+                        "@type": "sc:Manifest",
+                        "label": "AA271063"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/kalktekeningen-cre/manifests/kokers/AA271064.json",
+                        "@type": "sc:Manifest",
+                        "label": "AA271064"
+                }
+        ]
+}

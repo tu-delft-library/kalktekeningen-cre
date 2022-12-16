@@ -1,0 +1,16 @@
+{
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "https://tu-delft-library.github.io/kalktekeningen-cre/manifests/gebouwen/library.json",
+        "@type": "sc:Collection",
+        "label": "Library",
+        "viewingHint": "top",
+        "description": "",
+        "attribution": "TU Delft Library",
+        "collections": [
+                {
+                        "@id": "https://tu-delft-library.github.io/kalktekeningen-cre/manifests/kokers/AA270988.json",
+                        "@type": "sc:Manifest",
+                        "label": "AA270988"
+                }
+        ]
+}

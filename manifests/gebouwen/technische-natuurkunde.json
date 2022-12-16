@@ -1,0 +1,66 @@
+{
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "https://tu-delft-library.github.io/kalktekeningen-cre/manifests/gebouwen/technische-natuurkunde.json",
+        "@type": "sc:Collection",
+        "label": "Technische Natuurkunde",
+        "viewingHint": "top",
+        "description": "",
+        "attribution": "TU Delft Library",
+        "collections": [
+                {
+                        "@id": "https://tu-delft-library.github.io/kalktekeningen-cre/manifests/kokers/AA013886.json",
+                        "@type": "sc:Manifest",
+                        "label": "AA013886"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/kalktekeningen-cre/manifests/kokers/AA013887.json",
+                        "@type": "sc:Manifest",
+                        "label": "AA013887"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/kalktekeningen-cre/manifests/kokers/AA270867.json",
+                        "@type": "sc:Manifest",
+                        "label": "AA270867"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/kalktekeningen-cre/manifests/kokers/AA270868.json",
+                        "@type": "sc:Manifest",
+                        "label": "AA270868"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/kalktekeningen-cre/manifests/kokers/AA270869.json",
+                        "@type": "sc:Manifest",
+                        "label": "AA270869"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/kalktekeningen-cre/manifests/kokers/AA270929.json",
+                        "@type": "sc:Manifest",
+                        "label": "AA270929"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/kalktekeningen-cre/manifests/kokers/AA270930.json",
+                        "@type": "sc:Manifest",
+                        "label": "AA270930"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/kalktekeningen-cre/manifests/kokers/AA270957.json",
+                        "@type": "sc:Manifest",
+                        "label": "AA270957"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/kalktekeningen-cre/manifests/kokers/AA270958.json",
+                        "@type": "sc:Manifest",
+                        "label": "AA270958"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/kalktekeningen-cre/manifests/kokers/AA270959.json",
+                        "@type": "sc:Manifest",
+                        "label": "AA270959"
+                },
+                {
+                        "@id": "https://tu-delft-library.github.io/kalktekeningen-cre/manifests/kokers/AA270962.json",
+                        "@type": "sc:Manifest",
+                        "label": "AA270962"
+                }
+        ]
+}
