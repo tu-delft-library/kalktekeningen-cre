@@ -196,7 +196,7 @@ for i, key in enumerate(building_groups.keys()):
             "value": str(init_build['Vleugel'])
         })
 
-    build_id = base_url+"/gebouwen/{}.json".format(filename)
+    build_id = base_url+"gebouwen/{}.json".format(filename)
     build_manifest = {
         "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": build_id,
@@ -246,10 +246,32 @@ with open("manifests/gebouwen.json", "w") as outfile:
 
 df_kokers = pd.DataFrame(koker_collection)
 df_kokers = df_kokers.sort_values("label")
+
+# koker_col_groups = df_kokers.groupby("label").indices
 koker_collection = []
 for i, koker in df_kokers.iterrows():
     koker_collection.append(koker.to_dict())
 
+# for i, koker in enumerate(koker_col_groups.keys()):
+#     koker_col_name = koker.lower().replace(" ", "-")
+#     koker_indices = koker_col_groups[koker]
+#     if len(koker_indices) == 1:
+#         koker_collection.append(koker.to_dict())
+#     else:
+#         label_collection = []
+#         for koker_index in koker_indices:
+#             koker_info = df_kokers.loc[koker_index]
+#
+#             koker_label_id = base_url+"kokers/koker_collection/{}.json".format(koker_col_name)
+#             label_collection.append({
+#                 "@id": koker_label_id,
+#                 "@type": "sc:Manifest",
+#                 "label": koker_info[]
+#             })
+#
+#         new_koker_collection = {
+#
+#         }
 
 kokers_manifest = {
     "@context": "http://iiif.io/api/presentation/2/context.json",
